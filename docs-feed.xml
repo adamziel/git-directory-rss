@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2025-12-12T17:33:41.873Z</updated>
+<updated>2025-12-12T17:37:10.210Z</updated>
 <entry>
 <id>bb6fd78035d991c86a0f0312323698f16e459eaf</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf" rel="alternate" type="text/html"/>
@@ -170,6 +170,39 @@ Removed redundant sections and clarified the use of experimental flags.
 cc @fellyph</content>
 </entry>
 <entry>
+<id>dc68872e628f6c42d1e938b1664166ba0140b273</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/dc68872e628f6c42d1e938b1664166ba0140b273" rel="alternate" type="text/html"/>
+<updated>2025-11-27T23:08:30.000Z</updated>
+<title>[PHP] Upgrade GD to 2.3.3 (#2944)</title>
+<content>Changed files:
+- developers/03-build-an-app/01-index.md
+
+[PHP] Upgrade GD to 2.3.3 (#2944)
+
+## Motivation for the change, related issues
+
+Upgrades GD version to 2.3.3. The EWWW Image Optimizer relies on GD
+library features shipped with a more recent GD version than the one
+bundled with PHP. See
+https://github.com/nosilver4u/ewww-image-optimizer/pull/377
+
+## Implementation details
+
+PHP comes with a bundled GD version 2.1.0. Upgrading to 2.3.3 involves:
+
+* Downloading and building 2.3.3 as a separate library (living in
+`packages/php-wasm/compile/libgd`)
+* Using it while compiling PHP 8.1+ via `--with-external-gd`
+* Falling back to the bundled libgd==2.1.0 for PHP &lt;= 8.0. These older
+PHP releases don't seem to be compatible with newer GD and fail to build
+due to multiple missing symbols, e.g. `/root/php-src/ext/gd/gd.c:3536:8:
+error: use of undeclared identifier 'GD_FLIP_VERTICAL'`.
+
+## Testing Instructions (or ideally a Blueprint)
+
+CI – we have tests covering `gd` across all PHP versions.</content>
+</entry>
+<entry>
 <id>8232be378614d3da9c8bd21e3a3be55a5a0024c5</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/8232be378614d3da9c8bd21e3a3be55a5a0024c5" rel="alternate" type="text/html"/>
 <updated>2025-11-26T19:40:39.000Z</updated>
@@ -303,5 +336,14 @@ Found 1 documentation page(s) not linked in any sidebar:
 Co-authored-by: copilot-swe-agent[bot] &lt;198982749+Copilot@users.noreply.github.com&gt;
 Co-authored-by: adamziel &lt;205419+adamziel@users.noreply.github.com&gt;
 Co-authored-by: Adam Zieliński &lt;adam@adamziel.com&gt;</content>
+</entry>
+<entry>
+<id>cd4a785275f5f4a1222ecbb905a9140c29e513e1</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/cd4a785275f5f4a1222ecbb905a9140c29e513e1" rel="alternate" type="text/html"/>
+<updated>2025-11-17T08:06:36.000Z</updated>
+<title>Refresh WordPress Nightly</title>
+<content>(Changed files not available - parent commit outside fetch depth)
+
+Refresh WordPress Nightly</content>
 </entry>
 </feed>
