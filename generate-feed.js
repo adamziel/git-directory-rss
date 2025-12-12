@@ -8,7 +8,10 @@ const feed = await rssForPath(
   'packages/docs/site/docs',
   {
     depth: 100,
-    skipPatterns: [/changelog\.md$/i]
+    skipPatterns: [/changelog\.md$/i],
+    // Disable blob fetching for whitespace checks - the extra fetch request
+    // often fails in CI with "other side closed" errors from GitHub
+    checkWhitespace: false
   }
 )
 

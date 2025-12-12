@@ -12,11 +12,13 @@ import { createHash } from 'crypto'
  * @param {Object} options - Configuration options
  * @param {number} options.depth - Number of commits to fetch (default: 50)
  * @param {RegExp[]} options.skipPatterns - Array of regexps to exclude files (default: [/changelog\.md$/i])
+ * @param {boolean} options.checkWhitespace - Whether to fetch blobs and filter whitespace-only changes (default: true)
  */
 async function rssForPath(repoUrl, branch, targetPath, options = {}) {
   const {
     depth = 50,
-    skipPatterns = [/changelog\.md$/i]
+    skipPatterns = [/changelog\.md$/i],
+    checkWhitespace = true
   } = options
 
   const shouldSkip = (filePath) => skipPatterns.some(re => re.test(filePath))
@@ -95,49 +97,41 @@ async function rssForPath(repoUrl, branch, targetPath, options = {}) {
   }
   console.timeEnd('filterCommits')
 
-  // Fetch blobs for .md files to check for whitespace-only changes
-  // Only need blobs for files that have both current and parent (modifications, not add/delete)
-  console.time('fetchBlobs')
-  const blobOidsToFetch = new Set()
-  for (const { changedFiles } of changedCommits) {
-    for (const file of changedFiles) {
-      // Only fetch if file was modified (not added/deleted)
-      if (file.currentOid && file.parentOid) {
-        blobOidsToFetch.add(file.currentOid)
-        blobOidsToFetch.add(file.parentOid)
+  // Optionally fetch blobs to filter out whitespace-only changes
+  if (checkWhitespace) {
+    console.time('fetchBlobs')
+    const blobOidsToFetch = new Set()
+    for (const { changedFiles } of changedCommits) {
+      for (const file of changedFiles) {
+        if (file.currentOid && file.parentOid) {
+          blobOidsToFetch.add(file.currentOid)
+          blobOidsToFetch.add(file.parentOid)
+        }
       }
     }
+    if (blobOidsToFetch.size > 0) {
+      const blobs = await fetchBlobs(repoUrl, [...blobOidsToFetch])
+      console.timeEnd('fetchBlobs')
+      console.log(`Fetched ${blobs.size} blobs for whitespace check`)
+
+      // Filter out whitespace-only changes
+      for (const commitData of changedCommits) {
+        commitData.changedFiles = commitData.changedFiles.filter(file => {
+          if (!file.currentOid || !file.parentOid) return true
+          const currentContent = blobs.get(file.currentOid)
+          const parentContent = blobs.get(file.parentOid)
+          if (!currentContent || !parentContent) return true
+          return normalizeWhitespace(currentContent) !== normalizeWhitespace(parentContent)
+        })
+      }
+    } else {
+      console.timeEnd('fetchBlobs')
+    }
   }
-  let blobs = new Map()
-  if (blobOidsToFetch.size > 0) {
-    blobs = await fetchBlobs(repoUrl, [...blobOidsToFetch])
-  }
-  console.timeEnd('fetchBlobs')
-  console.log(`Fetched ${blobs.size} blobs for whitespace check`)
 
-  // Filter out whitespace-only changes
-  for (const commitData of changedCommits) {
-    commitData.changedFiles = commitData.changedFiles.filter(file => {
-      // New or deleted files are always significant
-      if (!file.currentOid || !file.parentOid) return true
-
-      const currentContent = blobs.get(file.currentOid)
-      const parentContent = blobs.get(file.parentOid)
-
-      // If we couldn't fetch blobs, assume it's a real change
-      if (!currentContent || !parentContent) return true
-
-      // Compare normalized content (ignore whitespace)
-      const normalizedCurrent = normalizeWhitespace(currentContent)
-      const normalizedParent = normalizeWhitespace(parentContent)
-
-      return normalizedCurrent !== normalizedParent
-    })
-  }
-  
   // Remove commits that now have no changed files (unless parent was unavailable)
-  const filteredCommits = changedCommits.filter(c => c.changedFiles.length > 0 && !c.parentUnavailable)
-  console.log(`Found ${filteredCommits.length} commits with non-whitespace .md changes`)
+  const filteredCommits = changedCommits.filter(c => c.changedFiles.length > 0 || c.parentUnavailable)
+  console.log(`Found ${filteredCommits.length} commits with .md changes`)
 
   // 5. Generate Atom feed
   // Extract GitHub repo path for commit links (e.g., "wordpress/wordpress-playground")
