@@ -1,349 +1,113 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2025-12-12T17:37:10.210Z</updated>
+<updated>2025-12-12T17:43:59.292Z</updated>
 <entry>
 <id>bb6fd78035d991c86a0f0312323698f16e459eaf</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf" rel="alternate" type="text/html"/>
 <updated>2025-12-10T00:10:02.000Z</updated>
 <title>[docs] Updating resource page (#3003)</title>
-<content>Changed files:
-- main/resources.md
-
-[docs] Updating resource page (#3003)
-
-This pull request updates the WordPress Playground resource page across
-multiple languages. The main focus is on expanding resource listings,
-adding a recent presentation from Fellyph at WordCamp Wroclaw, and
-making minor corrections for clarity and consistency on the Portuguese
-Translation.
-
-**Resource and Content Updates:**
-
-* Added a new video link, &quot;WordPress Playground: The Path to Test
-Automation,&quot; to the resources in English, Spanish, French, and Japanese
-documentation files.
-[[1]](diffhunk://#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579R91)
-[[2]](diffhunk://#diff-6ae27be13e143223a3088eae761980bf2a929eca8dc40543d3180cd20acc3ebcR195-R201)
-[[3]](diffhunk://#diff-c8efadb74a038d6b3c31010a7ea6c1b13726373d126c9ea1cea0b19ec931d090R150)
-[[4]](diffhunk://#diff-c8efadb74a038d6b3c31010a7ea6c1b13726373d126c9ea1cea0b19ec931d090R185)
-[[5]](diffhunk://#diff-c05c888d7712eeaf00e87738d238b44ea2f2ac7e455a297ca083efebbc50ff2eR159-R162)
-[[6]](diffhunk://#diff-c05c888d7712eeaf00e87738d238b44ea2f2ac7e455a297ca083efebbc50ff2eR194-R197)
-* Improved and expanded the list of resource redirections (links to
-Playground tools and services) in Japanese and Brazilian Portuguese
-documentation, ensuring consistency with the English version.
-[[1]](diffhunk://#diff-c05c888d7712eeaf00e87738d238b44ea2f2ac7e455a297ca083efebbc50ff2eR13-R30)
-[[2]](diffhunk://#diff-c8d9b57056063460708488ed17db531135426edc2f777c81ad7d936d4cd03ea9L4-R39)
-
-**Localization and Translation Improvements:**
-
-* Updated and corrected various resource titles, descriptions, and
-section headings in the Brazilian Portuguese documentation for better
-clarity and localization.
-[[1]](diffhunk://#diff-c8d9b57056063460708488ed17db531135426edc2f777c81ad7d936d4cd03ea9L44-R69)
-[[2]](diffhunk://#diff-c8d9b57056063460708488ed17db531135426edc2f777c81ad7d936d4cd03ea9L74-R107)
-* Improved the translation of guide titles for plugin and theme
-developers in Brazilian Portuguese.
-[[1]](diffhunk://#diff-37120405ccf3d142e2b2aabf18f679b126f8c9a6ccc76525ff9d5e22e39400d9L2-R2)
-[[2]](diffhunk://#diff-89f68975e28f86ed967b8112aebcfea5cd3f25c047ee036c0850b90bd5da4512L2-R2)
-* Added and refined Japanese translations for new and existing video
-resources.
-[[1]](diffhunk://#diff-c05c888d7712eeaf00e87738d238b44ea2f2ac7e455a297ca083efebbc50ff2eR159-R162)
-[[2]](diffhunk://#diff-c05c888d7712eeaf00e87738d238b44ea2f2ac7e455a297ca083efebbc50ff2eR194-R197)
-
-**Minor Corrections:**
-
-* Fixed typos and improved terminology (such as &quot;dev enviroment&quot; to &quot;dev
-environment&quot;) in Japanese and Brazilian Portuguese resource listings.
-[[1]](diffhunk://#diff-c05c888d7712eeaf00e87738d238b44ea2f2ac7e455a297ca083efebbc50ff2eL57-R69)
-[[2]](diffhunk://#diff-c8d9b57056063460708488ed17db531135426edc2f777c81ad7d936d4cd03ea9L44-R69)
-[[3]](diffhunk://#diff-c8d9b57056063460708488ed17db531135426edc2f777c81ad7d936d4cd03ea9L74-R107)
-
-These changes help ensure that users across all supported languages have
-access to up-to-date, accurate, and well-localized documentation
-resources.</content>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;main/resources.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
 <id>10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3" rel="alternate" type="text/html"/>
 <updated>2025-12-08T16:11:23.000Z</updated>
 <title>PHP 8.5 support (#2950)</title>
-<content>Changed files:
-- blueprints/03-data-format.md
-- developers/06-apis/query-api/01-index.md
-
-PHP 8.5 support (#2950)
-
-🦄 **TIP** To review code changes in this PR open [Files change using
-this
-link](https://github\.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs)
-it will hide all the compiled files, so you can see the actual code
-changes without GitHub unicorns.
-
-## What is this PR doing?
-
-Adds PHP 8.5 to Playground.
-
-Additionally, it [solves a bug where the php-chunk-alloc-zend-assert
-patch](https://github\.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs#r2570571617)
-wasn't correctly applied to PHP versions before PHP 8.3.
-
-## Implementation Details
-
-### Opcache
-
-PHP 8.5 made Opcache a required part of PHP, so [PHP 8.5 had to be
-compiled with
-Opcache](https://github\.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs#r2570572781).
-
-#### Intl
-
-We had to [enable Opcache when compiling Intl to PHP
-8.5](https://github\.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs#r2572307438).
-Opcache grew in the web Asyncify build size over the 8MB limit for
-synchronous WASM compilation on the main thread, so we had to [optimize
-the WASM file
-size.](https://github\.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs#r2581296925)
-
-#### Xdebug
-
-Similarly to Intl, we had to [enable Opcache when compiling Xdebug to
-PHP
-8.5.](https://github.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs#r2572307837)
-
-#### File locking 
-
-The behavior or file locking changed in PHP 8.5 because it uses Opcache.
-Before PHP 8.5 file locking would use `F_SETLK`, but with Opcache it
-uses `F_SETLKW` [when calling
-`fcntl`](https://github.com/php/php-src/blob/master/ext/opcache/zend_shared_alloc.c?rgh-link-date=2025-12-02T09%3A41%3A50Z#L510).
-Because `F_SETLKW` wasn't implemented in PHP-wasm file locking, this [PR
-adds a partial implementation of `F_SETLKW` based on
-`F_SETLK`](https://github.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs&amp;file-filters%5B%5D=.js#r2580401797).
-For the feature to be fully implemented, we still need to make it
-blocking.
-
-### Deprecated functions 
-
-PHP 8.5 deprecated resource free-up functions like `curl_close` and
-`imagedestroy`, which aren't needed since PHP 8.0.
-This PR removes these function calls from tests, [including CURL PHP 7
-tests](https://github.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs#r2572324571).
-`imagedestroy` used to [run only for PHP 8.1+
-tests](https://github\.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs/53e6604bccaf721d6367b0dc64ab287fd6a3c8e4#diff-eb57c8ef57583ca8dae1d36a9c6c4533a4529bba4cbd03a2de04df4a3e40bb75),
-so it didn't do anything and is safe to remove.
-
-### Object `clone`
-
-PHP 8.5+ changed clone from an opcode to a function, which changes how
-asyncify errors are handled during clone operations, which broke one of
-our PHP crash tests. In this [PR we disabled the test for PHP
-8.5+](https://github.com/WordPress/wordpress-playground/pull/2950/files?file-filters%5B%5D=.json&amp;file-filters%5B%5D=.md&amp;file-filters%5B%5D=No+extension&amp;file-filters%5B%5D=.patch&amp;file-filters%5B%5D=.ts&amp;file-filters%5B%5D=.mjs#r2580468254).
-
-## Testing Instructions
-
-1. Go to http://localhost:5400/website-server/ and switch the PHP
-version to 8.5.
-2. Confirm that WordPress is functional and you can update the site in
-the site editor
-3. Go to `/phpinfo.php`, confirm the php version it 8.5
-4. Start Playground CLI `nx dev playground-cli server --php=8.5`
-5. Confirm that WordPress is functional and you can update the site in
-the site editor
-6. Go [to PHP info](http://127.0.0.1:9400/phpinfo.php), confirm the php
-version it 8.5</content>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;blueprints/03-data-format.md&lt;/li&gt;
+&lt;li&gt;developers/06-apis/query-api/01-index.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
 <id>acb4fcc91fbf97c96f47fad6579d16a7a5c9cf0a</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/acb4fcc91fbf97c96f47fad6579d16a7a5c9cf0a" rel="alternate" type="text/html"/>
 <updated>2025-12-02T11:58:20.000Z</updated>
 <title>[Docs] Move XDebug IDE integration closer to the top, explain the DevTools workflow is highly exploratory (#2975)</title>
-<content>Changed files:
-- developers/07-xdebug/02-getting-started.md
-
-[Docs] Move XDebug IDE integration closer to the top, explain the DevTools workflow is highly exploratory (#2975)
-
-Updated the documentation to reflect changes in IDE integration for
-debugging with Xdebug, including prerequisites and commands for VS Code.
-Removed redundant sections and clarified the use of experimental flags.
-
-cc @fellyph</content>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;developers/07-xdebug/02-getting-started.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/acb4fcc91fbf97c96f47fad6579d16a7a5c9cf0a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
 <id>dc68872e628f6c42d1e938b1664166ba0140b273</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/dc68872e628f6c42d1e938b1664166ba0140b273" rel="alternate" type="text/html"/>
 <updated>2025-11-27T23:08:30.000Z</updated>
 <title>[PHP] Upgrade GD to 2.3.3 (#2944)</title>
-<content>Changed files:
-- developers/03-build-an-app/01-index.md
-
-[PHP] Upgrade GD to 2.3.3 (#2944)
-
-## Motivation for the change, related issues
-
-Upgrades GD version to 2.3.3. The EWWW Image Optimizer relies on GD
-library features shipped with a more recent GD version than the one
-bundled with PHP. See
-https://github.com/nosilver4u/ewww-image-optimizer/pull/377
-
-## Implementation details
-
-PHP comes with a bundled GD version 2.1.0. Upgrading to 2.3.3 involves:
-
-* Downloading and building 2.3.3 as a separate library (living in
-`packages/php-wasm/compile/libgd`)
-* Using it while compiling PHP 8.1+ via `--with-external-gd`
-* Falling back to the bundled libgd==2.1.0 for PHP &lt;= 8.0. These older
-PHP releases don't seem to be compatible with newer GD and fail to build
-due to multiple missing symbols, e.g. `/root/php-src/ext/gd/gd.c:3536:8:
-error: use of undeclared identifier 'GD_FLIP_VERTICAL'`.
-
-## Testing Instructions (or ideally a Blueprint)
-
-CI – we have tests covering `gd` across all PHP versions.</content>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;developers/03-build-an-app/01-index.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/dc68872e628f6c42d1e938b1664166ba0140b273&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
 <id>8232be378614d3da9c8bd21e3a3be55a5a0024c5</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/8232be378614d3da9c8bd21e3a3be55a5a0024c5" rel="alternate" type="text/html"/>
 <updated>2025-11-26T19:40:39.000Z</updated>
 <title>[Docs] Updating repository preview info (#2890)</title>
-<content>Changed files:
-- developers/03-build-an-app/01-index.md
-
-[Docs] Updating repository preview info (#2890)
-
-This pull request updates the &quot;Quick Start Guide for Developers&quot;
-documentation to improve clarity, add practical instructions, and expand
-coverage of previewing pull requests and branches in Playground. The
-most important changes are grouped below:
-
-**Previewing Pull Requests and Branches:**
-
-* Added detailed instructions for previewing repository code in
-Playground using either `git:directory` or direct `.zip` URLs, including
-a JSON Blueprint example and explanation of CI requirements.
-* Introduced a new section on previewing WordPress Core and Gutenberg
-branches or PRs using Query API parameters, with concrete URL examples
-for trunk and PR previews.
-
-**Content and Clarity Improvements:**
-
-* Updated the description metadata for the guide to reflect better
-coverage of embedding WordPress, installing plugins, previewing PRs, and
-using Playground APIs.
-* Reworded plugin and theme installation instructions for clarity and
-conciseness.
-* Revised compatibility testing environment instructions to emphasize
-configuring PHP and WordPress versions for plugin testing in Playground.
-
-**Blueprints API Update:**
-
-* Updated the Blueprints API example for importing WXR files to use the
-`file` property instead of `pluginData` for resource URLs.</content>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;developers/03-build-an-app/01-index.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/8232be378614d3da9c8bd21e3a3be55a5a0024c5&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
 <id>3b4b49b73639903f740ca9a957c793ee101ddb7d</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/3b4b49b73639903f740ca9a957c793ee101ddb7d" rel="alternate" type="text/html"/>
 <updated>2025-11-18T22:24:16.000Z</updated>
 <title>[Docs] Use pull_request instead of pull_request_target for exposing artifacts in the PR Preview button docs</title>
-<content>Changed files:
-- main/guides/github-action-pr-preview.md
-
-[Docs] Use pull_request instead of pull_request_target for exposing artifacts in the PR Preview button docs</content>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;main/guides/github-action-pr-preview.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3b4b49b73639903f740ca9a957c793ee101ddb7d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
 <id>721aa457e9d78ef8f4645d880df793d25ae901c2</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/721aa457e9d78ef8f4645d880df793d25ae901c2" rel="alternate" type="text/html"/>
 <updated>2025-11-18T17:57:58.000Z</updated>
 <title>[Docs] Updating the resource page and adding new playground videos (#2914)</title>
-<content>Changed files:
-- main/resources.md
-
-[Docs] Updating the resource page and adding new playground videos (#2914)
-
-This pull request updates the WordPress Playground documentation
-resources in Spanish to fix an issue with the markup and update
-Portuguese and French links. It also adds new video resources and
-updates terminology for clarity and localization.</content>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;main/resources.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/721aa457e9d78ef8f4645d880df793d25ae901c2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
 <id>410d485a67d1aa8f77abbdd563317065876bbbca</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/410d485a67d1aa8f77abbdd563317065876bbbca" rel="alternate" type="text/html"/>
 <updated>2025-11-18T12:13:36.000Z</updated>
 <title>[Docs] Use pull_request_target in the GitHub action PR Preview doc page (#2915)</title>
-<content>Changed files:
-- main/guides/github-action-pr-preview.md
-
-[Docs] Use pull_request_target in the GitHub action PR Preview doc page (#2915)
-
-## Motivation for the change, related issues
-
-https://github.com/WordPress/gutenberg/pull/73250 revealed the need to
-use the `pull_request_target` hook instead of `pull_request` when
-setting up the PR preview button. This PR reflects this in the
-Playground documentation page.</content>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;main/guides/github-action-pr-preview.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/410d485a67d1aa8f77abbdd563317065876bbbca&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
 <id>6ee2858461087388cba1def22fa81288106aa5e9</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6ee2858461087388cba1def22fa81288106aa5e9" rel="alternate" type="text/html"/>
 <updated>2025-11-18T12:01:03.000Z</updated>
 <title>[Docs] Add CI check for orphaned documentation pages (#2896)</title>
-<content>Changed files:
-- developers/05-local-development/01-wp-now.md
-
-[Docs] Add CI check for orphaned documentation pages (#2896)
-
-## Motivation for the change, related issues
-
-Adds a new `CI Lint and Typecheck` check to confirm all the
-documentation pages are linked to. This should prevent orphaned,
-undiscoverable pages when we forget to add a link to a sidebar menu.
-
-Intentionally orphaned pages are still supported via `orphan: true` in
-the frontmatter, e.g. in `01-wp-now.yml`
-
-```yml
----
-title: wp-now
-slug: /developers/local-development/wp-now
-orphan: true
----
-
-## WP Now
-```
-
-## Testing Instructions (or ideally a Blueprint)
-
-Run locally:
-
-```bash
-npx nx check-orphan-pages docs-site
-```
-
-Then create an orphaned test page, e.g. at
-`packages/docs/site/docs/main/orphaned-test-page.md`, and re-run:
-
-```
-❌ ORPHANED PAGES FOUND
-Found 1 documentation page(s) not linked in any sidebar:
-
-  ID: main/orphaned-test-page
-  File: main/orphaned-test-page.md
-```
-
----------
-
-Co-authored-by: copilot-swe-agent[bot] &lt;198982749+Copilot@users.noreply.github.com&gt;
-Co-authored-by: adamziel &lt;205419+adamziel@users.noreply.github.com&gt;
-Co-authored-by: Adam Zieliński &lt;adam@adamziel.com&gt;</content>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;developers/05-local-development/01-wp-now.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6ee2858461087388cba1def22fa81288106aa5e9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
 <id>cd4a785275f5f4a1222ecbb905a9140c29e513e1</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/cd4a785275f5f4a1222ecbb905a9140c29e513e1" rel="alternate" type="text/html"/>
 <updated>2025-11-17T08:06:36.000Z</updated>
 <title>Refresh WordPress Nightly</title>
-<content>(Changed files not available - parent commit outside fetch depth)
-
-Refresh WordPress Nightly</content>
+<content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/cd4a785275f5f4a1222ecbb905a9140c29e513e1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

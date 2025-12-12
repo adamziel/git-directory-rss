@@ -146,20 +146,24 @@ async function rssForPath(repoUrl, branch, targetPath, options = {}) {
     const date = commit.author.timestamp * 1000
     const title = escapeXml(commit.message.split('\n')[0])
     const commitUrl = `${commitUrlBase}/${oid}`
-    // Content: list of changed files first, then PR description
-    let filesList = ''
+
+    // Build HTML content: list of changed files + link to commit
+    let contentHtml = ''
     if (changedFiles.length > 0) {
-      filesList = `Changed files:\n${changedFiles.map(f => `- ${f.path}`).join('\n')}\n\n`
+      contentHtml = `<h3>Changed documentation files</h3>\n<ul>\n`
+      contentHtml += changedFiles.map(f => `<li>${escapeXml(f.path)}</li>`).join('\n')
+      contentHtml += `\n</ul>\n`
     } else if (parentUnavailable) {
-      filesList = `(Changed files not available - parent commit outside fetch depth)\n\n`
+      contentHtml = `<p><em>Changed files not available - parent commit outside fetch depth</em></p>\n`
     }
-    const content = escapeXml(filesList + commit.message.trim())
+    contentHtml += `<p><a href="${commitUrl}">View commit on GitHub</a></p>`
+
     feed += `<entry>\n`
     feed += `<id>${oid}</id>\n`
     feed += `<link href="${commitUrl}" rel="alternate" type="text/html"/>\n`
     feed += `<updated>${new Date(date).toISOString()}</updated>\n`
     feed += `<title>${title}</title>\n`
-    feed += `<content>${content}</content>\n`
+    feed += `<content type="html">${escapeXml(contentHtml)}</content>\n`
     feed += `</entry>\n`
   }
 
