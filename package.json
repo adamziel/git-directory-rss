@@ -1,0 +1,13 @@
+{
+  "name": "git-directory-rss",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Generate RSS feeds for changes to a specific directory in a Git repository",
+  "main": "rss.js",
+  "scripts": {
+    "generate": "node generate-feed.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": ["rss", "git", "atom", "feed"]
+}
