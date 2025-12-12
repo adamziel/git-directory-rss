@@ -176,6 +176,19 @@ async function rssForPath(repoUrl, branch, targetPath, options = {}) {
 
 // --- Git Protocol Implementation ---
 
+async function fetchWithRetry(url, options, maxRetries = 3) {
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await fetch(url, options)
+      return response
+    } catch (err) {
+      if (attempt === maxRetries) throw err
+      console.log(`Fetch attempt ${attempt} failed, retrying in ${attempt * 1000}ms...`)
+      await new Promise(r => setTimeout(r, attempt * 1000))
+    }
+  }
+}
+
 function pktLine(data) {
   if (data === null) return Buffer.from('0000') // flush
   if (data === 'delim') return Buffer.from('0001')
@@ -194,7 +207,7 @@ async function lsRefs(repoUrl, refPrefix) {
     pktLine(null),
   ])
 
-  const response = await fetch(repoUrl + '/git-upload-pack', {
+  const response = await fetchWithRetry(repoUrl + '/git-upload-pack', {
     method: 'POST',
     headers: {
       'Accept': 'application/x-git-upload-pack-advertisement',
@@ -231,7 +244,7 @@ async function fetchWithoutBlobs(repoUrl, commitHash, depth) {
     pktLine('done\n'),
   ])
 
-  const response = await fetch(repoUrl + '/git-upload-pack', {
+  const response = await fetchWithRetry(repoUrl + '/git-upload-pack', {
     method: 'POST',
     headers: {
       'Accept': 'application/x-git-upload-pack-advertisement',
@@ -263,7 +276,7 @@ async function fetchBlobs(repoUrl, blobOids) {
     pktLine('done\n'),
   ])
 
-  const response = await fetch(repoUrl + '/git-upload-pack', {
+  const response = await fetchWithRetry(repoUrl + '/git-upload-pack', {
     method: 'POST',
     headers: {
       'Accept': 'application/x-git-upload-pack-advertisement',
