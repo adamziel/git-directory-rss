@@ -147,11 +147,17 @@ async function rssForPath(repoUrl, branch, targetPath, options = {}) {
     const title = escapeXml(commit.message.split('\n')[0])
     const commitUrl = `${commitUrlBase}/${oid}`
 
-    // Build HTML content: list of changed files + link to commit
+    // Build HTML content: list of changed files with diff links + link to commit
     let contentHtml = ''
     if (changedFiles.length > 0) {
       contentHtml = `<h3>Changed documentation files</h3>\n<ul>\n`
-      contentHtml += changedFiles.map(f => `<li>${escapeXml(f.path)}</li>`).join('\n')
+      contentHtml += changedFiles.map(f => {
+        // GitHub uses SHA256 of the full file path for diff anchors
+        const fullPath = `${targetPath}/${f.path}`
+        const pathHash = createHash('sha256').update(fullPath).digest('hex')
+        const diffUrl = `${commitUrl}#diff-${pathHash}`
+        return `<li><a href="${diffUrl}">${escapeXml(f.path)}</a></li>`
+      }).join('\n')
       contentHtml += `\n</ul>\n`
     } else if (parentUnavailable) {
       contentHtml = `<p><em>Changed files not available - parent commit outside fetch depth</em></p>\n`

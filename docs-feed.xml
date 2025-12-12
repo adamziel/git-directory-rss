@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2025-12-12T17:43:59.292Z</updated>
+<updated>2025-12-12T17:45:53.826Z</updated>
 <entry>
 <id>bb6fd78035d991c86a0f0312323698f16e459eaf</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf" rel="alternate" type="text/html"/>
@@ -9,7 +9,7 @@
 <title>[docs] Updating resource page (#3003)</title>
 <content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;main/resources.md&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
@@ -20,8 +20,8 @@
 <title>PHP 8.5 support (#2950)</title>
 <content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;blueprints/03-data-format.md&lt;/li&gt;
-&lt;li&gt;developers/06-apis/query-api/01-index.md&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3#diff-9cffadbed8633b3958a1b394e5c2663137e6bfda4f919678471dcd42acbc2670&quot;&gt;blueprints/03-data-format.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
@@ -32,7 +32,7 @@
 <title>[Docs] Move XDebug IDE integration closer to the top, explain the DevTools workflow is highly exploratory (#2975)</title>
 <content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;developers/07-xdebug/02-getting-started.md&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/acb4fcc91fbf97c96f47fad6579d16a7a5c9cf0a#diff-ef72ead84db3b86734c7a03c8db82b265a22cc0b85c3b01c8bc2016a4bc2d607&quot;&gt;developers/07-xdebug/02-getting-started.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/acb4fcc91fbf97c96f47fad6579d16a7a5c9cf0a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
@@ -43,7 +43,7 @@
 <title>[PHP] Upgrade GD to 2.3.3 (#2944)</title>
 <content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;developers/03-build-an-app/01-index.md&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/dc68872e628f6c42d1e938b1664166ba0140b273#diff-d3d4e59bae8ffd4aa654e729787f0c72bfa2ee0705782897f3e4ef5c7d63382c&quot;&gt;developers/03-build-an-app/01-index.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/dc68872e628f6c42d1e938b1664166ba0140b273&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
@@ -54,7 +54,7 @@
 <title>[Docs] Updating repository preview info (#2890)</title>
 <content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;developers/03-build-an-app/01-index.md&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/8232be378614d3da9c8bd21e3a3be55a5a0024c5#diff-d3d4e59bae8ffd4aa654e729787f0c72bfa2ee0705782897f3e4ef5c7d63382c&quot;&gt;developers/03-build-an-app/01-index.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/8232be378614d3da9c8bd21e3a3be55a5a0024c5&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
@@ -65,7 +65,7 @@
 <title>[Docs] Use pull_request instead of pull_request_target for exposing artifacts in the PR Preview button docs</title>
 <content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;main/guides/github-action-pr-preview.md&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3b4b49b73639903f740ca9a957c793ee101ddb7d#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3b4b49b73639903f740ca9a957c793ee101ddb7d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
@@ -76,7 +76,7 @@
 <title>[Docs] Updating the resource page and adding new playground videos (#2914)</title>
 <content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;main/resources.md&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/721aa457e9d78ef8f4645d880df793d25ae901c2#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/721aa457e9d78ef8f4645d880df793d25ae901c2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
@@ -87,7 +87,7 @@
 <title>[Docs] Use pull_request_target in the GitHub action PR Preview doc page (#2915)</title>
 <content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;main/guides/github-action-pr-preview.md&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/410d485a67d1aa8f77abbdd563317065876bbbca#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/410d485a67d1aa8f77abbdd563317065876bbbca&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
@@ -98,7 +98,7 @@
 <title>[Docs] Add CI check for orphaned documentation pages (#2896)</title>
 <content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;developers/05-local-development/01-wp-now.md&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6ee2858461087388cba1def22fa81288106aa5e9#diff-dd8a93b4b5fa494476589d955f39de4d0d3b10fecdbba7c220630db593b5db26&quot;&gt;developers/05-local-development/01-wp-now.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6ee2858461087388cba1def22fa81288106aa5e9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
