@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2025-12-15T01:27:39.789Z</updated>
+<updated>2025-12-16T01:26:14.450Z</updated>
+<entry>
+<id>143d33d27aa8667404f007aeff4bc5069b6fb6e2</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/143d33d27aa8667404f007aeff4bc5069b6fb6e2" rel="alternate" type="text/html"/>
+<updated>2025-12-15T16:00:58.000Z</updated>
+<title>Add documentation for Linux file watcher limit troubleshooting (#3039)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/143d33d27aa8667404f007aeff4bc5069b6fb6e2#diff-134d18d36e83d1d020cef0c453225bbc95be4c9c410aa85941cdceebce55d000&quot;&gt;main/contributing/code.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/143d33d27aa8667404f007aeff4bc5069b6fb6e2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>125e3b6e3b5431a66d307166171d4a4b930ebfb8</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/125e3b6e3b5431a66d307166171d4a4b930ebfb8" rel="alternate" type="text/html"/>
+<updated>2025-12-15T13:58:01.000Z</updated>
+<title>Deprecate github-proxy.com with automatic migration to native resources (#3007)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/125e3b6e3b5431a66d307166171d4a4b930ebfb8#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/125e3b6e3b5431a66d307166171d4a4b930ebfb8&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>20ac970f59585e562d5437886b2d018e0b933199</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/20ac970f59585e562d5437886b2d018e0b933199" rel="alternate" type="text/html"/>
+<updated>2025-12-15T09:54:37.000Z</updated>
+<title>[Docs] Adding blueprints meta info reference (#3026)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ac970f59585e562d5437886b2d018e0b933199#diff-00768c47e713bf84058ad2b409ea6d95e90e61c5945e6403378a70b8c6a63166&quot;&gt;blueprints/08-examples.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ac970f59585e562d5437886b2d018e0b933199&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>6f52ebeb2f5e74cc1715eeae402d8c4824a88950</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6f52ebeb2f5e74cc1715eeae402d8c4824a88950" rel="alternate" type="text/html"/>
@@ -93,33 +126,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/721aa457e9d78ef8f4645d880df793d25ae901c2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>410d485a67d1aa8f77abbdd563317065876bbbca</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/410d485a67d1aa8f77abbdd563317065876bbbca" rel="alternate" type="text/html"/>
-<updated>2025-11-18T12:13:36.000Z</updated>
-<title>[Docs] Use pull_request_target in the GitHub action PR Preview doc page (#2915)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/410d485a67d1aa8f77abbdd563317065876bbbca#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/410d485a67d1aa8f77abbdd563317065876bbbca&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>6ee2858461087388cba1def22fa81288106aa5e9</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6ee2858461087388cba1def22fa81288106aa5e9" rel="alternate" type="text/html"/>
-<updated>2025-11-18T12:01:03.000Z</updated>
-<title>[Docs] Add CI check for orphaned documentation pages (#2896)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6ee2858461087388cba1def22fa81288106aa5e9#diff-dd8a93b4b5fa494476589d955f39de4d0d3b10fecdbba7c220630db593b5db26&quot;&gt;developers/05-local-development/01-wp-now.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6ee2858461087388cba1def22fa81288106aa5e9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>2e7ab912fd415f92eccd6af520400afd90c9df27</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/2e7ab912fd415f92eccd6af520400afd90c9df27" rel="alternate" type="text/html"/>
-<updated>2025-11-17T16:20:42.000Z</updated>
-<title>[Docs] Fix API reference (#2905)</title>
+<id>119518ad89bb74aae63d73958b727f9a1ae1584c</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/119518ad89bb74aae63d73958b727f9a1ae1584c" rel="alternate" type="text/html"/>
+<updated>2025-11-18T15:33:17.000Z</updated>
+<title>Recompile WordPress major and beta versions</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2e7ab912fd415f92eccd6af520400afd90c9df27&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/119518ad89bb74aae63d73958b727f9a1ae1584c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
