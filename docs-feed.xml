@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2025-12-17T01:21:07.287Z</updated>
+<updated>2025-12-18T01:21:51.544Z</updated>
 <entry>
 <id>143d33d27aa8667404f007aeff4bc5069b6fb6e2</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/143d33d27aa8667404f007aeff4bc5069b6fb6e2" rel="alternate" type="text/html"/>
@@ -82,33 +82,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/acb4fcc91fbf97c96f47fad6579d16a7a5c9cf0a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>dc68872e628f6c42d1e938b1664166ba0140b273</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/dc68872e628f6c42d1e938b1664166ba0140b273" rel="alternate" type="text/html"/>
-<updated>2025-11-27T23:08:30.000Z</updated>
-<title>[PHP] Upgrade GD to 2.3.3 (#2944)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/dc68872e628f6c42d1e938b1664166ba0140b273#diff-d3d4e59bae8ffd4aa654e729787f0c72bfa2ee0705782897f3e4ef5c7d63382c&quot;&gt;developers/03-build-an-app/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/dc68872e628f6c42d1e938b1664166ba0140b273&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>8232be378614d3da9c8bd21e3a3be55a5a0024c5</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/8232be378614d3da9c8bd21e3a3be55a5a0024c5" rel="alternate" type="text/html"/>
-<updated>2025-11-26T19:40:39.000Z</updated>
-<title>[Docs] Updating repository preview info (#2890)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/8232be378614d3da9c8bd21e3a3be55a5a0024c5#diff-d3d4e59bae8ffd4aa654e729787f0c72bfa2ee0705782897f3e4ef5c7d63382c&quot;&gt;developers/03-build-an-app/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/8232be378614d3da9c8bd21e3a3be55a5a0024c5&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>b2d5835d4a4c47505fd91369a2b665ff94e4dfbe</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/b2d5835d4a4c47505fd91369a2b665ff94e4dfbe" rel="alternate" type="text/html"/>
-<updated>2025-11-25T10:23:19.000Z</updated>
-<title>[CI] Reduce CLI log output in CI jobs (#2934)</title>
+<id>8fc99ee90d1fe79f8a4b3dcc64dbdcdf1186a601</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/8fc99ee90d1fe79f8a4b3dcc64dbdcdf1186a601" rel="alternate" type="text/html"/>
+<updated>2025-11-28T17:08:15.000Z</updated>
+<title>[meta] Add ESLint rule for Node.js type stripping compatibility (#2951)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b2d5835d4a4c47505fd91369a2b665ff94e4dfbe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/8fc99ee90d1fe79f8a4b3dcc64dbdcdf1186a601&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
