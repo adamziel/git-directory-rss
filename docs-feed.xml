@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2025-12-18T01:21:51.544Z</updated>
+<updated>2025-12-19T01:25:03.469Z</updated>
 <entry>
 <id>143d33d27aa8667404f007aeff4bc5069b6fb6e2</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/143d33d27aa8667404f007aeff4bc5069b6fb6e2" rel="alternate" type="text/html"/>
@@ -82,11 +82,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/acb4fcc91fbf97c96f47fad6579d16a7a5c9cf0a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>8fc99ee90d1fe79f8a4b3dcc64dbdcdf1186a601</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/8fc99ee90d1fe79f8a4b3dcc64dbdcdf1186a601" rel="alternate" type="text/html"/>
-<updated>2025-11-28T17:08:15.000Z</updated>
-<title>[meta] Add ESLint rule for Node.js type stripping compatibility (#2951)</title>
+<id>77f3a9b773d2325e52dc4ad9fddcac2c13495c3c</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/77f3a9b773d2325e52dc4ad9fddcac2c13495c3c" rel="alternate" type="text/html"/>
+<updated>2025-11-29T22:45:29.000Z</updated>
+<title>[CI] Speed up E2E tests (#2961)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/8fc99ee90d1fe79f8a4b3dcc64dbdcdf1186a601&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/77f3a9b773d2325e52dc4ad9fddcac2c13495c3c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
