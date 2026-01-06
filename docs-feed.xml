@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-05T01:44:27.742Z</updated>
+<updated>2026-01-06T01:27:11.744Z</updated>
 <entry>
 <id>143d33d27aa8667404f007aeff4bc5069b6fb6e2</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/143d33d27aa8667404f007aeff4bc5069b6fb6e2" rel="alternate" type="text/html"/>
@@ -59,23 +59,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3" rel="alternate" type="text/html"/>
-<updated>2025-12-08T16:11:23.000Z</updated>
-<title>PHP 8.5 support (#2950)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3#diff-9cffadbed8633b3958a1b394e5c2663137e6bfda4f919678471dcd42acbc2670&quot;&gt;blueprints/03-data-format.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10277ed6d01c12ba34f3c04f3bf98e1cd66d0bb3&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>44a2064bb1223c60169adf23b2a985d193185cdb</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/44a2064bb1223c60169adf23b2a985d193185cdb" rel="alternate" type="text/html"/>
-<updated>2025-12-05T19:46:31.000Z</updated>
-<title>[Website] Fix flaky phpMyAdmin test (#2977)</title>
+<id>e98025c73b9c3d17945bf2939a1a5e445f0f44cc</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/e98025c73b9c3d17945bf2939a1a5e445f0f44cc" rel="alternate" type="text/html"/>
+<updated>2025-12-08T17:57:35.000Z</updated>
+<title>[Blueprints] Preserve more error information on failed fetch (#2946)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/44a2064bb1223c60169adf23b2a985d193185cdb&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e98025c73b9c3d17945bf2939a1a5e445f0f44cc&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
