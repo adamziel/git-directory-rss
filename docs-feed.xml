@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-06T01:27:11.744Z</updated>
+<updated>2026-01-07T01:27:32.470Z</updated>
 <entry>
 <id>143d33d27aa8667404f007aeff4bc5069b6fb6e2</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/143d33d27aa8667404f007aeff4bc5069b6fb6e2" rel="alternate" type="text/html"/>
@@ -52,18 +52,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf" rel="alternate" type="text/html"/>
 <updated>2025-12-10T00:10:02.000Z</updated>
 <title>[docs] Updating resource page (#3003)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>e98025c73b9c3d17945bf2939a1a5e445f0f44cc</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/e98025c73b9c3d17945bf2939a1a5e445f0f44cc" rel="alternate" type="text/html"/>
-<updated>2025-12-08T17:57:35.000Z</updated>
-<title>[Blueprints] Preserve more error information on failed fetch (#2946)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e98025c73b9c3d17945bf2939a1a5e445f0f44cc&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
