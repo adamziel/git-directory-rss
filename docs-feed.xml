@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-07T01:27:32.470Z</updated>
+<updated>2026-01-08T01:28:06.580Z</updated>
 <entry>
 <id>143d33d27aa8667404f007aeff4bc5069b6fb6e2</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/143d33d27aa8667404f007aeff4bc5069b6fb6e2" rel="alternate" type="text/html"/>
@@ -48,11 +48,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6f52ebeb2f5e74cc1715eeae402d8c4824a88950&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>bb6fd78035d991c86a0f0312323698f16e459eaf</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf" rel="alternate" type="text/html"/>
-<updated>2025-12-10T00:10:02.000Z</updated>
-<title>[docs] Updating resource page (#3003)</title>
+<id>cf68bddfa43c2c68beed638ea19e153ab138e7cf</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/cf68bddfa43c2c68beed638ea19e153ab138e7cf" rel="alternate" type="text/html"/>
+<updated>2025-12-10T16:15:12.000Z</updated>
+<title>[ Intl ] Implement Intl in Playground CLI (#3011)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bb6fd78035d991c86a0f0312323698f16e459eaf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/cf68bddfa43c2c68beed638ea19e153ab138e7cf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
