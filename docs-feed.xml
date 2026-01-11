@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-10T01:25:21.856Z</updated>
+<updated>2026-01-11T01:44:29.790Z</updated>
+<entry>
+<id>1497a0cf9274106b6ce2d3c0828536451a1bb373</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/1497a0cf9274106b6ce2d3c0828536451a1bb373" rel="alternate" type="text/html"/>
+<updated>2026-01-10T16:37:34.000Z</updated>
+<title>[docs] Updating images from Release page to webp (#3107)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1497a0cf9274106b6ce2d3c0828536451a1bb373#diff-907058b24a94ff21d43750df6f0294ba3f1ff55e960dcd0c728be18649f6de60&quot;&gt;main/contributing/releases.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1497a0cf9274106b6ce2d3c0828536451a1bb373&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>91d32751735496c76efaeeacf05ad774ada2b048</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048" rel="alternate" type="text/html"/>
+<updated>2026-01-10T15:50:42.000Z</updated>
+<title>[docs] Replace PNG images with WEBP format for improved performance (#3105)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-42aa349631775ba8dac2236ede7ee84b43713757756e3f54dfdb3043c3afb414&quot;&gt;developers/05-local-development/02-vscode-extension.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-ccfbf01f83670cc4edb7ce4132d125c8394ac942f9fa7506a4994bb14a01bca8&quot;&gt;developers/23-architecture/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-15f617a682fb7b8571e2da1cc2801ce9d3ce7ef04a1e46ff04e81235c9a5e7b1&quot;&gt;developers/23-architecture/02-wasm-php-overview.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-2eadb319c06d1309e4f24ea7f9ddae7e0f1ce1615236bf5ef451f09028ef1684&quot;&gt;developers/23-architecture/08-browser-concepts.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-7ab19bfb5b29d6c4213d90d60a945f73664a41885227d59100c03cbbc8606b3f&quot;&gt;developers/23-architecture/09-browser-tab-orchestrates-execution.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-5f509c723859a29e295f7f3316250b8bc7776e94fc931ee34df92e3315c441d5&quot;&gt;developers/23-architecture/12-browser-service-workers.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>618bbfae499afaee72aca0166ea114221e822ee0</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/618bbfae499afaee72aca0166ea114221e822ee0" rel="alternate" type="text/html"/>
@@ -59,11 +87,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6f52ebeb2f5e74cc1715eeae402d8c4824a88950&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>42ea377c2817945d07a846eb5a005ea525a468a2</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/42ea377c2817945d07a846eb5a005ea525a468a2" rel="alternate" type="text/html"/>
-<updated>2025-12-10T22:26:01.000Z</updated>
-<title>[ Vite ] Regroup `preserve-*-loaders-imports` Vite plugin inside a vite-extension (#3002)</title>
+<id>5de7bcfd8a5d1303324215900b4bdc381b3debd8</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/5de7bcfd8a5d1303324215900b4bdc381b3debd8" rel="alternate" type="text/html"/>
+<updated>2025-12-12T19:40:49.000Z</updated>
+<title>[PHP web] Remove runtimes from internal map after initialization to prevent memory leaks (#3023)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/42ea377c2817945d07a846eb5a005ea525a468a2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5de7bcfd8a5d1303324215900b4bdc381b3debd8&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
