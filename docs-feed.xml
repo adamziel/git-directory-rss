@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-12T01:41:46.065Z</updated>
+<updated>2026-01-13T01:24:17.473Z</updated>
 <entry>
 <id>1497a0cf9274106b6ce2d3c0828536451a1bb373</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/1497a0cf9274106b6ce2d3c0828536451a1bb373" rel="alternate" type="text/html"/>
@@ -75,23 +75,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ac970f59585e562d5437886b2d018e0b933199&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>6f52ebeb2f5e74cc1715eeae402d8c4824a88950</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6f52ebeb2f5e74cc1715eeae402d8c4824a88950" rel="alternate" type="text/html"/>
-<updated>2025-12-12T19:41:17.000Z</updated>
-<title>[docs] Removing GitHub proxy references (#3009)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6f52ebeb2f5e74cc1715eeae402d8c4824a88950#diff-f0dcd54418e33530389be99bfd45adec4f2d1f54fc7be1c6d97112372c53dbe9&quot;&gt;main/guides/for-plugin-developers.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6f52ebeb2f5e74cc1715eeae402d8c4824a88950#diff-e244fba9fe2c0532f22afaf6857d18eb7c8d12fe256ab0ac5dde18a02b1c9e4f&quot;&gt;main/guides/for-theme-developers.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6f52ebeb2f5e74cc1715eeae402d8c4824a88950&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>5de7bcfd8a5d1303324215900b4bdc381b3debd8</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/5de7bcfd8a5d1303324215900b4bdc381b3debd8" rel="alternate" type="text/html"/>
-<updated>2025-12-12T19:40:49.000Z</updated>
-<title>[PHP web] Remove runtimes from internal map after initialization to prevent memory leaks (#3023)</title>
+<id>cd251bf4e8be6bc0b0511a77a8055db513f3f3a5</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/cd251bf4e8be6bc0b0511a77a8055db513f3f3a5" rel="alternate" type="text/html"/>
+<updated>2025-12-12T20:02:12.000Z</updated>
+<title>[Blueprints] Rewrite scoped URLs when importing a Playground export (#2989)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5de7bcfd8a5d1303324215900b4bdc381b3debd8&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/cd251bf4e8be6bc0b0511a77a8055db513f3f3a5&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
