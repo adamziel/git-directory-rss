@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-15T01:26:13.733Z</updated>
+<updated>2026-01-16T01:28:24.635Z</updated>
+<entry>
+<id>136efc0a19fabe2cfb25305ba73864e5e3f6f18c</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/136efc0a19fabe2cfb25305ba73864e5e3f6f18c" rel="alternate" type="text/html"/>
+<updated>2026-01-15T23:30:30.000Z</updated>
+<title>Remove support for PHP 7.2 and 7.3 (#3127)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/136efc0a19fabe2cfb25305ba73864e5e3f6f18c#diff-9cffadbed8633b3958a1b394e5c2663137e6bfda4f919678471dcd42acbc2670&quot;&gt;blueprints/03-data-format.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/136efc0a19fabe2cfb25305ba73864e5e3f6f18c#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/136efc0a19fabe2cfb25305ba73864e5e3f6f18c#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/136efc0a19fabe2cfb25305ba73864e5e3f6f18c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>9ff79435fe59455796288003bce1190b39f38c0b</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/9ff79435fe59455796288003bce1190b39f38c0b" rel="alternate" type="text/html"/>
+<updated>2026-01-15T13:32:07.000Z</updated>
+<title>[Docs] Updating limitations page (#3108)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9ff79435fe59455796288003bce1190b39f38c0b#diff-d4658ce696fbb1d7289383171973f2c9cc60804d622b65ef46fd6f8975e2a6be&quot;&gt;developers/24-limitations/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9ff79435fe59455796288003bce1190b39f38c0b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>fffde71af232231749175e6cb2ebf9d29ed85efb</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fffde71af232231749175e6cb2ebf9d29ed85efb" rel="alternate" type="text/html"/>
@@ -53,11 +77,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/618bbfae499afaee72aca0166ea114221e822ee0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>3af81223d7f8c0ae9f0b423c828d38a1bb6059b6</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/3af81223d7f8c0ae9f0b423c828d38a1bb6059b6" rel="alternate" type="text/html"/>
-<updated>2025-12-15T16:46:23.000Z</updated>
-<title>Bump node-forge from 1.3.1 to 1.3.3 in /packages/playground/wordpress-builds/public/wp-nightly/wp-content/themes/twentytwenty (#3042)</title>
+<id>e6bbc7c259749d2eeef5387700f15e51ca279855</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/e6bbc7c259749d2eeef5387700f15e51ca279855" rel="alternate" type="text/html"/>
+<updated>2025-12-16T11:40:30.000Z</updated>
+<title>Add `mho22` to GitHub workflows actors (#3046)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3af81223d7f8c0ae9f0b423c828d38a1bb6059b6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e6bbc7c259749d2eeef5387700f15e51ca279855&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
