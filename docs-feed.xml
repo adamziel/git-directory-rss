@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-17T01:24:33.712Z</updated>
+<updated>2026-01-18T01:43:49.668Z</updated>
 <entry>
 <id>1115a10e756d7342d41b084a767e69380e8fab79</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/1115a10e756d7342d41b084a767e69380e8fab79" rel="alternate" type="text/html"/>
@@ -88,11 +88,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/618bbfae499afaee72aca0166ea114221e822ee0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>1ef7bf18c6dbf0f6fe608f78b3dc41924b9ba5b0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/1ef7bf18c6dbf0f6fe608f78b3dc41924b9ba5b0" rel="alternate" type="text/html"/>
-<updated>2025-12-16T12:54:49.000Z</updated>
-<title>[CI] Enable trusted publisher-based publishing (#3048)</title>
+<id>02a0529620413101482592143af960f6717ccfe0</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/02a0529620413101482592143af960f6717ccfe0" rel="alternate" type="text/html"/>
+<updated>2025-12-16T13:02:15.000Z</updated>
+<title>[Website] Target temporary Playground in Import ZIP, Import from GitHub. Don't overwrite a saved site. (#2990)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1ef7bf18c6dbf0f6fe608f78b3dc41924b9ba5b0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/02a0529620413101482592143af960f6717ccfe0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
