@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-23T01:27:46.504Z</updated>
+<updated>2026-01-24T01:25:56.641Z</updated>
 <entry>
 <id>03440a73cb32645e916649c45ce8de9f70683b23</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/03440a73cb32645e916649c45ce8de9f70683b23" rel="alternate" type="text/html"/>
@@ -110,11 +110,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/618bbfae499afaee72aca0166ea114221e822ee0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>4fa87aa4f94fc5bd6111f2a1ac419df37c960519</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/4fa87aa4f94fc5bd6111f2a1ac419df37c960519" rel="alternate" type="text/html"/>
-<updated>2025-12-17T18:23:29.000Z</updated>
-<title>[Meta] Update package.json repository URLs for trusted publishing setup on npm</title>
+<id>1c6c30b1db744a7fdb36c0ee044da1b8cf54c5dc</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/1c6c30b1db744a7fdb36c0ee044da1b8cf54c5dc" rel="alternate" type="text/html"/>
+<updated>2025-12-18T20:42:57.000Z</updated>
+<title>v3.0.32</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4fa87aa4f94fc5bd6111f2a1ac419df37c960519&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1c6c30b1db744a7fdb36c0ee044da1b8cf54c5dc&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
