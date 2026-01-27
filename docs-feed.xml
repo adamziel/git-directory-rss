@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-26T01:45:59.991Z</updated>
+<updated>2026-01-27T01:43:35.542Z</updated>
+<entry>
+<id>fa9e42bfe590a4f5feb4e02538553796b205ad7c</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/fa9e42bfe590a4f5feb4e02538553796b205ad7c" rel="alternate" type="text/html"/>
+<updated>2026-01-26T13:49:56.000Z</updated>
+<title>[Docs] Document git:directory resource options (#3179)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fa9e42bfe590a4f5feb4e02538553796b205ad7c#diff-6b04f1593393085180f3963760a741a9a84b0b2c3ab11a39a9bcf07cb107aae0&quot;&gt;blueprints/04-resources.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fa9e42bfe590a4f5feb4e02538553796b205ad7c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>03440a73cb32645e916649c45ce8de9f70683b23</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/03440a73cb32645e916649c45ce8de9f70683b23" rel="alternate" type="text/html"/>
@@ -110,11 +121,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/618bbfae499afaee72aca0166ea114221e822ee0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>1c6c30b1db744a7fdb36c0ee044da1b8cf54c5dc</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/1c6c30b1db744a7fdb36c0ee044da1b8cf54c5dc" rel="alternate" type="text/html"/>
-<updated>2025-12-18T20:42:57.000Z</updated>
-<title>v3.0.32</title>
+<id>b728ee3bfa136f918e48077ca096748b375becb2</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/b728ee3bfa136f918e48077ca096748b375becb2" rel="alternate" type="text/html"/>
+<updated>2025-12-22T15:33:41.000Z</updated>
+<title>[Website] Add standalone playground block demo page (#3071)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1c6c30b1db744a7fdb36c0ee044da1b8cf54c5dc&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b728ee3bfa136f918e48077ca096748b375becb2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
