@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-27T01:43:35.542Z</updated>
+<updated>2026-01-28T01:40:05.374Z</updated>
 <entry>
 <id>fa9e42bfe590a4f5feb4e02538553796b205ad7c</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fa9e42bfe590a4f5feb4e02538553796b205ad7c" rel="alternate" type="text/html"/>
@@ -121,11 +121,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/618bbfae499afaee72aca0166ea114221e822ee0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>b728ee3bfa136f918e48077ca096748b375becb2</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/b728ee3bfa136f918e48077ca096748b375becb2" rel="alternate" type="text/html"/>
-<updated>2025-12-22T15:33:41.000Z</updated>
-<title>[Website] Add standalone playground block demo page (#3071)</title>
+<id>b05d32924969c34bb2e69e3be63f2b04c9b4faed</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/b05d32924969c34bb2e69e3be63f2b04c9b4faed" rel="alternate" type="text/html"/>
+<updated>2025-12-24T13:30:50.000Z</updated>
+<title>[PHP] Use platform: &quot;browser&quot; in esbuild config for web builds (#3083)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b728ee3bfa136f918e48077ca096748b375becb2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b05d32924969c34bb2e69e3be63f2b04c9b4faed&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
