@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-01-29T01:51:28.851Z</updated>
+<updated>2026-01-30T01:52:18.322Z</updated>
 <entry>
 <id>fa9e42bfe590a4f5feb4e02538553796b205ad7c</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fa9e42bfe590a4f5feb4e02538553796b205ad7c" rel="alternate" type="text/html"/>
@@ -97,35 +97,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048" rel="alternate" type="text/html"/>
 <updated>2026-01-10T15:50:42.000Z</updated>
 <title>[docs] Replace PNG images with WEBP format for improved performance (#3105)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-42aa349631775ba8dac2236ede7ee84b43713757756e3f54dfdb3043c3afb414&quot;&gt;developers/05-local-development/02-vscode-extension.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-ccfbf01f83670cc4edb7ce4132d125c8394ac942f9fa7506a4994bb14a01bca8&quot;&gt;developers/23-architecture/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-15f617a682fb7b8571e2da1cc2801ce9d3ce7ef04a1e46ff04e81235c9a5e7b1&quot;&gt;developers/23-architecture/02-wasm-php-overview.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-2eadb319c06d1309e4f24ea7f9ddae7e0f1ce1615236bf5ef451f09028ef1684&quot;&gt;developers/23-architecture/08-browser-concepts.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-7ab19bfb5b29d6c4213d90d60a945f73664a41885227d59100c03cbbc8606b3f&quot;&gt;developers/23-architecture/09-browser-tab-orchestrates-execution.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-5f509c723859a29e295f7f3316250b8bc7776e94fc931ee34df92e3315c441d5&quot;&gt;developers/23-architecture/12-browser-service-workers.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>618bbfae499afaee72aca0166ea114221e822ee0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/618bbfae499afaee72aca0166ea114221e822ee0" rel="alternate" type="text/html"/>
-<updated>2026-01-09T14:58:48.000Z</updated>
-<title>Document how to publish new npm packages (#3068)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/618bbfae499afaee72aca0166ea114221e822ee0#diff-907058b24a94ff21d43750df6f0294ba3f1ff55e960dcd0c728be18649f6de60&quot;&gt;main/contributing/releases.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/618bbfae499afaee72aca0166ea114221e822ee0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>a7cad674a9acb2e508e29ed980e947d1014d3949</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/a7cad674a9acb2e508e29ed980e947d1014d3949" rel="alternate" type="text/html"/>
-<updated>2026-01-07T02:50:59.000Z</updated>
-<title>[CLI] Fix __dirname not defined error in intl extension (#3094)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a7cad674a9acb2e508e29ed980e947d1014d3949&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91d32751735496c76efaeeacf05ad774ada2b048&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
