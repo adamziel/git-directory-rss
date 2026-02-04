@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-02-03T01:57:38.152Z</updated>
+<updated>2026-02-04T01:52:41.316Z</updated>
+<entry>
+<id>3e870b0cd73bdff5034d3b3c2fa8545017132c6b</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/3e870b0cd73bdff5034d3b3c2fa8545017132c6b" rel="alternate" type="text/html"/>
+<updated>2026-02-03T15:52:14.000Z</updated>
+<title>[i18n] Update translations.md for multiple languages (#3177)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3e870b0cd73bdff5034d3b3c2fa8545017132c6b#diff-81889768112f8bf511416d29222a6642aa6ecd345345bb7e7df23743a3fa3b39&quot;&gt;main/contributing/translations.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3e870b0cd73bdff5034d3b3c2fa8545017132c6b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>fa9e42bfe590a4f5feb4e02538553796b205ad7c</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fa9e42bfe590a4f5feb4e02538553796b205ad7c" rel="alternate" type="text/html"/>
@@ -71,22 +82,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9ff79435fe59455796288003bce1190b39f38c0b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>fffde71af232231749175e6cb2ebf9d29ed85efb</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/fffde71af232231749175e6cb2ebf9d29ed85efb" rel="alternate" type="text/html"/>
-<updated>2026-01-13T23:59:02.000Z</updated>
-<title>[Website] Customizable page title via `?page-title` query parameter (#3116)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fffde71af232231749175e6cb2ebf9d29ed85efb#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fffde71af232231749175e6cb2ebf9d29ed85efb&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>238a3f5d30cade5a5d5251f8dcd89795022a7855</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/238a3f5d30cade5a5d5251f8dcd89795022a7855" rel="alternate" type="text/html"/>
-<updated>2026-01-13T11:45:28.000Z</updated>
-<title>[CLI] Add high-level `start` command for easy local WordPress development (#3040)</title>
+<id>43e8390cdc50a1c9aa4ad0eea06872cb098be6d3</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/43e8390cdc50a1c9aa4ad0eea06872cb098be6d3" rel="alternate" type="text/html"/>
+<updated>2026-01-14T13:35:24.000Z</updated>
+<title>[PHP] Fix external dynamic imports issue in PHP.wasm Web (#3093)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/238a3f5d30cade5a5d5251f8dcd89795022a7855&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/43e8390cdc50a1c9aa4ad0eea06872cb098be6d3&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
