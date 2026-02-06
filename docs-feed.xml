@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-02-05T01:54:37.536Z</updated>
+<updated>2026-02-06T01:53:38.932Z</updated>
 <entry>
 <id>9e9c6c95dd6a0de924b16d39ef14bd70a2a61fb0</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/9e9c6c95dd6a0de924b16d39ef14bd70a2a61fb0" rel="alternate" type="text/html"/>
@@ -83,22 +83,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/136efc0a19fabe2cfb25305ba73864e5e3f6f18c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>9ff79435fe59455796288003bce1190b39f38c0b</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/9ff79435fe59455796288003bce1190b39f38c0b" rel="alternate" type="text/html"/>
-<updated>2026-01-15T13:32:07.000Z</updated>
-<title>[Docs] Updating limitations page (#3108)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9ff79435fe59455796288003bce1190b39f38c0b#diff-d4658ce696fbb1d7289383171973f2c9cc60804d622b65ef46fd6f8975e2a6be&quot;&gt;developers/24-limitations/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9ff79435fe59455796288003bce1190b39f38c0b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>f079a03f86e0e1bade6973decaa6cd2275d66fc8</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f079a03f86e0e1bade6973decaa6cd2275d66fc8" rel="alternate" type="text/html"/>
-<updated>2026-01-14T20:17:23.000Z</updated>
+<id>b03f9ee64becb1b5a9cf7c574d2646461f32fb63</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/b03f9ee64becb1b5a9cf7c574d2646461f32fb63" rel="alternate" type="text/html"/>
+<updated>2026-01-15T15:00:47.000Z</updated>
 <title>chore: update changelog</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f079a03f86e0e1bade6973decaa6cd2275d66fc8&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b03f9ee64becb1b5a9cf7c574d2646461f32fb63&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
