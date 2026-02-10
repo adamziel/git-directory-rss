@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-02-09T02:01:07.463Z</updated>
+<updated>2026-02-10T02:11:06.550Z</updated>
 <entry>
 <id>bdc559cedb17b928b2378c20e57c1021f52cf2e1</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/bdc559cedb17b928b2378c20e57c1021f52cf2e1" rel="alternate" type="text/html"/>
@@ -75,18 +75,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/1115a10e756d7342d41b084a767e69380e8fab79" rel="alternate" type="text/html"/>
 <updated>2026-01-17T00:09:55.000Z</updated>
 <title>[Website] Always offer to save the site when unrecognized ?site-slug= is used (#3135)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1115a10e756d7342d41b084a767e69380e8fab79#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1115a10e756d7342d41b084a767e69380e8fab79&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>136efc0a19fabe2cfb25305ba73864e5e3f6f18c</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/136efc0a19fabe2cfb25305ba73864e5e3f6f18c" rel="alternate" type="text/html"/>
-<updated>2026-01-15T23:30:30.000Z</updated>
-<title>Remove support for PHP 7.2 and 7.3 (#3127)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/136efc0a19fabe2cfb25305ba73864e5e3f6f18c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1115a10e756d7342d41b084a767e69380e8fab79&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
