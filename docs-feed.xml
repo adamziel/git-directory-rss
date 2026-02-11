@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-02-10T02:11:06.550Z</updated>
+<updated>2026-02-11T02:07:12.588Z</updated>
+<entry>
+<id>123cfdf8bdffd1fe45ddbdec9ca75309dd96872e</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/123cfdf8bdffd1fe45ddbdec9ca75309dd96872e" rel="alternate" type="text/html"/>
+<updated>2026-02-10T18:51:07.000Z</updated>
+<title>[docs] Updating screenshots and content from web instance page (#3188)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/123cfdf8bdffd1fe45ddbdec9ca75309dd96872e#diff-92c91e319684995a62dd6d6f78e180ae9430e96c48f124f21a0e2637cdaf4440&quot;&gt;main/web-instance.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/123cfdf8bdffd1fe45ddbdec9ca75309dd96872e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>bdc559cedb17b928b2378c20e57c1021f52cf2e1</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/bdc559cedb17b928b2378c20e57c1021f52cf2e1" rel="alternate" type="text/html"/>
@@ -71,11 +82,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/43491f7754f77c81f105357b67276711ca372c0b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>1115a10e756d7342d41b084a767e69380e8fab79</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/1115a10e756d7342d41b084a767e69380e8fab79" rel="alternate" type="text/html"/>
-<updated>2026-01-17T00:09:55.000Z</updated>
-<title>[Website] Always offer to save the site when unrecognized ?site-slug= is used (#3135)</title>
+<id>871ca6dddd5f6b5071ebfa5b36fc5ab8b89f3f2b</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/871ca6dddd5f6b5071ebfa5b36fc5ab8b89f3f2b" rel="alternate" type="text/html"/>
+<updated>2026-01-17T12:27:52.000Z</updated>
+<title>Updating @vitejs/plugin-react to version 5.1.2 in package.json (#3110)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1115a10e756d7342d41b084a767e69380e8fab79&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/871ca6dddd5f6b5071ebfa5b36fc5ab8b89f3f2b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
