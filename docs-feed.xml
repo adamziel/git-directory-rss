@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-02-11T02:07:12.588Z</updated>
+<updated>2026-02-12T02:00:14.788Z</updated>
+<entry>
+<id>671eeef33b4fe0fc747ad879046d793d15d8202d</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/671eeef33b4fe0fc747ad879046d793d15d8202d" rel="alternate" type="text/html"/>
+<updated>2026-02-11T15:59:48.000Z</updated>
+<title>[CLI] Add --phpmyadmin flag for database management (#3224)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/671eeef33b4fe0fc747ad879046d793d15d8202d#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/671eeef33b4fe0fc747ad879046d793d15d8202d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>123cfdf8bdffd1fe45ddbdec9ca75309dd96872e</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/123cfdf8bdffd1fe45ddbdec9ca75309dd96872e" rel="alternate" type="text/html"/>
@@ -64,29 +75,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/03440a73cb32645e916649c45ce8de9f70683b23" rel="alternate" type="text/html"/>
 <updated>2026-01-20T20:26:23.000Z</updated>
 <title>updating save button image</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/03440a73cb32645e916649c45ce8de9f70683b23#diff-d4658ce696fbb1d7289383171973f2c9cc60804d622b65ef46fd6f8975e2a6be&quot;&gt;developers/24-limitations/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/03440a73cb32645e916649c45ce8de9f70683b23&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>43491f7754f77c81f105357b67276711ca372c0b</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/43491f7754f77c81f105357b67276711ca372c0b" rel="alternate" type="text/html"/>
-<updated>2026-01-20T17:39:41.000Z</updated>
-<title>updating  quick  start guide</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/43491f7754f77c81f105357b67276711ca372c0b#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/43491f7754f77c81f105357b67276711ca372c0b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>871ca6dddd5f6b5071ebfa5b36fc5ab8b89f3f2b</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/871ca6dddd5f6b5071ebfa5b36fc5ab8b89f3f2b" rel="alternate" type="text/html"/>
-<updated>2026-01-17T12:27:52.000Z</updated>
-<title>Updating @vitejs/plugin-react to version 5.1.2 in package.json (#3110)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/871ca6dddd5f6b5071ebfa5b36fc5ab8b89f3f2b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/03440a73cb32645e916649c45ce8de9f70683b23&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
