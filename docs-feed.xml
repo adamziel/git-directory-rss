@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-02-20T01:54:40.906Z</updated>
+<updated>2026-02-21T01:50:10.244Z</updated>
 <entry>
 <id>5936409a0c0268927de7b2ca55f4c070fef522a6</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/5936409a0c0268927de7b2ca55f4c070fef522a6" rel="alternate" type="text/html"/>
@@ -71,11 +71,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3e870b0cd73bdff5034d3b3c2fa8545017132c6b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>2e3eb977ca2f5a103cecafdf61248a983d8e924a</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/2e3eb977ca2f5a103cecafdf61248a983d8e924a" rel="alternate" type="text/html"/>
-<updated>2026-01-27T00:30:28.000Z</updated>
-<title>Lower initial memory allocation for PHP instances (#3192)</title>
+<id>989ddcf9ac13ac72d51e74cae68d1cce0a8b93fc</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/989ddcf9ac13ac72d51e74cae68d1cce0a8b93fc" rel="alternate" type="text/html"/>
+<updated>2026-01-27T12:24:53.000Z</updated>
+<title>[personal-wp] Add multi-tab coordination (#3163)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2e3eb977ca2f5a103cecafdf61248a983d8e924a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/989ddcf9ac13ac72d51e74cae68d1cce0a8b93fc&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
