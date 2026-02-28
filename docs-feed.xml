@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-02-27T01:52:39.073Z</updated>
+<updated>2026-02-28T01:44:01.091Z</updated>
 <entry>
 <id>55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713" rel="alternate" type="text/html"/>
@@ -83,11 +83,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3e870b0cd73bdff5034d3b3c2fa8545017132c6b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>7bcec45316e5e782f0a03c5c5d878140b13c3fa1</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/7bcec45316e5e782f0a03c5c5d878140b13c3fa1" rel="alternate" type="text/html"/>
-<updated>2026-01-28T15:51:42.000Z</updated>
-<title>Replace .blob() with .arrayBuffer() to avoid disk space errors (#3212)</title>
+<id>7e2087445dd8bf5fed264922b73e699dcf7307eb</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7e2087445dd8bf5fed264922b73e699dcf7307eb" rel="alternate" type="text/html"/>
+<updated>2026-01-28T21:18:15.000Z</updated>
+<title>[Website] Fix Safari failing to import main module after deployments (#3215)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7bcec45316e5e782f0a03c5c5d878140b13c3fa1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7e2087445dd8bf5fed264922b73e699dcf7307eb&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
