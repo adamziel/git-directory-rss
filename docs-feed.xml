@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-05T01:55:03.676Z</updated>
+<updated>2026-03-06T01:56:21.658Z</updated>
+<entry>
+<id>6857cb5273b9266ef08c73aeaf2a19f46b9af8f8</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/6857cb5273b9266ef08c73aeaf2a19f46b9af8f8" rel="alternate" type="text/html"/>
+<updated>2026-03-05T17:55:52.000Z</updated>
+<title>[Docs] Updating run cli demos (#2833)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6857cb5273b9266ef08c73aeaf2a19f46b9af8f8#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6857cb5273b9266ef08c73aeaf2a19f46b9af8f8#diff-b9a818da5af6063f6e78919320c4ebe9d0a55baf7ad1d1e1d1ac49ce31b3217c&quot;&gt;main/guides/index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6857cb5273b9266ef08c73aeaf2a19f46b9af8f8#diff-785af59cbe1116ab86fc52056cbda4020fbf699314b70129f3eff77a8a798182&quot;&gt;main/guides/programmatic-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6857cb5273b9266ef08c73aeaf2a19f46b9af8f8&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>a4d11a8f98618d40f2229b11fd857449ee7bdf0f</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/a4d11a8f98618d40f2229b11fd857449ee7bdf0f" rel="alternate" type="text/html"/>
+<updated>2026-03-05T16:06:34.000Z</updated>
+<title>[Website] Support Git repo URLs in ?plugin= Query API parameter (#3339)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a4d11a8f98618d40f2229b11fd857449ee7bdf0f#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a4d11a8f98618d40f2229b11fd857449ee7bdf0f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>d61a81c3dd22630c86631a5e03608207b8faac59</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/d61a81c3dd22630c86631a5e03608207b8faac59" rel="alternate" type="text/html"/>
@@ -93,11 +117,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bdc559cedb17b928b2378c20e57c1021f52cf2e1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>9e9c6c95dd6a0de924b16d39ef14bd70a2a61fb0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/9e9c6c95dd6a0de924b16d39ef14bd70a2a61fb0" rel="alternate" type="text/html"/>
-<updated>2026-02-04T09:48:33.000Z</updated>
-<title>[Docs] Adding playground for everyone guide (#3103)</title>
+<id>a57b8e5695ca1003b7396be35a4118a903c343b4</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/a57b8e5695ca1003b7396be35a4118a903c343b4" rel="alternate" type="text/html"/>
+<updated>2026-02-05T13:11:29.000Z</updated>
+<title>[i18n] Add Bengali translation for guides/playground-for-everyone.md (#3249)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9e9c6c95dd6a0de924b16d39ef14bd70a2a61fb0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a57b8e5695ca1003b7396be35a4118a903c343b4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
