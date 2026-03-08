@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-07T01:48:31.486Z</updated>
+<updated>2026-03-08T01:56:46.176Z</updated>
 <entry>
 <id>6857cb5273b9266ef08c73aeaf2a19f46b9af8f8</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6857cb5273b9266ef08c73aeaf2a19f46b9af8f8" rel="alternate" type="text/html"/>
@@ -105,23 +105,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/123cfdf8bdffd1fe45ddbdec9ca75309dd96872e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>bdc559cedb17b928b2378c20e57c1021f52cf2e1</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/bdc559cedb17b928b2378c20e57c1021f52cf2e1" rel="alternate" type="text/html"/>
-<updated>2026-02-07T13:20:06.000Z</updated>
-<title>[docs] Updating host own playground page (#3242)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bdc559cedb17b928b2378c20e57c1021f52cf2e1#diff-722c8a8a983d94d05fa36a6884b1e41fa618dc64cb3aa0003b8a428b9ff7d930&quot;&gt;developers/23-architecture/18-host-your-own-playground.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bdc559cedb17b928b2378c20e57c1021f52cf2e1#diff-d4658ce696fbb1d7289383171973f2c9cc60804d622b65ef46fd6f8975e2a6be&quot;&gt;developers/24-limitations/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bdc559cedb17b928b2378c20e57c1021f52cf2e1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>0166b77faa1a2e19a5c34427403ed71d0330ac7c</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/0166b77faa1a2e19a5c34427403ed71d0330ac7c" rel="alternate" type="text/html"/>
-<updated>2026-02-05T15:49:29.000Z</updated>
-<title>Add ashfame to workflow maintainers list (#3250)</title>
+<id>208907bdada10f009a6b8dc7317b2c095402a426</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/208907bdada10f009a6b8dc7317b2c095402a426" rel="alternate" type="text/html"/>
+<updated>2026-02-09T09:54:28.000Z</updated>
+<title>chore: update changelog</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0166b77faa1a2e19a5c34427403ed71d0330ac7c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/208907bdada10f009a6b8dc7317b2c095402a426&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
