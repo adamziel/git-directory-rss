@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-09T01:57:50.530Z</updated>
+<updated>2026-03-10T01:50:20.593Z</updated>
+<entry>
+<id>71398ceea4a6d92c19b482b6a865629795814afa</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa" rel="alternate" type="text/html"/>
+<updated>2026-03-09T05:09:14.000Z</updated>
+<title>[docs] Adding runCLI and git action video to the documentation (#3101)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa#diff-785af59cbe1116ab86fc52056cbda4020fbf699314b70129f3eff77a8a798182&quot;&gt;main/guides/programmatic-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>6857cb5273b9266ef08c73aeaf2a19f46b9af8f8</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6857cb5273b9266ef08c73aeaf2a19f46b9af8f8" rel="alternate" type="text/html"/>
@@ -94,22 +106,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/671eeef33b4fe0fc747ad879046d793d15d8202d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>123cfdf8bdffd1fe45ddbdec9ca75309dd96872e</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/123cfdf8bdffd1fe45ddbdec9ca75309dd96872e" rel="alternate" type="text/html"/>
-<updated>2026-02-10T18:51:07.000Z</updated>
-<title>[docs] Updating screenshots and content from web instance page (#3188)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/123cfdf8bdffd1fe45ddbdec9ca75309dd96872e#diff-92c91e319684995a62dd6d6f78e180ae9430e96c48f124f21a0e2637cdaf4440&quot;&gt;main/web-instance.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/123cfdf8bdffd1fe45ddbdec9ca75309dd96872e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>f03bf5bfffca9aaa4663465dd74533fef9748603</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f03bf5bfffca9aaa4663465dd74533fef9748603" rel="alternate" type="text/html"/>
-<updated>2026-02-10T05:26:46.000Z</updated>
-<title>[PHP-wasm] Convert paths to Posix paths during symlink mounting (#3253)</title>
+<id>0a70ff7587a357db0feb3680fb1196f747e69281</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/0a70ff7587a357db0feb3680fb1196f747e69281" rel="alternate" type="text/html"/>
+<updated>2026-02-11T08:25:21.000Z</updated>
+<title>Avoid blueprints package dependency on @php-wasm/web (#3257)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f03bf5bfffca9aaa4663465dd74533fef9748603&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a70ff7587a357db0feb3680fb1196f747e69281&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
