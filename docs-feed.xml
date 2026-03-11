@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-10T01:50:20.593Z</updated>
+<updated>2026-03-11T01:50:18.879Z</updated>
+<entry>
+<id>86cf5eddf40b4435b9fa40b0e8310c455aa82b1f</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f" rel="alternate" type="text/html"/>
+<updated>2026-03-10T14:02:00.000Z</updated>
+<title>[docs] Adding playwright guide (#3360)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f#diff-81adeb5aa35b4e0c2545d64f9a6b1376d0df55d4af2747d64d7a051198c10834&quot;&gt;main/guides/e2e-testing-with-playwright.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f#diff-b9a818da5af6063f6e78919320c4ebe9d0a55baf7ad1d1e1d1ac49ce31b3217c&quot;&gt;main/guides/index.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>962e5330d4bf202bfc7fac27a49bfb9477b214c7</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/962e5330d4bf202bfc7fac27a49bfb9477b214c7" rel="alternate" type="text/html"/>
+<updated>2026-03-10T12:34:32.000Z</updated>
+<title>[Playground Website] Playground MCP server (#3290)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/962e5330d4bf202bfc7fac27a49bfb9477b214c7#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/962e5330d4bf202bfc7fac27a49bfb9477b214c7&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>71398ceea4a6d92c19b482b6a865629795814afa</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa" rel="alternate" type="text/html"/>
@@ -95,22 +118,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5936409a0c0268927de7b2ca55f4c070fef522a6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>671eeef33b4fe0fc747ad879046d793d15d8202d</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/671eeef33b4fe0fc747ad879046d793d15d8202d" rel="alternate" type="text/html"/>
-<updated>2026-02-11T15:59:48.000Z</updated>
-<title>[CLI] Add --phpmyadmin flag for database management (#3224)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/671eeef33b4fe0fc747ad879046d793d15d8202d#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/671eeef33b4fe0fc747ad879046d793d15d8202d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>0a70ff7587a357db0feb3680fb1196f747e69281</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/0a70ff7587a357db0feb3680fb1196f747e69281" rel="alternate" type="text/html"/>
-<updated>2026-02-11T08:25:21.000Z</updated>
-<title>Avoid blueprints package dependency on @php-wasm/web (#3257)</title>
+<id>b7bc3e1ef200b2fb2e1659d02cad5c0e0c22839b</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/b7bc3e1ef200b2fb2e1659d02cad5c0e0c22839b" rel="alternate" type="text/html"/>
+<updated>2026-02-12T15:13:00.000Z</updated>
+<title>chore: update changelog</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a70ff7587a357db0feb3680fb1196f747e69281&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b7bc3e1ef200b2fb2e1659d02cad5c0e0c22839b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
