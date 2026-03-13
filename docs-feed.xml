@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-12T01:54:54.910Z</updated>
+<updated>2026-03-13T01:54:26.796Z</updated>
 <entry>
 <id>86cf5eddf40b4435b9fa40b0e8310c455aa82b1f</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f" rel="alternate" type="text/html"/>
@@ -107,11 +107,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>4ac26c1ace951e624cb28dfe3e9599b37f0d14a0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/4ac26c1ace951e624cb28dfe3e9599b37f0d14a0" rel="alternate" type="text/html"/>
-<updated>2026-02-18T15:58:16.000Z</updated>
-<title>Add wordpress.github.io to allowed WebFetch domains (#3283)</title>
+<id>10e85ce3d3c0f25d9890c7b79b845f4eb272f604</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/10e85ce3d3c0f25d9890c7b79b845f4eb272f604" rel="alternate" type="text/html"/>
+<updated>2026-02-18T22:43:02.000Z</updated>
+<title>chore: update changelog</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4ac26c1ace951e624cb28dfe3e9599b37f0d14a0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10e85ce3d3c0f25d9890c7b79b845f4eb272f604&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
