@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-15T02:08:42.032Z</updated>
+<updated>2026-03-16T02:09:56.250Z</updated>
 <entry>
 <id>86cf5eddf40b4435b9fa40b0e8310c455aa82b1f</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f" rel="alternate" type="text/html"/>
@@ -107,11 +107,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>9dd28b38dccc0cb5b5b921d4a2a7981894ca398f</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/9dd28b38dccc0cb5b5b921d4a2a7981894ca398f" rel="alternate" type="text/html"/>
-<updated>2026-02-20T12:03:23.000Z</updated>
-<title>[AI] Add Playground website debugging skill (#3278)</title>
+<id>d9cd8462d6d6d9ccf81cde637ff0ab0824d85d06</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/d9cd8462d6d6d9ccf81cde637ff0ab0824d85d06" rel="alternate" type="text/html"/>
+<updated>2026-02-20T17:28:25.000Z</updated>
+<title>Recompile WordPress major and beta versions</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9dd28b38dccc0cb5b5b921d4a2a7981894ca398f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd8462d6d6d9ccf81cde637ff0ab0824d85d06&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
