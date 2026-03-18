@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-17T01:56:56.722Z</updated>
+<updated>2026-03-18T02:01:11.789Z</updated>
 <entry>
 <id>86cf5eddf40b4435b9fa40b0e8310c455aa82b1f</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f" rel="alternate" type="text/html"/>
@@ -107,11 +107,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>b2ea86b8824abaec9cf39698264f83b1a1f3200c</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/b2ea86b8824abaec9cf39698264f83b1a1f3200c" rel="alternate" type="text/html"/>
-<updated>2026-02-23T09:51:17.000Z</updated>
-<title>chore: update changelog</title>
+<id>83cf41e47aac33532be59699d72f711af7cae443</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/83cf41e47aac33532be59699d72f711af7cae443" rel="alternate" type="text/html"/>
+<updated>2026-02-23T16:07:23.000Z</updated>
+<title>Update .nvmrc from Node 20 to Node 22 (#3297)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b2ea86b8824abaec9cf39698264f83b1a1f3200c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/83cf41e47aac33532be59699d72f711af7cae443&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
