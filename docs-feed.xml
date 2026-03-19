@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-18T02:01:11.789Z</updated>
+<updated>2026-03-19T02:02:00.994Z</updated>
 <entry>
 <id>86cf5eddf40b4435b9fa40b0e8310c455aa82b1f</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f" rel="alternate" type="text/html"/>
@@ -99,19 +99,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713" rel="alternate" type="text/html"/>
 <updated>2026-02-23T23:55:07.000Z</updated>
 <title>[docs] Adding skills guide (#3282)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713#diff-3bd08cabed1793f994a9f65b75578f4c5029bbc11a8a50d7c71a35a368338a55&quot;&gt;main/guides/agent-skill-wp-playground.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713#diff-b9a818da5af6063f6e78919320c4ebe9d0a55baf7ad1d1e1d1ac49ce31b3217c&quot;&gt;main/guides/index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>83cf41e47aac33532be59699d72f711af7cae443</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/83cf41e47aac33532be59699d72f711af7cae443" rel="alternate" type="text/html"/>
-<updated>2026-02-23T16:07:23.000Z</updated>
-<title>Update .nvmrc from Node 20 to Node 22 (#3297)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/83cf41e47aac33532be59699d72f711af7cae443&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/55cd3bf3d4beb01359cf2ed1536d6f4c0ad94713&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
