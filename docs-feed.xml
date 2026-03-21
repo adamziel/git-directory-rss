@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-20T01:56:10.151Z</updated>
+<updated>2026-03-21T01:50:25.031Z</updated>
 <entry>
 <id>86cf5eddf40b4435b9fa40b0e8310c455aa82b1f</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f" rel="alternate" type="text/html"/>
@@ -95,11 +95,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c1e7575198558e9a75992b7823f8ab635121c846&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>f557fc09cee29c9644b057fa25185ce1bb5e7d2e</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f557fc09cee29c9644b057fa25185ce1bb5e7d2e" rel="alternate" type="text/html"/>
-<updated>2026-02-24T12:37:02.000Z</updated>
-<title>[WordPress Builds] Fix semver crash on two-part WordPress versions (#3299)</title>
+<id>91400e197efc995d6c83fa714be75ad90d1a8f92</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/91400e197efc995d6c83fa714be75ad90d1a8f92" rel="alternate" type="text/html"/>
+<updated>2026-02-26T16:04:05.000Z</updated>
+<title>Recompile WordPress major and beta versions</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f557fc09cee29c9644b057fa25185ce1bb5e7d2e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91400e197efc995d6c83fa714be75ad90d1a8f92&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
