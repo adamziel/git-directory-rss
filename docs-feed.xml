@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-21T01:50:25.031Z</updated>
+<updated>2026-03-22T02:02:07.739Z</updated>
 <entry>
 <id>86cf5eddf40b4435b9fa40b0e8310c455aa82b1f</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f" rel="alternate" type="text/html"/>
@@ -95,11 +95,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c1e7575198558e9a75992b7823f8ab635121c846&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>91400e197efc995d6c83fa714be75ad90d1a8f92</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/91400e197efc995d6c83fa714be75ad90d1a8f92" rel="alternate" type="text/html"/>
-<updated>2026-02-26T16:04:05.000Z</updated>
-<title>Recompile WordPress major and beta versions</title>
+<id>db2eb076f0047579639bad5c47641d0316601098</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/db2eb076f0047579639bad5c47641d0316601098" rel="alternate" type="text/html"/>
+<updated>2026-02-27T05:10:36.000Z</updated>
+<title>[Web] Avoid cross-origin policy errors in editor (#3312)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/91400e197efc995d6c83fa714be75ad90d1a8f92&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/db2eb076f0047579639bad5c47641d0316601098&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
