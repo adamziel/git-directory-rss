@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-23T02:03:08.349Z</updated>
+<updated>2026-03-24T01:54:50.351Z</updated>
+<entry>
+<id>4a159a93f33ae01a8233c000fc51548ed1a41dac</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac" rel="alternate" type="text/html"/>
+<updated>2026-03-23T15:02:37.000Z</updated>
+<title>Update SQLite database path (#3428)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>86cf5eddf40b4435b9fa40b0e8310c455aa82b1f</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f" rel="alternate" type="text/html"/>
@@ -95,11 +107,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c1e7575198558e9a75992b7823f8ab635121c846&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>db2eb076f0047579639bad5c47641d0316601098</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/db2eb076f0047579639bad5c47641d0316601098" rel="alternate" type="text/html"/>
-<updated>2026-02-27T05:10:36.000Z</updated>
-<title>[Web] Avoid cross-origin policy errors in editor (#3312)</title>
+<id>349a2abdc470c6b84186db6e2615ccf1c14ad465</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/349a2abdc470c6b84186db6e2615ccf1c14ad465" rel="alternate" type="text/html"/>
+<updated>2026-02-28T05:27:15.000Z</updated>
+<title>[ xdebug ] Map paths and skip paths with Xdebug 3.5 (#3115)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/db2eb076f0047579639bad5c47641d0316601098&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/349a2abdc470c6b84186db6e2615ccf1c14ad465&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
