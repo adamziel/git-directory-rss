@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-24T01:54:50.351Z</updated>
+<updated>2026-03-25T02:00:37.206Z</updated>
 <entry>
 <id>4a159a93f33ae01a8233c000fc51548ed1a41dac</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac" rel="alternate" type="text/html"/>
@@ -85,33 +85,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d61a81c3dd22630c86631a5e03608207b8faac59&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>574f6f2adbe6511d98a335f5e4b1f500bc1fbc61</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/574f6f2adbe6511d98a335f5e4b1f500bc1fbc61" rel="alternate" type="text/html"/>
-<updated>2026-03-02T07:34:33.000Z</updated>
-<title>Correct plugin directory reference in documentation (#3323)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/574f6f2adbe6511d98a335f5e4b1f500bc1fbc61#diff-f0dcd54418e33530389be99bfd45adec4f2d1f54fc7be1c6d97112372c53dbe9&quot;&gt;main/guides/for-plugin-developers.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/574f6f2adbe6511d98a335f5e4b1f500bc1fbc61&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>c1e7575198558e9a75992b7823f8ab635121c846</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/c1e7575198558e9a75992b7823f8ab635121c846" rel="alternate" type="text/html"/>
-<updated>2026-03-02T06:57:35.000Z</updated>
-<title>add ability to disable save (#3271)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c1e7575198558e9a75992b7823f8ab635121c846#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c1e7575198558e9a75992b7823f8ab635121c846&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>349a2abdc470c6b84186db6e2615ccf1c14ad465</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/349a2abdc470c6b84186db6e2615ccf1c14ad465" rel="alternate" type="text/html"/>
-<updated>2026-02-28T05:27:15.000Z</updated>
-<title>[ xdebug ] Map paths and skip paths with Xdebug 3.5 (#3115)</title>
+<id>ff83f7c6ff5fac9e1bc8d1bec3a623d9b273fbfe</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/ff83f7c6ff5fac9e1bc8d1bec3a623d9b273fbfe" rel="alternate" type="text/html"/>
+<updated>2026-03-02T16:28:06.000Z</updated>
+<title>Fix two WASM memory growth bugs (#3317)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/349a2abdc470c6b84186db6e2615ccf1c14ad465&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/ff83f7c6ff5fac9e1bc8d1bec3a623d9b273fbfe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
