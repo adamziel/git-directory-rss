@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-03-26T02:06:48.539Z</updated>
+<updated>2026-03-27T02:07:46.391Z</updated>
 <entry>
 <id>e1d488bbac1389501fd4df5e044867962cec7305</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/e1d488bbac1389501fd4df5e044867962cec7305" rel="alternate" type="text/html"/>
@@ -97,11 +97,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d61a81c3dd22630c86631a5e03608207b8faac59&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>4a5b473ac444d4178d51a9e230380580a1342d58</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/4a5b473ac444d4178d51a9e230380580a1342d58" rel="alternate" type="text/html"/>
-<updated>2026-03-03T00:21:17.000Z</updated>
-<title>[Web] Fix blank preview in WP site editor (#3328)</title>
+<id>a41bad5553e46467ddec39a3ad8252cb59761ba9</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/a41bad5553e46467ddec39a3ad8252cb59761ba9" rel="alternate" type="text/html"/>
+<updated>2026-03-03T06:01:32.000Z</updated>
+<title>Lower `INITIAL_MEMORY` from 256MB to 64MB (#3324)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4a5b473ac444d4178d51a9e230380580a1342d58&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a41bad5553e46467ddec39a3ad8252cb59761ba9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
