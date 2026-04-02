@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-01T02:25:02.896Z</updated>
+<updated>2026-04-02T02:04:35.530Z</updated>
 <entry>
 <id>e1d488bbac1389501fd4df5e044867962cec7305</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/e1d488bbac1389501fd4df5e044867962cec7305" rel="alternate" type="text/html"/>
@@ -62,11 +62,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>63f0b2a9af8c393075838fd17a92e9f296b2d35e</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/63f0b2a9af8c393075838fd17a92e9f296b2d35e" rel="alternate" type="text/html"/>
-<updated>2026-03-07T12:10:22.000Z</updated>
-<title>[tcp-over-fetch] Strip Content-Encoding from response headers (#3355)</title>
+<id>3a0fc3c450acaf82a7d98df42dbf4065b3e2ef97</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/3a0fc3c450acaf82a7d98df42dbf4065b3e2ef97" rel="alternate" type="text/html"/>
+<updated>2026-03-08T19:09:23.000Z</updated>
+<title>Make error logging conditional on WP_DEBUG_LOG (#3300)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/63f0b2a9af8c393075838fd17a92e9f296b2d35e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3a0fc3c450acaf82a7d98df42dbf4065b3e2ef97&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
