@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-02T02:04:35.530Z</updated>
+<updated>2026-04-03T02:06:30.463Z</updated>
 <entry>
 <id>e1d488bbac1389501fd4df5e044867962cec7305</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/e1d488bbac1389501fd4df5e044867962cec7305" rel="alternate" type="text/html"/>
@@ -54,19 +54,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa" rel="alternate" type="text/html"/>
 <updated>2026-03-09T05:09:14.000Z</updated>
 <title>[docs] Adding runCLI and git action video to the documentation (#3101)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa#diff-785af59cbe1116ab86fc52056cbda4020fbf699314b70129f3eff77a8a798182&quot;&gt;main/guides/programmatic-playground-cli.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>3a0fc3c450acaf82a7d98df42dbf4065b3e2ef97</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/3a0fc3c450acaf82a7d98df42dbf4065b3e2ef97" rel="alternate" type="text/html"/>
-<updated>2026-03-08T19:09:23.000Z</updated>
-<title>Make error logging conditional on WP_DEBUG_LOG (#3300)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3a0fc3c450acaf82a7d98df42dbf4065b3e2ef97&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
