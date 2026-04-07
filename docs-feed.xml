@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-06T02:13:19.483Z</updated>
+<updated>2026-04-07T02:08:57.859Z</updated>
+<entry>
+<id>b9628bc99b75471ed6e02a0de24a597b898bbeaf</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf" rel="alternate" type="text/html"/>
+<updated>2026-04-06T21:42:02.000Z</updated>
+<title>[Docs] Load assets from githubusercontent to make it compatible with handbook (#3467)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-89f945ae700773cba8fa23d2dcc81775640a066992b86fdddc3a9fc74b3dc2a2&quot;&gt;blueprints/09-troubleshoot-and-debug-blueprints.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-a41bd28d8464224562a0461e36a602dadd52ecc1542d2748860c5324426b5954&quot;&gt;blueprints/tutorial/03-build-your-first-blueprint.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-ef72ead84db3b86734c7a03c8db82b265a22cc0b85c3b01c8bc2016a4bc2d607&quot;&gt;developers/07-xdebug/02-getting-started.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-ccfbf01f83670cc4edb7ce4132d125c8394ac942f9fa7506a4994bb14a01bca8&quot;&gt;developers/23-architecture/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-15f617a682fb7b8571e2da1cc2801ce9d3ce7ef04a1e46ff04e81235c9a5e7b1&quot;&gt;developers/23-architecture/02-wasm-php-overview.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-259ca7f556f30c4c697578b3e53af6f3c64fbc400fad9b9d47bdcff70e37eb92&quot;&gt;developers/23-architecture/07-wasm-asyncify.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-2eadb319c06d1309e4f24ea7f9ddae7e0f1ce1615236bf5ef451f09028ef1684&quot;&gt;developers/23-architecture/08-browser-concepts.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-7ab19bfb5b29d6c4213d90d60a945f73664a41885227d59100c03cbbc8606b3f&quot;&gt;developers/23-architecture/09-browser-tab-orchestrates-execution.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-5f509c723859a29e295f7f3316250b8bc7776e94fc931ee34df92e3315c441d5&quot;&gt;developers/23-architecture/12-browser-service-workers.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-d4658ce696fbb1d7289383171973f2c9cc60804d622b65ef46fd6f8975e2a6be&quot;&gt;developers/24-limitations/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-3d04b644ee07d7ff14e1dbaa3e86ed58c1dadb147f3f65e7b0f6876e279843e5&quot;&gt;main/about/build.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-ee7b814e34bb937946a54ec521eda5d8ccc0a8cc467b4331a3011f9e3cdcc09f&quot;&gt;main/contributing/contributor-badge.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-81889768112f8bf511416d29222a6642aa6ecd345345bb7e7df23743a3fa3b39&quot;&gt;main/contributing/translations.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-cd7a371157712d1bbddd689783ad50537e39170b83d30b0c088387d986b99d8a&quot;&gt;main/guides/playground-for-everyone.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf#diff-92c91e319684995a62dd6d6f78e180ae9430e96c48f124f21a0e2637cdaf4440&quot;&gt;main/web-instance.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>e1d488bbac1389501fd4df5e044867962cec7305</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/e1d488bbac1389501fd4df5e044867962cec7305" rel="alternate" type="text/html"/>
@@ -50,11 +78,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/962e5330d4bf202bfc7fac27a49bfb9477b214c7&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>71398ceea4a6d92c19b482b6a865629795814afa</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa" rel="alternate" type="text/html"/>
-<updated>2026-03-09T05:09:14.000Z</updated>
-<title>[docs] Adding runCLI and git action video to the documentation (#3101)</title>
+<id>07144775b18a753da0c28b33875765ea67ed23ba</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/07144775b18a753da0c28b33875765ea67ed23ba" rel="alternate" type="text/html"/>
+<updated>2026-03-10T08:03:51.000Z</updated>
+<title>[Website] Support streamed PHP responses in the service worker (#3361)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/71398ceea4a6d92c19b482b6a865629795814afa&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/07144775b18a753da0c28b33875765ea67ed23ba&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
