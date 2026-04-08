@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-07T02:08:57.859Z</updated>
+<updated>2026-04-08T02:09:48.891Z</updated>
+<entry>
+<id>f0d901a04f1017b7f686ced40bfe06c7c21aa65a</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a" rel="alternate" type="text/html"/>
+<updated>2026-04-07T11:51:02.000Z</updated>
+<title>[Docs] Removing heading IDs to make docs compatible to migrate to org (#3466)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a#diff-722c8a8a983d94d05fa36a6884b1e41fa618dc64cb3aa0003b8a428b9ff7d930&quot;&gt;developers/23-architecture/18-host-your-own-playground.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a#diff-d4658ce696fbb1d7289383171973f2c9cc60804d622b65ef46fd6f8975e2a6be&quot;&gt;developers/24-limitations/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a#diff-3bd08cabed1793f994a9f65b75578f4c5029bbc11a8a50d7c71a35a368338a55&quot;&gt;main/guides/agent-skill-wp-playground.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a#diff-92c91e319684995a62dd6d6f78e180ae9430e96c48f124f21a0e2637cdaf4440&quot;&gt;main/web-instance.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>b9628bc99b75471ed6e02a0de24a597b898bbeaf</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/b9628bc99b75471ed6e02a0de24a597b898bbeaf" rel="alternate" type="text/html"/>
@@ -55,34 +69,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>86cf5eddf40b4435b9fa40b0e8310c455aa82b1f</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f" rel="alternate" type="text/html"/>
-<updated>2026-03-10T14:02:00.000Z</updated>
-<title>[docs] Adding playwright guide (#3360)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f#diff-81adeb5aa35b4e0c2545d64f9a6b1376d0df55d4af2747d64d7a051198c10834&quot;&gt;main/guides/e2e-testing-with-playwright.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f#diff-b9a818da5af6063f6e78919320c4ebe9d0a55baf7ad1d1e1d1ac49ce31b3217c&quot;&gt;main/guides/index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/86cf5eddf40b4435b9fa40b0e8310c455aa82b1f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>962e5330d4bf202bfc7fac27a49bfb9477b214c7</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/962e5330d4bf202bfc7fac27a49bfb9477b214c7" rel="alternate" type="text/html"/>
-<updated>2026-03-10T12:34:32.000Z</updated>
-<title>[Playground Website] Playground MCP server (#3290)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/962e5330d4bf202bfc7fac27a49bfb9477b214c7#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/962e5330d4bf202bfc7fac27a49bfb9477b214c7&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>07144775b18a753da0c28b33875765ea67ed23ba</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/07144775b18a753da0c28b33875765ea67ed23ba" rel="alternate" type="text/html"/>
-<updated>2026-03-10T08:03:51.000Z</updated>
-<title>[Website] Support streamed PHP responses in the service worker (#3361)</title>
+<id>07e42cb9ee565a9c4af14754415a01a90ff24410</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/07e42cb9ee565a9c4af14754415a01a90ff24410" rel="alternate" type="text/html"/>
+<updated>2026-03-10T15:39:40.000Z</updated>
+<title>chore: update changelog</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/07144775b18a753da0c28b33875765ea67ed23ba&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/07e42cb9ee565a9c4af14754415a01a90ff24410&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
