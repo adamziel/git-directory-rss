@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-10T02:14:47.144Z</updated>
+<updated>2026-04-11T02:03:04.472Z</updated>
 <entry>
 <id>f0d901a04f1017b7f686ced40bfe06c7c21aa65a</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a" rel="alternate" type="text/html"/>
@@ -69,11 +69,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>5d66908dd84596d9565b42dcb52da5575ad7c55b</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/5d66908dd84596d9565b42dcb52da5575ad7c55b" rel="alternate" type="text/html"/>
-<updated>2026-03-10T21:06:30.000Z</updated>
-<title>Ignore worktree and .claude dirs in .nxignore and .gitignore (#3368)</title>
+<id>c3c781ca71c6526a8cb79c680650274d708c08ef</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/c3c781ca71c6526a8cb79c680650274d708c08ef" rel="alternate" type="text/html"/>
+<updated>2026-03-11T04:11:40.000Z</updated>
+<title>Recompile WordPress major and beta versions</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5d66908dd84596d9565b42dcb52da5575ad7c55b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c3c781ca71c6526a8cb79c680650274d708c08ef&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
