@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-11T02:03:04.472Z</updated>
+<updated>2026-04-12T02:24:51.745Z</updated>
+<entry>
+<id>5e9557492befd722cbc53ecd61b63a225bab7bdf</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/5e9557492befd722cbc53ecd61b63a225bab7bdf" rel="alternate" type="text/html"/>
+<updated>2026-04-11T09:15:10.000Z</updated>
+<title>[Docs] Add `overlay` parameter to Playground URL options (#3457)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5e9557492befd722cbc53ecd61b63a225bab7bdf#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5e9557492befd722cbc53ecd61b63a225bab7bdf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>f0d901a04f1017b7f686ced40bfe06c7c21aa65a</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a" rel="alternate" type="text/html"/>
@@ -69,11 +80,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>c3c781ca71c6526a8cb79c680650274d708c08ef</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/c3c781ca71c6526a8cb79c680650274d708c08ef" rel="alternate" type="text/html"/>
-<updated>2026-03-11T04:11:40.000Z</updated>
-<title>Recompile WordPress major and beta versions</title>
+<id>e5144f82a288a08a0da0054e0467d6c8ad756097</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/e5144f82a288a08a0da0054e0467d6c8ad756097" rel="alternate" type="text/html"/>
+<updated>2026-03-11T08:35:07.000Z</updated>
+<title>Persist mcp, mcp-port, and can-save query arguments across requests</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c3c781ca71c6526a8cb79c680650274d708c08ef&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e5144f82a288a08a0da0054e0467d6c8ad756097&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
