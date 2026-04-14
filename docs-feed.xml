@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-13T02:29:24.339Z</updated>
+<updated>2026-04-14T02:23:37.229Z</updated>
 <entry>
 <id>5e9557492befd722cbc53ecd61b63a225bab7bdf</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/5e9557492befd722cbc53ecd61b63a225bab7bdf" rel="alternate" type="text/html"/>
@@ -80,11 +80,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>5ff4b3f36706edc4796a07247c2c6e1131248847</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/5ff4b3f36706edc4796a07247c2c6e1131248847" rel="alternate" type="text/html"/>
-<updated>2026-03-11T08:46:55.000Z</updated>
-<title>Add get website URL tool.</title>
+<id>89f653a99e31227d76684a60bb5d2627f3d10b74</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/89f653a99e31227d76684a60bb5d2627f3d10b74" rel="alternate" type="text/html"/>
+<updated>2026-03-11T11:32:23.000Z</updated>
+<title>chore: update changelog</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5ff4b3f36706edc4796a07247c2c6e1131248847&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/89f653a99e31227d76684a60bb5d2627f3d10b74&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
