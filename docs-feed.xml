@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-20T02:29:38.200Z</updated>
+<updated>2026-04-21T02:25:42.998Z</updated>
 <entry>
 <id>08c5fcd7f7e98343a521d298d4ca214456a34d5f</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/08c5fcd7f7e98343a521d298d4ca214456a34d5f" rel="alternate" type="text/html"/>
@@ -142,11 +142,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4a159a93f33ae01a8233c000fc51548ed1a41dac&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>ea6f678f74db992bf1d51846cc87d43535d14e2d</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/ea6f678f74db992bf1d51846cc87d43535d14e2d" rel="alternate" type="text/html"/>
-<updated>2026-03-15T20:54:35.000Z</updated>
-<title>Fix: ignore ERR_STREAM_UNABLE_TO_PIPE in CLI server (#3397)</title>
+<id>bcf66bf602adde96c75bf9095bb7376e751fc65f</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/bcf66bf602adde96c75bf9095bb7376e751fc65f" rel="alternate" type="text/html"/>
+<updated>2026-03-16T09:59:45.000Z</updated>
+<title>chore: update changelog</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/ea6f678f74db992bf1d51846cc87d43535d14e2d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bcf66bf602adde96c75bf9095bb7376e751fc65f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
