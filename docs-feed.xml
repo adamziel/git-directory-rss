@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-26T02:32:30.446Z</updated>
+<updated>2026-04-27T02:34:22.008Z</updated>
 <entry>
 <id>02bd501beb861947db4b513317efaa9bd2d8dacb</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/02bd501beb861947db4b513317efaa9bd2d8dacb" rel="alternate" type="text/html"/>
@@ -188,11 +188,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e1d488bbac1389501fd4df5e044867962cec7305&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>462b89f4c7eaef9b5b627999905f48daed99f608</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/462b89f4c7eaef9b5b627999905f48daed99f608" rel="alternate" type="text/html"/>
-<updated>2026-03-24T19:12:02.000Z</updated>
-<title>Recompile WordPress major and beta versions</title>
+<id>7a682fd9fe3d4e59ccf6f8923bc0a0bbb3687e25</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7a682fd9fe3d4e59ccf6f8923bc0a0bbb3687e25" rel="alternate" type="text/html"/>
+<updated>2026-03-24T19:30:26.000Z</updated>
+<title>Allow manual trigger for GitHub Release workflow (#3430)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/462b89f4c7eaef9b5b627999905f48daed99f608&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a682fd9fe3d4e59ccf6f8923bc0a0bbb3687e25&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
