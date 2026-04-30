@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-29T02:41:54.391Z</updated>
+<updated>2026-04-30T02:43:23.546Z</updated>
 <entry>
 <id>b71e3dc8509aeea480524bee09183a20fe788cd4</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/b71e3dc8509aeea480524bee09183a20fe788cd4" rel="alternate" type="text/html"/>
@@ -246,21 +246,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a" rel="alternate" type="text/html"/>
 <updated>2026-04-07T11:51:02.000Z</updated>
 <title>[Docs] Removing heading IDs to make docs compatible to migrate to org (#3466)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a#diff-722c8a8a983d94d05fa36a6884b1e41fa618dc64cb3aa0003b8a428b9ff7d930&quot;&gt;developers/23-architecture/18-host-your-own-playground.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a#diff-d4658ce696fbb1d7289383171973f2c9cc60804d622b65ef46fd6f8975e2a6be&quot;&gt;developers/24-limitations/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a#diff-3bd08cabed1793f994a9f65b75578f4c5029bbc11a8a50d7c71a35a368338a55&quot;&gt;main/guides/agent-skill-wp-playground.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a#diff-92c91e319684995a62dd6d6f78e180ae9430e96c48f124f21a0e2637cdaf4440&quot;&gt;main/web-instance.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>b2330c5d3eedfdbb2da536314517d3ce4745e2dc</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/b2330c5d3eedfdbb2da536314517d3ce4745e2dc" rel="alternate" type="text/html"/>
-<updated>2026-04-07T10:21:50.000Z</updated>
-<title>[CLI] Fix intermittent ENOTDIR crash when applying post-install mounts (#3468)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b2330c5d3eedfdbb2da536314517d3ce4745e2dc&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
