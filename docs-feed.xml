@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-04-30T02:43:23.546Z</updated>
+<updated>2026-05-01T02:49:52.310Z</updated>
 <entry>
 <id>b71e3dc8509aeea480524bee09183a20fe788cd4</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/b71e3dc8509aeea480524bee09183a20fe788cd4" rel="alternate" type="text/html"/>
@@ -242,11 +242,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5e9557492befd722cbc53ecd61b63a225bab7bdf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>f0d901a04f1017b7f686ced40bfe06c7c21aa65a</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a" rel="alternate" type="text/html"/>
-<updated>2026-04-07T11:51:02.000Z</updated>
-<title>[Docs] Removing heading IDs to make docs compatible to migrate to org (#3466)</title>
+<id>32d4af0874126dc15b6e36b692c24c9179b176ca</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/32d4af0874126dc15b6e36b692c24c9179b176ca" rel="alternate" type="text/html"/>
+<updated>2026-04-08T11:20:25.000Z</updated>
+<title>Define DB_NAME via auto-prepend instead of rewriting wp-config.php (#3458)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f0d901a04f1017b7f686ced40bfe06c7c21aa65a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/32d4af0874126dc15b6e36b692c24c9179b176ca&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
