@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-03T02:41:19.761Z</updated>
+<updated>2026-05-04T02:39:16.627Z</updated>
+<entry>
+<id>6f7c10def61c0f161e858f3a71c2bfd744f32aef</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/6f7c10def61c0f161e858f3a71c2bfd744f32aef" rel="alternate" type="text/html"/>
+<updated>2026-05-03T22:30:57.000Z</updated>
+<title>[Docs] how to use @php-wasm/compile-extension from a downstream repo (#3595)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6f7c10def61c0f161e858f3a71c2bfd744f32aef#diff-59b483aae10537d132db9e3a67244d257f7825a3b675e4b81ab6221c8ec30395&quot;&gt;developers/06-apis/javascript-api/08-build-php-extensions.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6f7c10def61c0f161e858f3a71c2bfd744f32aef#diff-f5060c595b9ced066102dc59a442e9042d3830eadd20a708473d277827f329ff&quot;&gt;developers/06-apis/javascript-api/09-php-extension-dependencies.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6f7c10def61c0f161e858f3a71c2bfd744f32aef&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>b6808aacbfd8d96ab1fb13da2256792bd1e29e51</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/b6808aacbfd8d96ab1fb13da2256792bd1e29e51" rel="alternate" type="text/html"/>
+<updated>2026-05-03T21:11:38.000Z</updated>
+<title>[PHP] Support extension manifest sidecar files (#3580)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b6808aacbfd8d96ab1fb13da2256792bd1e29e51#diff-5ed0f4e6106ede0030b5e0e46504b90e29e7b2b2c4f3a453f5bba6339cb7c334&quot;&gt;developers/06-apis/javascript-api/07-php-extensions.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b6808aacbfd8d96ab1fb13da2256792bd1e29e51&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>1ac05a4e5665a4473b344527436448f9f581a049</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/1ac05a4e5665a4473b344527436448f9f581a049" rel="alternate" type="text/html"/>
@@ -222,58 +245,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/726b7e8e257cb10d42d8e7d1d3d515bc22b87783" rel="alternate" type="text/html"/>
 <updated>2026-04-15T16:57:45.000Z</updated>
 <title>[ xdebug ] Add Xdebug use case examples (#3075)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/726b7e8e257cb10d42d8e7d1d3d515bc22b87783#diff-ef72ead84db3b86734c7a03c8db82b265a22cc0b85c3b01c8bc2016a4bc2d607&quot;&gt;developers/07-xdebug/02-getting-started.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/726b7e8e257cb10d42d8e7d1d3d515bc22b87783&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>02e1b25f7215ee621ccd9edf804d7f8f36a47c6a</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/02e1b25f7215ee621ccd9edf804d7f8f36a47c6a" rel="alternate" type="text/html"/>
-<updated>2026-04-15T08:14:48.000Z</updated>
-<title>[Docs] Updating blueprint bundles page (#3465)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/02e1b25f7215ee621ccd9edf804d7f8f36a47c6a#diff-70d09fd00bd332186a91f1cbf9032b0c9038da26cd54ea4bbe2fdd79c078e989&quot;&gt;blueprints/06-bundles.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/02e1b25f7215ee621ccd9edf804d7f8f36a47c6a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>f32f9f07e9cb85960b073e3e31bcdfdae2849e6c</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f32f9f07e9cb85960b073e3e31bcdfdae2849e6c" rel="alternate" type="text/html"/>
-<updated>2026-04-15T08:10:09.000Z</updated>
-<title>[Docs] Updating asyncify page (#3459)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f32f9f07e9cb85960b073e3e31bcdfdae2849e6c#diff-259ca7f556f30c4c697578b3e53af6f3c64fbc400fad9b9d47bdcff70e37eb92&quot;&gt;developers/23-architecture/07-wasm-asyncify.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f32f9f07e9cb85960b073e3e31bcdfdae2849e6c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>54b97e571939e0021db83b9c423e9608dfdfa7d1</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1" rel="alternate" type="text/html"/>
-<updated>2026-04-14T15:50:38.000Z</updated>
-<title>[Docs] Removing docs fragments (#3470)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1#diff-d3d4e59bae8ffd4aa654e729787f0c72bfa2ee0705782897f3e4ef5c7d63382c&quot;&gt;developers/03-build-an-app/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1#diff-f03be93b146dbb91e11ad31990acdcbf5835924e196ddfee4176c60cbaf05525&quot;&gt;developers/06-apis/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1#diff-0095dd64399cc6f8a1eea50cc143d22a6758996046f283d03823f3c0dd636bcd&quot;&gt;developers/06-apis/javascript-api/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1#diff-4126a19306fbb861b01bf99c43bf92ceaca6c9f87599717c49e72a8d47e9069c&quot;&gt;main/intro.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1#diff-fd3fdfc31dbffeb5771bb04a8fafbf409b677a26b2afa59bcea853b7e679e448&quot;&gt;_fragments/_playground_wp_net_may_stop_working.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1#diff-353ca6474877ae26ea2d0ca405587d135480633b97ed21275896e0430c0c6793&quot;&gt;_fragments/_this_is_query_api.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1#diff-e4185c1e4b8c960014bfb42384a61266d9e1e9d4b2e6f04ec1aa225a2f3d327f&quot;&gt;_fragments/_work_in_progress.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/54b97e571939e0021db83b9c423e9608dfdfa7d1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>6de3a18bab230a994df946f72a6a38c6bfd0d11c</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6de3a18bab230a994df946f72a6a38c6bfd0d11c" rel="alternate" type="text/html"/>
-<updated>2026-04-14T09:39:06.000Z</updated>
-<title>Refresh SQLite integration plugin</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6de3a18bab230a994df946f72a6a38c6bfd0d11c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/726b7e8e257cb10d42d8e7d1d3d515bc22b87783&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
