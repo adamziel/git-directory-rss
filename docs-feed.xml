@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-09T02:38:46.058Z</updated>
+<updated>2026-05-10T02:43:46.668Z</updated>
 <entry>
 <id>6f7c10def61c0f161e858f3a71c2bfd744f32aef</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6f7c10def61c0f161e858f3a71c2bfd744f32aef" rel="alternate" type="text/html"/>
@@ -223,18 +223,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/601194908e5d4edd89b67d327e38b451c51d373e" rel="alternate" type="text/html"/>
 <updated>2026-04-22T06:48:18.000Z</updated>
 <title>[CLI] Add --workers=&lt;n|auto&gt; flag to configure worker thread count (#3504)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/601194908e5d4edd89b67d327e38b451c51d373e#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/601194908e5d4edd89b67d327e38b451c51d373e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>6322ab4db42ffb668371a068adfbc71bdd3c5e8f</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6322ab4db42ffb668371a068adfbc71bdd3c5e8f" rel="alternate" type="text/html"/>
-<updated>2026-04-21T12:22:03.000Z</updated>
-<title>[i18n] Create index.md and add French text (#3167)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6322ab4db42ffb668371a068adfbc71bdd3c5e8f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/601194908e5d4edd89b67d327e38b451c51d373e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
