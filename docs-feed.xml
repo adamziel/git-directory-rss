@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-10T02:43:46.668Z</updated>
+<updated>2026-05-11T02:53:37.577Z</updated>
 <entry>
 <id>6f7c10def61c0f161e858f3a71c2bfd744f32aef</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6f7c10def61c0f161e858f3a71c2bfd744f32aef" rel="alternate" type="text/html"/>
@@ -219,11 +219,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/96da8d2e5c33901e179e466d8d1b161041e6045b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>601194908e5d4edd89b67d327e38b451c51d373e</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/601194908e5d4edd89b67d327e38b451c51d373e" rel="alternate" type="text/html"/>
-<updated>2026-04-22T06:48:18.000Z</updated>
-<title>[CLI] Add --workers=&lt;n|auto&gt; flag to configure worker thread count (#3504)</title>
+<id>ee35972a329d90b99ef0f04ff0db82d0560ce7e4</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/ee35972a329d90b99ef0f04ff0db82d0560ce7e4" rel="alternate" type="text/html"/>
+<updated>2026-04-22T10:01:02.000Z</updated>
+<title>[PHP] Add `TSRMLS_CC` fallback defines for PHP versions above 7 (#3512)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/601194908e5d4edd89b67d327e38b451c51d373e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/ee35972a329d90b99ef0f04ff0db82d0560ce7e4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
