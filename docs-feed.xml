@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-15T02:55:51.202Z</updated>
+<updated>2026-05-16T02:42:02.663Z</updated>
+<entry>
+<id>0c8116cbf51dc5b2e255b8acdc4fac6380e2e426</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/0c8116cbf51dc5b2e255b8acdc4fac6380e2e426" rel="alternate" type="text/html"/>
+<updated>2026-05-15T23:57:23.000Z</updated>
+<title>[website] Add php-extension query parameter (#3645)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0c8116cbf51dc5b2e255b8acdc4fac6380e2e426#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0c8116cbf51dc5b2e255b8acdc4fac6380e2e426&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>9e29f996f921525271bbea283457d339818f4f3f</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/9e29f996f921525271bbea283457d339818f4f3f" rel="alternate" type="text/html"/>
@@ -142,30 +153,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/c957ab22716adce83abf3894fd8ce0b643304782" rel="alternate" type="text/html"/>
 <updated>2026-04-28T12:27:40.000Z</updated>
 <title>[Blueprint] Support .git repository URLs (#3541)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c957ab22716adce83abf3894fd8ce0b643304782#diff-6b04f1593393085180f3963760a741a9a84b0b2c3ab11a39a9bcf07cb107aae0&quot;&gt;blueprints/04-resources.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c957ab22716adce83abf3894fd8ce0b643304782#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c957ab22716adce83abf3894fd8ce0b643304782&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>fca1d5004452b32faf641a8eccae6e1578d49255</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/fca1d5004452b32faf641a8eccae6e1578d49255" rel="alternate" type="text/html"/>
-<updated>2026-04-28T10:10:02.000Z</updated>
-<title>[Website] &lt;php-snippet&gt; setup blueprints via &lt;template&gt; (#3536)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fca1d5004452b32faf641a8eccae6e1578d49255#diff-c4c0b9aa8c5ba99b40cb8a0f69edfad7d5a65824d00f53df35db53ff7d0097df&quot;&gt;main/guides/php-code-snippets.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fca1d5004452b32faf641a8eccae6e1578d49255&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>327f7e8052fd306ed5c2c8b5462b2983426cb0b9</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/327f7e8052fd306ed5c2c8b5462b2983426cb0b9" rel="alternate" type="text/html"/>
-<updated>2026-04-28T06:51:52.000Z</updated>
-<title>[CLI-util] Replace Xdebug console logs with CLI output (#3460)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/327f7e8052fd306ed5c2c8b5462b2983426cb0b9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c957ab22716adce83abf3894fd8ce0b643304782&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
