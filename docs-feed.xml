@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-17T02:50:56.393Z</updated>
+<updated>2026-05-18T03:27:46.602Z</updated>
 <entry>
 <id>0c8116cbf51dc5b2e255b8acdc4fac6380e2e426</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/0c8116cbf51dc5b2e255b8acdc4fac6380e2e426" rel="alternate" type="text/html"/>
@@ -142,18 +142,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/c7028907e3278ad4dfbc90f27b9ff3a9a568f12a" rel="alternate" type="text/html"/>
 <updated>2026-04-28T14:00:53.000Z</updated>
 <title>[Docs] Clarify PR preview button docs for fork PRs (#3537)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c7028907e3278ad4dfbc90f27b9ff3a9a568f12a#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c7028907e3278ad4dfbc90f27b9ff3a9a568f12a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>f369e30bb86ba509120c5f765f052f36bb7204d8</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f369e30bb86ba509120c5f765f052f36bb7204d8" rel="alternate" type="text/html"/>
-<updated>2026-04-28T13:34:23.000Z</updated>
-<title>Auto-label PRs: path-based labeler (replaces GitHub Models) (#3544)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f369e30bb86ba509120c5f765f052f36bb7204d8&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c7028907e3278ad4dfbc90f27b9ff3a9a568f12a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
