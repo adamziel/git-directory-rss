@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-19T02:57:04.298Z</updated>
+<updated>2026-05-20T02:57:11.694Z</updated>
+<entry>
+<id>feaf04fe400d1bd64d9bb40f90fa4ddde42bd253</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/feaf04fe400d1bd64d9bb40f90fa4ddde42bd253" rel="alternate" type="text/html"/>
+<updated>2026-05-19T13:01:52.000Z</updated>
+<title>[Docs] Document PHP snippet embeds (#3644)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/feaf04fe400d1bd64d9bb40f90fa4ddde42bd253#diff-b9a818da5af6063f6e78919320c4ebe9d0a55baf7ad1d1e1d1ac49ce31b3217c&quot;&gt;main/guides/index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/feaf04fe400d1bd64d9bb40f90fa4ddde42bd253#diff-c4c0b9aa8c5ba99b40cb8a0f69edfad7d5a65824d00f53df35db53ff7d0097df&quot;&gt;main/guides/php-code-snippets.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/feaf04fe400d1bd64d9bb40f90fa4ddde42bd253&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>0c8116cbf51dc5b2e255b8acdc4fac6380e2e426</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/0c8116cbf51dc5b2e255b8acdc4fac6380e2e426" rel="alternate" type="text/html"/>
@@ -98,24 +110,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2ac332822a2f5000699c05770f958903c527399d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>b71e3dc8509aeea480524bee09183a20fe788cd4</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/b71e3dc8509aeea480524bee09183a20fe788cd4" rel="alternate" type="text/html"/>
-<updated>2026-04-28T23:17:21.000Z</updated>
-<title>Update docs blueprint supporting encodeURIComponent URL fragments (#3556)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b71e3dc8509aeea480524bee09183a20fe788cd4#diff-d2e7aa9e7c70d072f2361ce263bb836ed00d7fb80020129cf1be36c303a250a8&quot;&gt;blueprints/02-using-blueprints.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b71e3dc8509aeea480524bee09183a20fe788cd4#diff-89f945ae700773cba8fa23d2dcc81775640a066992b86fdddc3a9fc74b3dc2a2&quot;&gt;blueprints/09-troubleshoot-and-debug-blueprints.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b71e3dc8509aeea480524bee09183a20fe788cd4#diff-7cbcd2c8ad1c4bb1232b2a6d9e5a73838496983845a7e0c163bfd5fa89a9ae3a&quot;&gt;blueprints/tutorial/02-how-to-load-run-blueprints.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b71e3dc8509aeea480524bee09183a20fe788cd4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>05692e111f84f2e769c0f7d3a8acff7720bf600c</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/05692e111f84f2e769c0f7d3a8acff7720bf600c" rel="alternate" type="text/html"/>
-<updated>2026-04-28T20:24:17.000Z</updated>
-<title>[Node] Handle symlinked directories in Node FS mounts (#3551)</title>
+<id>d1e93190af04c56937f498ddc80b368e6e45e68d</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/d1e93190af04c56937f498ddc80b368e6e45e68d" rel="alternate" type="text/html"/>
+<updated>2026-04-28T23:19:04.000Z</updated>
+<title>[Website] Avoid php-snippet progress flash for cached runtimes (#3560)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/05692e111f84f2e769c0f7d3a8acff7720bf600c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d1e93190af04c56937f498ddc80b368e6e45e68d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
