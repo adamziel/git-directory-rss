@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-20T02:57:11.694Z</updated>
+<updated>2026-05-21T03:26:37.325Z</updated>
 <entry>
 <id>feaf04fe400d1bd64d9bb40f90fa4ddde42bd253</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/feaf04fe400d1bd64d9bb40f90fa4ddde42bd253" rel="alternate" type="text/html"/>
@@ -110,11 +110,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2ac332822a2f5000699c05770f958903c527399d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>d1e93190af04c56937f498ddc80b368e6e45e68d</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/d1e93190af04c56937f498ddc80b368e6e45e68d" rel="alternate" type="text/html"/>
-<updated>2026-04-28T23:19:04.000Z</updated>
-<title>[Website] Avoid php-snippet progress flash for cached runtimes (#3560)</title>
+<id>7c4839aac7ea9a9850379adb9fafe03c190c6699</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7c4839aac7ea9a9850379adb9fafe03c190c6699" rel="alternate" type="text/html"/>
+<updated>2026-04-30T16:03:53.000Z</updated>
+<title>Register SQLite rc.3 PHP 5.2 rebuild (#3577)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d1e93190af04c56937f498ddc80b368e6e45e68d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7c4839aac7ea9a9850379adb9fafe03c190c6699&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
