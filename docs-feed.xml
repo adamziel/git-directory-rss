@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-22T03:25:46.472Z</updated>
+<updated>2026-05-23T02:46:00.889Z</updated>
 <entry>
 <id>feaf04fe400d1bd64d9bb40f90fa4ddde42bd253</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/feaf04fe400d1bd64d9bb40f90fa4ddde42bd253" rel="alternate" type="text/html"/>
@@ -97,11 +97,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe8875109dbed34f2a7be52d15096685f60b7b5f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>fd75f3d3d273bb1271c1bdd43ebab645467b0903</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/fd75f3d3d273bb1271c1bdd43ebab645467b0903" rel="alternate" type="text/html"/>
-<updated>2026-05-01T16:49:53.000Z</updated>
-<title>[Client] Restore bundled type declarations (#3576)</title>
+<id>24784f8544aedac69377b947a312932b865cc603</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/24784f8544aedac69377b947a312932b865cc603" rel="alternate" type="text/html"/>
+<updated>2026-05-01T19:40:05.000Z</updated>
+<title>[Networking] Set curl.cainfo alongside openssl.cafile (#3583)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fd75f3d3d273bb1271c1bdd43ebab645467b0903&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/24784f8544aedac69377b947a312932b865cc603&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
