@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-24T02:58:33.886Z</updated>
+<updated>2026-05-25T03:34:26.712Z</updated>
 <entry>
 <id>feaf04fe400d1bd64d9bb40f90fa4ddde42bd253</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/feaf04fe400d1bd64d9bb40f90fa4ddde42bd253" rel="alternate" type="text/html"/>
@@ -97,11 +97,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe8875109dbed34f2a7be52d15096685f60b7b5f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>84b37971c761c5e2f9f31d3616ef65342065fbef</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/84b37971c761c5e2f9f31d3616ef65342065fbef" rel="alternate" type="text/html"/>
-<updated>2026-05-01T19:45:32.000Z</updated>
-<title>[Docs] Treat docs changelog as CommonMark (#3586)</title>
+<id>7d2b9012c6947851528c2a7e7144b62a6c6a9243</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7d2b9012c6947851528c2a7e7144b62a6c6a9243" rel="alternate" type="text/html"/>
+<updated>2026-05-01T23:17:55.000Z</updated>
+<title>[PHP.wasm] Export Zend symbols for compiling PHP extensions (#3584)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/84b37971c761c5e2f9f31d3616ef65342065fbef&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7d2b9012c6947851528c2a7e7144b62a6c6a9243&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
