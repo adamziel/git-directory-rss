@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-29T02:56:55.236Z</updated>
+<updated>2026-05-30T02:50:10.367Z</updated>
 <entry>
 <id>a2e82f0916370628d34e4129950ca455f6a70164</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/a2e82f0916370628d34e4129950ca455f6a70164" rel="alternate" type="text/html"/>
@@ -151,11 +151,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fb6e1e4074457f1fad7a39d9aaae722f7c595eca&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>0a4bc7b58e20cbaadf6b9d6effa73fc54e44a167</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/0a4bc7b58e20cbaadf6b9d6effa73fc54e44a167" rel="alternate" type="text/html"/>
-<updated>2026-05-07T10:51:11.000Z</updated>
+<id>79778a978b11c0d33a25953f6990ea65b12f32c0</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/79778a978b11c0d33a25953f6990ea65b12f32c0" rel="alternate" type="text/html"/>
+<updated>2026-05-08T10:41:25.000Z</updated>
 <title>Refresh SQLite integration plugin</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a4bc7b58e20cbaadf6b9d6effa73fc54e44a167&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/79778a978b11c0d33a25953f6990ea65b12f32c0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
