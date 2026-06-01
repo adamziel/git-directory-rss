@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-05-31T03:33:57.972Z</updated>
+<updated>2026-06-01T03:45:36.158Z</updated>
 <entry>
 <id>a2e82f0916370628d34e4129950ca455f6a70164</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/a2e82f0916370628d34e4129950ca455f6a70164" rel="alternate" type="text/html"/>
@@ -151,11 +151,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fb6e1e4074457f1fad7a39d9aaae722f7c595eca&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>c3dc471b2e3fac908313965633ae1eef2c39570d</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/c3dc471b2e3fac908313965633ae1eef2c39570d" rel="alternate" type="text/html"/>
-<updated>2026-05-08T17:52:18.000Z</updated>
-<title>Recompile WordPress major and beta versions</title>
+<id>86bf80968600ba8a9722959e5f3644fc0e125698</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/86bf80968600ba8a9722959e5f3644fc0e125698" rel="alternate" type="text/html"/>
+<updated>2026-05-09T09:23:39.000Z</updated>
+<title>Fix PHP-WASM node rebuild Docker context (#3608)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c3dc471b2e3fac908313965633ae1eef2c39570d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/86bf80968600ba8a9722959e5f3644fc0e125698&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
