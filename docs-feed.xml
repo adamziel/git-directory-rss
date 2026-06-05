@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-06-04T03:44:00.436Z</updated>
+<updated>2026-06-05T03:32:04.365Z</updated>
 <entry>
 <id>57448218951b41c9e4a2ad67ea939b54cfddb5fe</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/57448218951b41c9e4a2ad67ea939b54cfddb5fe" rel="alternate" type="text/html"/>
@@ -139,11 +139,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0c8116cbf51dc5b2e255b8acdc4fac6380e2e426&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>6ed3bc7358efe0a8f32371e860bca0783559147e</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6ed3bc7358efe0a8f32371e860bca0783559147e" rel="alternate" type="text/html"/>
-<updated>2026-05-14T06:39:30.000Z</updated>
-<title>Simplify personal WP app installer (#3623)</title>
+<id>41e44ede4f0eebe04f65e5231285dfeb50f39030</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/41e44ede4f0eebe04f65e5231285dfeb50f39030" rel="alternate" type="text/html"/>
+<updated>2026-05-14T14:15:33.000Z</updated>
+<title>[CLI] Support staged PHP.wasm side modules</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6ed3bc7358efe0a8f32371e860bca0783559147e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/41e44ede4f0eebe04f65e5231285dfeb50f39030&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
