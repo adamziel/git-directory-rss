@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-06-06T02:53:02.985Z</updated>
+<updated>2026-06-07T03:37:38.820Z</updated>
 <entry>
 <id>57448218951b41c9e4a2ad67ea939b54cfddb5fe</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/57448218951b41c9e4a2ad67ea939b54cfddb5fe" rel="alternate" type="text/html"/>
@@ -139,11 +139,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0c8116cbf51dc5b2e255b8acdc4fac6380e2e426&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>a86340b3d888a2b5c6704588360d9b26128c69b3</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/a86340b3d888a2b5c6704588360d9b26128c69b3" rel="alternate" type="text/html"/>
-<updated>2026-05-14T14:24:38.000Z</updated>
-<title>Polish PHP snippet run UI (#3638)</title>
+<id>bb4d8e1746159f3d1975a6fcc975579a68ce3314</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/bb4d8e1746159f3d1975a6fcc975579a68ce3314" rel="alternate" type="text/html"/>
+<updated>2026-05-14T15:32:13.000Z</updated>
+<title>Export SQLite auto-extension symbols for PHP.wasm side modules (#3524)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a86340b3d888a2b5c6704588360d9b26128c69b3&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bb4d8e1746159f3d1975a6fcc975579a68ce3314&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
