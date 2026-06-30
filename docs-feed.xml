@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-06-29T03:38:16.552Z</updated>
+<updated>2026-06-30T03:25:12.774Z</updated>
 <entry>
 <id>991ab3819001eb9bf74cb9dc13cb7a6e85fa1309</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/991ab3819001eb9bf74cb9dc13cb7a6e85fa1309" rel="alternate" type="text/html"/>
@@ -73,11 +73,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/57448218951b41c9e4a2ad67ea939b54cfddb5fe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>8b501e31e0edf676aaaead3f7fda7e2ff111b5f6</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/8b501e31e0edf676aaaead3f7fda7e2ff111b5f6" rel="alternate" type="text/html"/>
-<updated>2026-05-28T23:10:30.000Z</updated>
-<title>Refine Your Playgrounds overlay for autosaves (#3676)</title>
+<id>7d32be25e9f539067e084b8c281925dd14bcbba8</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7d32be25e9f539067e084b8c281925dd14bcbba8" rel="alternate" type="text/html"/>
+<updated>2026-05-29T09:41:19.000Z</updated>
+<title>[Website] Infer PHP for older WordPress URLs (#3704)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/8b501e31e0edf676aaaead3f7fda7e2ff111b5f6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7d32be25e9f539067e084b8c281925dd14bcbba8&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
