@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-06-30T03:25:12.774Z</updated>
+<updated>2026-07-01T03:34:02.337Z</updated>
 <entry>
 <id>991ab3819001eb9bf74cb9dc13cb7a6e85fa1309</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/991ab3819001eb9bf74cb9dc13cb7a6e85fa1309" rel="alternate" type="text/html"/>
@@ -73,11 +73,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/57448218951b41c9e4a2ad67ea939b54cfddb5fe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>7d32be25e9f539067e084b8c281925dd14bcbba8</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/7d32be25e9f539067e084b8c281925dd14bcbba8" rel="alternate" type="text/html"/>
-<updated>2026-05-29T09:41:19.000Z</updated>
-<title>[Website] Infer PHP for older WordPress URLs (#3704)</title>
+<id>aa2d00d72e4261abfe610144be8be5541fb6baf5</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/aa2d00d72e4261abfe610144be8be5541fb6baf5" rel="alternate" type="text/html"/>
+<updated>2026-05-30T01:00:25.000Z</updated>
+<title>[Website] Avoid autosave prompts in embedded Playground (#3707)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7d32be25e9f539067e084b8c281925dd14bcbba8&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/aa2d00d72e4261abfe610144be8be5541fb6baf5&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
