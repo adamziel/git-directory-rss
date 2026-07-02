@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-01T03:34:02.337Z</updated>
+<updated>2026-07-02T02:58:29.440Z</updated>
 <entry>
 <id>991ab3819001eb9bf74cb9dc13cb7a6e85fa1309</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/991ab3819001eb9bf74cb9dc13cb7a6e85fa1309" rel="alternate" type="text/html"/>
@@ -62,22 +62,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bec482be0d99042827bd2c8c542e6c6e260a8e5a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>57448218951b41c9e4a2ad67ea939b54cfddb5fe</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/57448218951b41c9e4a2ad67ea939b54cfddb5fe" rel="alternate" type="text/html"/>
-<updated>2026-06-02T14:43:38.000Z</updated>
-<title>Update Slack channel reference in contribution guidelines (#3740)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/57448218951b41c9e4a2ad67ea939b54cfddb5fe#diff-7e9e8855b537117622eb500e0d37597f943cdb5e2eb2783697a7c121dd30b0d8&quot;&gt;main/contributing/index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/57448218951b41c9e4a2ad67ea939b54cfddb5fe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>aa2d00d72e4261abfe610144be8be5541fb6baf5</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/aa2d00d72e4261abfe610144be8be5541fb6baf5" rel="alternate" type="text/html"/>
-<updated>2026-05-30T01:00:25.000Z</updated>
-<title>[Website] Avoid autosave prompts in embedded Playground (#3707)</title>
+<id>e5dd09ebee61b55efa6ca087c4d839fe00f08b4b</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/e5dd09ebee61b55efa6ca087c4d839fe00f08b4b" rel="alternate" type="text/html"/>
+<updated>2026-06-04T11:13:33.000Z</updated>
+<title>Refresh SQLite integration plugin</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/aa2d00d72e4261abfe610144be8be5541fb6baf5&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e5dd09ebee61b55efa6ca087c4d839fe00f08b4b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
