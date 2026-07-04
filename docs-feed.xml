@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-03T02:42:34.437Z</updated>
+<updated>2026-07-04T02:38:33.837Z</updated>
 <entry>
 <id>991ab3819001eb9bf74cb9dc13cb7a6e85fa1309</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/991ab3819001eb9bf74cb9dc13cb7a6e85fa1309" rel="alternate" type="text/html"/>
@@ -14,59 +14,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/991ab3819001eb9bf74cb9dc13cb7a6e85fa1309&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>253744d53935e61e3b66302b872bff8befafa71c</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/253744d53935e61e3b66302b872bff8befafa71c" rel="alternate" type="text/html"/>
-<updated>2026-06-10T00:19:40.000Z</updated>
-<title>[Docs] Document v3 PR preview workflows (#3779)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/253744d53935e61e3b66302b872bff8befafa71c#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/253744d53935e61e3b66302b872bff8befafa71c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>4b5afbe8a99b706854d450f9773c872e840a8736</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/4b5afbe8a99b706854d450f9773c872e840a8736" rel="alternate" type="text/html"/>
-<updated>2026-06-09T16:57:13.000Z</updated>
-<title>[Docs] Document Symfony without WordPress in Blueprint examples</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4b5afbe8a99b706854d450f9773c872e840a8736#diff-00768c47e713bf84058ad2b409ea6d95e90e61c5945e6403378a70b8c6a63166&quot;&gt;blueprints/08-examples.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4b5afbe8a99b706854d450f9773c872e840a8736#diff-de7848e82baca823302df7fec8d5a19c22f018ac361b5981f1f33a788a1ce8fe&quot;&gt;main/guides/php-frameworks.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4b5afbe8a99b706854d450f9773c872e840a8736&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>9983034d07d803b989c6fd658c0bc8191c3eb3ac</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/9983034d07d803b989c6fd658c0bc8191c3eb3ac" rel="alternate" type="text/html"/>
-<updated>2026-06-08T11:39:04.000Z</updated>
-<title>[Docs] Document wp-now migration to Playground CLI (#3767)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9983034d07d803b989c6fd658c0bc8191c3eb3ac#diff-dd8a93b4b5fa494476589d955f39de4d0d3b10fecdbba7c220630db593b5db26&quot;&gt;developers/05-local-development/01-wp-now.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9983034d07d803b989c6fd658c0bc8191c3eb3ac#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9983034d07d803b989c6fd658c0bc8191c3eb3ac#diff-134d18d36e83d1d020cef0c453225bbc95be4c9c410aa85941cdceebce55d000&quot;&gt;main/contributing/code.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9983034d07d803b989c6fd658c0bc8191c3eb3ac&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>bec482be0d99042827bd2c8c542e6c6e260a8e5a</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/bec482be0d99042827bd2c8c542e6c6e260a8e5a" rel="alternate" type="text/html"/>
-<updated>2026-06-08T11:35:03.000Z</updated>
-<title>[Docs] Document Symfony apps in Playground without WordPress (#3766)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bec482be0d99042827bd2c8c542e6c6e260a8e5a#diff-b9a818da5af6063f6e78919320c4ebe9d0a55baf7ad1d1e1d1ac49ce31b3217c&quot;&gt;main/guides/index.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bec482be0d99042827bd2c8c542e6c6e260a8e5a#diff-de7848e82baca823302df7fec8d5a19c22f018ac361b5981f1f33a788a1ce8fe&quot;&gt;main/guides/php-frameworks.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bec482be0d99042827bd2c8c542e6c6e260a8e5a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>99a9f37c03c48581512dadd2e5eaccb673bd0f4a</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/99a9f37c03c48581512dadd2e5eaccb673bd0f4a" rel="alternate" type="text/html"/>
-<updated>2026-06-08T11:17:32.000Z</updated>
-<title>chore: update changelog</title>
+<id>5876cd06efff3d3e184a5632c8b7bdfcf937eec0</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/5876cd06efff3d3e184a5632c8b7bdfcf937eec0" rel="alternate" type="text/html"/>
+<updated>2026-06-15T06:23:05.000Z</updated>
+<title>[Personal-WP] Add Remote Access (#3758)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/99a9f37c03c48581512dadd2e5eaccb673bd0f4a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5876cd06efff3d3e184a5632c8b7bdfcf937eec0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
