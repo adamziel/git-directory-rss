@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-04T02:38:33.837Z</updated>
+<updated>2026-07-05T02:55:05.540Z</updated>
 <entry>
 <id>991ab3819001eb9bf74cb9dc13cb7a6e85fa1309</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/991ab3819001eb9bf74cb9dc13cb7a6e85fa1309" rel="alternate" type="text/html"/>
@@ -14,11 +14,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/991ab3819001eb9bf74cb9dc13cb7a6e85fa1309&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>5876cd06efff3d3e184a5632c8b7bdfcf937eec0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/5876cd06efff3d3e184a5632c8b7bdfcf937eec0" rel="alternate" type="text/html"/>
-<updated>2026-06-15T06:23:05.000Z</updated>
-<title>[Personal-WP] Add Remote Access (#3758)</title>
+<id>66f24605b288a08a3dee79def6568aaf82cfbe82</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/66f24605b288a08a3dee79def6568aaf82cfbe82" rel="alternate" type="text/html"/>
+<updated>2026-06-15T09:35:10.000Z</updated>
+<title>Use direct relay.php endpoints for Remote Access (#3798)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5876cd06efff3d3e184a5632c8b7bdfcf937eec0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/66f24605b288a08a3dee79def6568aaf82cfbe82&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
