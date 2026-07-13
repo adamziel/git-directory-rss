@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-12T02:36:24.048Z</updated>
+<updated>2026-07-13T02:31:27.758Z</updated>
 <entry>
-<id>f110a9b87ba6eff2937d0e56f4924242d7ced15d</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f110a9b87ba6eff2937d0e56f4924242d7ced15d" rel="alternate" type="text/html"/>
-<updated>2026-07-03T13:20:25.000Z</updated>
-<title>[Blueprints] Resolve simple Blueprint v2 WordPress versions (#3891)</title>
+<id>0372771e374b124f2bc5b64dfb25e4e14357ea68</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/0372771e374b124f2bc5b64dfb25e4e14357ea68" rel="alternate" type="text/html"/>
+<updated>2026-07-03T13:21:10.000Z</updated>
+<title>[Blueprints] Resolve Blueprint v2 runtime constants (#3892)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f110a9b87ba6eff2937d0e56f4924242d7ced15d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0372771e374b124f2bc5b64dfb25e4e14357ea68&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
