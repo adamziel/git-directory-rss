@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-14T02:10:52.479Z</updated>
+<updated>2026-07-15T02:08:48.363Z</updated>
 <entry>
-<id>05387ffe0086e621009e5c23f0d734e3deb12196</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/05387ffe0086e621009e5c23f0d734e3deb12196" rel="alternate" type="text/html"/>
-<updated>2026-07-03T14:02:13.000Z</updated>
-<title>Disable admin view transitions in Chromium (#3886)</title>
+<id>9b3531d0bafdebae1acff38695eaa3267951275b</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/9b3531d0bafdebae1acff38695eaa3267951275b" rel="alternate" type="text/html"/>
+<updated>2026-07-07T09:33:38.000Z</updated>
+<title>[CLI] Add concurrent SQLite publish regression test (#3920)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/05387ffe0086e621009e5c23f0d734e3deb12196&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9b3531d0bafdebae1acff38695eaa3267951275b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
