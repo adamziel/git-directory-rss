@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-15T02:08:48.363Z</updated>
+<updated>2026-07-16T02:22:41.838Z</updated>
 <entry>
-<id>9b3531d0bafdebae1acff38695eaa3267951275b</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/9b3531d0bafdebae1acff38695eaa3267951275b" rel="alternate" type="text/html"/>
-<updated>2026-07-07T09:33:38.000Z</updated>
-<title>[CLI] Add concurrent SQLite publish regression test (#3920)</title>
+<id>d8e967692f4f8d1a15317859b7f1cac2219ed3f6</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6" rel="alternate" type="text/html"/>
+<updated>2026-07-16T01:59:28.000Z</updated>
+<title>[Docs] Describe Playground tools with the Dock UI</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6#diff-f03be93b146dbb91e11ad31990acdcbf5835924e196ddfee4176c60cbaf05525&quot;&gt;developers/06-apis/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6#diff-a8fe810dd37fb7e29fff92a42d57736ece32cc6fc6bcc5942f95ec7024147cf7&quot;&gt;developers/06-apis/sites-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6#diff-cd7a371157712d1bbddd689783ad50537e39170b83d30b0c088387d986b99d8a&quot;&gt;main/guides/playground-for-everyone.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6#diff-92c91e319684995a62dd6d6f78e180ae9430e96c48f124f21a0e2637cdaf4440&quot;&gt;main/web-instance.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>e3f610aff6164e34aa51ed488ccd7a23d5e176bb</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/e3f610aff6164e34aa51ed488ccd7a23d5e176bb" rel="alternate" type="text/html"/>
+<updated>2026-07-08T17:36:34.000Z</updated>
+<title>[Website] Add reusable dock pane primitives</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9b3531d0bafdebae1acff38695eaa3267951275b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e3f610aff6164e34aa51ed488ccd7a23d5e176bb&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
