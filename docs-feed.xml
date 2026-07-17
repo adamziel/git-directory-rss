@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-16T02:22:41.838Z</updated>
+<updated>2026-07-17T02:25:38.073Z</updated>
+<entry>
+<id>6c8dde40028498611c8134367e8a7c1e619758f7</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/6c8dde40028498611c8134367e8a7c1e619758f7" rel="alternate" type="text/html"/>
+<updated>2026-07-17T00:58:38.000Z</updated>
+<title>[Website] Decode JSON-encoded &lt;php-snippet&gt; child payloads (#4101)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6c8dde40028498611c8134367e8a7c1e619758f7#diff-c4c0b9aa8c5ba99b40cb8a0f69edfad7d5a65824d00f53df35db53ff7d0097df&quot;&gt;main/guides/php-code-snippets.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6c8dde40028498611c8134367e8a7c1e619758f7&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>d52dea7201e63166a72bf30cf1122370538a4ab4</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/d52dea7201e63166a72bf30cf1122370538a4ab4" rel="alternate" type="text/html"/>
+<updated>2026-07-16T15:15:29.000Z</updated>
+<title>[Docs] Document Dock paths in Blueprint and API docs (#4083)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d52dea7201e63166a72bf30cf1122370538a4ab4#diff-d2e7aa9e7c70d072f2361ce263bb836ed00d7fb80020129cf1be36c303a250a8&quot;&gt;blueprints/02-using-blueprints.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d52dea7201e63166a72bf30cf1122370538a4ab4#diff-70d09fd00bd332186a91f1cbf9032b0c9038da26cd54ea4bbe2fdd79c078e989&quot;&gt;blueprints/06-bundles.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d52dea7201e63166a72bf30cf1122370538a4ab4#diff-7cbcd2c8ad1c4bb1232b2a6d9e5a73838496983845a7e0c163bfd5fa89a9ae3a&quot;&gt;blueprints/tutorial/02-how-to-load-run-blueprints.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d52dea7201e63166a72bf30cf1122370538a4ab4#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d52dea7201e63166a72bf30cf1122370538a4ab4#diff-a8fe810dd37fb7e29fff92a42d57736ece32cc6fc6bcc5942f95ec7024147cf7&quot;&gt;developers/06-apis/sites-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d52dea7201e63166a72bf30cf1122370538a4ab4#diff-fcd51c9e14f81676fc6b7196ddd88737edaeb6f9021511b176ac58f8597e7eaf&quot;&gt;developers/intro-devs.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d52dea7201e63166a72bf30cf1122370538a4ab4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>f739b10af7686f84d37ec7ffee3191d873cbf9c2</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/f739b10af7686f84d37ec7ffee3191d873cbf9c2" rel="alternate" type="text/html"/>
+<updated>2026-07-16T11:24:14.000Z</updated>
+<title>[Website] Make Playgrounds pane rows span the Dock width (#4086)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f739b10af7686f84d37ec7ffee3191d873cbf9c2#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f739b10af7686f84d37ec7ffee3191d873cbf9c2#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f739b10af7686f84d37ec7ffee3191d873cbf9c2#diff-92c91e319684995a62dd6d6f78e180ae9430e96c48f124f21a0e2637cdaf4440&quot;&gt;main/web-instance.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f739b10af7686f84d37ec7ffee3191d873cbf9c2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>d8e967692f4f8d1a15317859b7f1cac2219ed3f6</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6" rel="alternate" type="text/html"/>
@@ -19,11 +59,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>e3f610aff6164e34aa51ed488ccd7a23d5e176bb</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/e3f610aff6164e34aa51ed488ccd7a23d5e176bb" rel="alternate" type="text/html"/>
-<updated>2026-07-08T17:36:34.000Z</updated>
-<title>[Website] Add reusable dock pane primitives</title>
+<id>7fa3ad8f8b21c41f4f0eb29b05ac360f607df9f9</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7fa3ad8f8b21c41f4f0eb29b05ac360f607df9f9" rel="alternate" type="text/html"/>
+<updated>2026-07-09T19:21:48.000Z</updated>
+<title>[Blueprints] Default v2 network access to disabled (#3983)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e3f610aff6164e34aa51ed488ccd7a23d5e176bb&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7fa3ad8f8b21c41f4f0eb29b05ac360f607df9f9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
