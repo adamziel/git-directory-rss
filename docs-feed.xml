@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-17T02:25:38.073Z</updated>
+<updated>2026-07-18T02:10:15.344Z</updated>
 <entry>
 <id>6c8dde40028498611c8134367e8a7c1e619758f7</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6c8dde40028498611c8134367e8a7c1e619758f7" rel="alternate" type="text/html"/>
@@ -59,11 +59,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>7fa3ad8f8b21c41f4f0eb29b05ac360f607df9f9</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/7fa3ad8f8b21c41f4f0eb29b05ac360f607df9f9" rel="alternate" type="text/html"/>
-<updated>2026-07-09T19:21:48.000Z</updated>
-<title>[Blueprints] Default v2 network access to disabled (#3983)</title>
+<id>7ae2dfd940110e27ab490eeb4bc28c19f80896af</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7ae2dfd940110e27ab490eeb4bc28c19f80896af" rel="alternate" type="text/html"/>
+<updated>2026-07-09T22:05:49.000Z</updated>
+<title>[Blueprints] Import nested WordPress file ZIPs (#3986)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7fa3ad8f8b21c41f4f0eb29b05ac360f607df9f9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7ae2dfd940110e27ab490eeb4bc28c19f80896af&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
