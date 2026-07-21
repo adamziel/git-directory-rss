@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-20T02:42:24.034Z</updated>
+<updated>2026-07-21T02:26:04.930Z</updated>
 <entry>
 <id>6c8dde40028498611c8134367e8a7c1e619758f7</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6c8dde40028498611c8134367e8a7c1e619758f7" rel="alternate" type="text/html"/>
@@ -59,11 +59,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>3c151875582368a8496f8a95b6ee8e481d6a5276</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/3c151875582368a8496f8a95b6ee8e481d6a5276" rel="alternate" type="text/html"/>
-<updated>2026-07-09T23:16:43.000Z</updated>
-<title>[Website] Extract saved Playground state helpers (#3989)</title>
+<id>1bdf94c2aa56aeed5feac3ac992ae7274ac7248c</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/1bdf94c2aa56aeed5feac3ac992ae7274ac7248c" rel="alternate" type="text/html"/>
+<updated>2026-07-11T10:44:49.000Z</updated>
+<title>[Website] Keep pending file edits with their filesystem owner (#4008)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3c151875582368a8496f8a95b6ee8e481d6a5276&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1bdf94c2aa56aeed5feac3ac992ae7274ac7248c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
