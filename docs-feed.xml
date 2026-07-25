@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-24T02:27:10.687Z</updated>
+<updated>2026-07-25T02:25:12.830Z</updated>
+<entry>
+<id>6e62230ec2b34a53710ac918eef4c597d928a669</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/6e62230ec2b34a53710ac918eef4c597d928a669" rel="alternate" type="text/html"/>
+<updated>2026-07-24T12:02:29.000Z</updated>
+<title>[docs] Updating resource page (#4037)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6e62230ec2b34a53710ac918eef4c597d928a669#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6e62230ec2b34a53710ac918eef4c597d928a669&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>7a3e2425194a0669d9eb35776ec24e1a7cd9b110</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110" rel="alternate" type="text/html"/>
+<updated>2026-07-24T10:14:25.000Z</updated>
+<title>[docs] Adding ways of import data guide (#4032)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110#diff-af27780fe9aad904053350dfa31a5287f398cac8593f20457ff742149186fce7&quot;&gt;main/guides/import-content-with-blueprints.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110#diff-b9a818da5af6063f6e78919320c4ebe9d0a55baf7ad1d1e1d1ac49ce31b3217c&quot;&gt;main/guides/index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110#diff-2a115c2b124baec5f5b4a5343fb5699bfc1d1a5616ba858ce3a401075eb41176&quot;&gt;main/guides/providing-content-for-your-demo.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>6c8dde40028498611c8134367e8a7c1e619758f7</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6c8dde40028498611c8134367e8a7c1e619758f7" rel="alternate" type="text/html"/>
@@ -59,11 +83,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>95839d6c492f816a465f19935bd3397ea97cf3c0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/95839d6c492f816a465f19935bd3397ea97cf3c0" rel="alternate" type="text/html"/>
-<updated>2026-07-14T15:05:03.000Z</updated>
-<title>[Website] Autosave after dismissing restore prompts (#4035)</title>
+<id>17ea899d96217124d974513c636c3c63c1391ef2</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/17ea899d96217124d974513c636c3c63c1391ef2" rel="alternate" type="text/html"/>
+<updated>2026-07-14T23:03:26.000Z</updated>
+<title>[Website] Expose recent-autosave visibility to Dock consumers (#4047)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/95839d6c492f816a465f19935bd3397ea97cf3c0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/17ea899d96217124d974513c636c3c63c1391ef2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
