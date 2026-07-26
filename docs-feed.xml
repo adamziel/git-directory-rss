@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-25T02:25:12.830Z</updated>
+<updated>2026-07-26T02:31:47.898Z</updated>
 <entry>
 <id>6e62230ec2b34a53710ac918eef4c597d928a669</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6e62230ec2b34a53710ac918eef4c597d928a669" rel="alternate" type="text/html"/>
@@ -83,11 +83,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>17ea899d96217124d974513c636c3c63c1391ef2</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/17ea899d96217124d974513c636c3c63c1391ef2" rel="alternate" type="text/html"/>
-<updated>2026-07-14T23:03:26.000Z</updated>
-<title>[Website] Expose recent-autosave visibility to Dock consumers (#4047)</title>
+<id>e869ab4518eaa30d667b1de7221bdc8ea53cc2e9</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/e869ab4518eaa30d667b1de7221bdc8ea53cc2e9" rel="alternate" type="text/html"/>
+<updated>2026-07-14T23:09:37.000Z</updated>
+<title>[Website] Center the modal loading spinner over the page (#4050)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/17ea899d96217124d974513c636c3c63c1391ef2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e869ab4518eaa30d667b1de7221bdc8ea53cc2e9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
