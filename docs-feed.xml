@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-27T02:39:30.538Z</updated>
+<updated>2026-07-28T02:13:52.746Z</updated>
+<entry>
+<id>a965f5bf22106a69995e564f8b13c454dace5079</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079" rel="alternate" type="text/html"/>
+<updated>2026-07-27T13:37:34.000Z</updated>
+<title>[docs] Adding WASM PHP modules page (#4010)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079#diff-c870dcdf0c7d99779e72246986f92a6f9ea7d26c69db72e98186367cc75bd5d2&quot;&gt;developers/05-local-development/03-php-wasm-node.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079#diff-ccfbf01f83670cc4edb7ce4132d125c8394ac942f9fa7506a4994bb14a01bca8&quot;&gt;developers/23-architecture/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079#diff-d70b94dd4f498142b636028233023bb08a7ccbdb8dc75f39db9f0335469907f2&quot;&gt;developers/23-architecture/04-wasm-php-javascript-module.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079#diff-d02de847e46541f133b5dc6d8a335d27ce8b42ac631c5347b8fb5347d28ed00a&quot;&gt;developers/23-architecture/06-php-wasm-packages.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>6e62230ec2b34a53710ac918eef4c597d928a669</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6e62230ec2b34a53710ac918eef4c597d928a669" rel="alternate" type="text/html"/>
@@ -83,11 +97,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>e869ab4518eaa30d667b1de7221bdc8ea53cc2e9</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/e869ab4518eaa30d667b1de7221bdc8ea53cc2e9" rel="alternate" type="text/html"/>
-<updated>2026-07-14T23:09:37.000Z</updated>
-<title>[Website] Center the modal loading spinner over the page (#4050)</title>
+<id>9465ba552ff59df633d37c98b713660859324175</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/9465ba552ff59df633d37c98b713660859324175" rel="alternate" type="text/html"/>
+<updated>2026-07-15T00:08:08.000Z</updated>
+<title>[Website] Define Dock pane and notice positioning (#4056)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e869ab4518eaa30d667b1de7221bdc8ea53cc2e9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9465ba552ff59df633d37c98b713660859324175&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
