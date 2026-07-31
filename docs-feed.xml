@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-07-30T02:06:07.108Z</updated>
+<updated>2026-07-31T02:33:21.749Z</updated>
+<entry>
+<id>a990ac0afdb34c1e680528545501d4c8500883c4</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4" rel="alternate" type="text/html"/>
+<updated>2026-07-30T16:00:51.000Z</updated>
+<title>[Docs] Route Playground guides through Dock workflows (#4082)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-89f945ae700773cba8fa23d2dcc81775640a066992b86fdddc3a9fc74b3dc2a2&quot;&gt;blueprints/09-troubleshoot-and-debug-blueprints.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-d4658ce696fbb1d7289383171973f2c9cc60804d622b65ef46fd6f8975e2a6be&quot;&gt;developers/24-limitations/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-3d04b644ee07d7ff14e1dbaa3e86ed58c1dadb147f3f65e7b0f6876e279843e5&quot;&gt;main/about/build.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-cd7a371157712d1bbddd689783ad50537e39170b83d30b0c088387d986b99d8a&quot;&gt;main/guides/playground-for-everyone.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-4e02f1ac0b8ea38189232824d942aa6c00caacff7ac3923d8dd2b5b934272522&quot;&gt;main/troubleshooting.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>a965f5bf22106a69995e564f8b13c454dace5079</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079" rel="alternate" type="text/html"/>
@@ -97,11 +112,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d8e967692f4f8d1a15317859b7f1cac2219ed3f6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>6a3d1527a6660b19f2a6cdeecc6f78b1a59397b0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6a3d1527a6660b19f2a6cdeecc6f78b1a59397b0" rel="alternate" type="text/html"/>
-<updated>2026-07-16T00:35:54.000Z</updated>
-<title>[Website] Hide database tools until Playground is ready (#4076)</title>
+<id>38474c1a147b0da9f757814394f88df66989e840</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/38474c1a147b0da9f757814394f88df66989e840" rel="alternate" type="text/html"/>
+<updated>2026-07-16T01:13:00.000Z</updated>
+<title>[Website] Keep the file editor Save control stable during autosave (#4073)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6a3d1527a6660b19f2a6cdeecc6f78b1a59397b0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/38474c1a147b0da9f757814394f88df66989e840&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
