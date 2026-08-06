@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-08-05T02:11:46.818Z</updated>
+<updated>2026-08-06T02:18:37.260Z</updated>
 <entry>
 <id>fb3dbf8c8682b1078461dbe2943ff35008fc8477</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fb3dbf8c8682b1078461dbe2943ff35008fc8477" rel="alternate" type="text/html"/>
@@ -79,11 +79,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6c8dde40028498611c8134367e8a7c1e619758f7&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>808270283deac9c72c828bb276dfbe83300dfbf7</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/808270283deac9c72c828bb276dfbe83300dfbf7" rel="alternate" type="text/html"/>
-<updated>2026-07-16T20:22:20.000Z</updated>
-<title>[Website] Align mobile Dock pane titles, toolbars, and forms (#4084)</title>
+<id>0637d4578ed5dbb4edd028b2550121857c75bec8</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/0637d4578ed5dbb4edd028b2550121857c75bec8" rel="alternate" type="text/html"/>
+<updated>2026-07-16T20:33:47.000Z</updated>
+<title>[Website] Restyle the GitHub connect prompt to match the Dock (#4094)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/808270283deac9c72c828bb276dfbe83300dfbf7&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0637d4578ed5dbb4edd028b2550121857c75bec8&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
