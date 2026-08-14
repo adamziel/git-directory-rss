@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-08-13T01:44:47.915Z</updated>
+<updated>2026-08-14T01:42:51.449Z</updated>
 <entry>
 <id>fb3dbf8c8682b1078461dbe2943ff35008fc8477</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fb3dbf8c8682b1078461dbe2943ff35008fc8477" rel="alternate" type="text/html"/>
@@ -68,11 +68,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>291fffde093a063932d780e25dc5b77292bd66ef</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/291fffde093a063932d780e25dc5b77292bd66ef" rel="alternate" type="text/html"/>
-<updated>2026-07-18T16:55:43.000Z</updated>
-<title>[Website] Place Dock panes above the visible collapsed row (#4112)</title>
+<id>88631c7180f58bb4a2b1312041c70c4f7fddcabb</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/88631c7180f58bb4a2b1312041c70c4f7fddcabb" rel="alternate" type="text/html"/>
+<updated>2026-07-20T14:38:44.000Z</updated>
+<title>[Website] Bind copied Blueprint bundles to their new Playground (#4115)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/291fffde093a063932d780e25dc5b77292bd66ef&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/88631c7180f58bb4a2b1312041c70c4f7fddcabb&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
