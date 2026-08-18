@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-08-17T01:04:47.521Z</updated>
+<updated>2026-08-18T01:03:10.894Z</updated>
+<entry>
+<id>d9cd455613b1ed8381f28ef52bc26ddb496ce554</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554" rel="alternate" type="text/html"/>
+<updated>2026-08-17T19:53:10.000Z</updated>
+<title>[Website] Auto-prepend PHP scripts before snippet execution (#4262)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554#diff-c4c0b9aa8c5ba99b40cb8a0f69edfad7d5a65824d00f53df35db53ff7d0097df&quot;&gt;main/guides/php-code-snippets.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>fb3dbf8c8682b1078461dbe2943ff35008fc8477</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fb3dbf8c8682b1078461dbe2943ff35008fc8477" rel="alternate" type="text/html"/>
@@ -68,11 +79,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>88631c7180f58bb4a2b1312041c70c4f7fddcabb</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/88631c7180f58bb4a2b1312041c70c4f7fddcabb" rel="alternate" type="text/html"/>
-<updated>2026-07-20T14:38:44.000Z</updated>
-<title>[Website] Bind copied Blueprint bundles to their new Playground (#4115)</title>
+<id>70a61af72ce31ade181e9eabe701f9b15a325caf</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/70a61af72ce31ade181e9eabe701f9b15a325caf" rel="alternate" type="text/html"/>
+<updated>2026-07-20T19:39:16.000Z</updated>
+<title>[Website] Log OPFS write worker failures (#4125)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/88631c7180f58bb4a2b1312041c70c4f7fddcabb&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/70a61af72ce31ade181e9eabe701f9b15a325caf&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
