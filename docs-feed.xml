@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-08-24T01:06:16.040Z</updated>
+<updated>2026-08-25T01:05:28.361Z</updated>
+<entry>
+<id>4845daa6fbea794bec43dc1ca06873bbff753f14</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14" rel="alternate" type="text/html"/>
+<updated>2026-08-24T11:05:59.000Z</updated>
+<title>[docs] Rename duplicate manifest slugs breaking developer.wordpress.org pages (#4266)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14#diff-6c1ebb4929bf53678918376612218856a09b2fd6a3b26a4e9cdceb5bf3a99a70&quot;&gt;blueprints/tutorial/01-what-are-blueprints-what-you-can-do-with-them.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14#diff-9b7e52bd4b934ffb254f3b978cb2f6f5ab8e5194c11fb43501c1cdb5568dff17&quot;&gt;developers/07-xdebug/01-introduction.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14#diff-ef72ead84db3b86734c7a03c8db82b265a22cc0b85c3b01c8bc2016a4bc2d607&quot;&gt;developers/07-xdebug/02-getting-started.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14#diff-81889768112f8bf511416d29222a6642aa6ecd345345bb7e7df23743a3fa3b39&quot;&gt;main/contributing/translations.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14#diff-4126a19306fbb861b01bf99c43bf92ceaca6c9f87599717c49e72a8d47e9069c&quot;&gt;main/intro.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>d9cd455613b1ed8381f28ef52bc26ddb496ce554</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554" rel="alternate" type="text/html"/>
@@ -79,11 +95,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>c3133f39312984993216824d686276cd8ac3b199</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/c3133f39312984993216824d686276cd8ac3b199" rel="alternate" type="text/html"/>
-<updated>2026-07-21T01:07:16.000Z</updated>
-<title>[Website] Detect the repository for pull request numbers (#4120)</title>
+<id>c0e10bd16b810ba04644659f7003468f9287d7a6</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/c0e10bd16b810ba04644659f7003468f9287d7a6" rel="alternate" type="text/html"/>
+<updated>2026-07-21T10:59:26.000Z</updated>
+<title>[Blueprints] Export complete versioned Playground ZIP snapshots (#4139)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c3133f39312984993216824d686276cd8ac3b199&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c0e10bd16b810ba04644659f7003468f9287d7a6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
