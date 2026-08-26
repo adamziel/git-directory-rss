@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-08-25T01:05:28.361Z</updated>
+<updated>2026-08-26T01:07:19.835Z</updated>
 <entry>
 <id>4845daa6fbea794bec43dc1ca06873bbff753f14</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14" rel="alternate" type="text/html"/>
@@ -95,11 +95,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>c0e10bd16b810ba04644659f7003468f9287d7a6</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/c0e10bd16b810ba04644659f7003468f9287d7a6" rel="alternate" type="text/html"/>
-<updated>2026-07-21T10:59:26.000Z</updated>
-<title>[Blueprints] Export complete versioned Playground ZIP snapshots (#4139)</title>
+<id>0c1f679740c4eacf98e4806fac0f11025d504d99</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/0c1f679740c4eacf98e4806fac0f11025d504d99" rel="alternate" type="text/html"/>
+<updated>2026-07-21T14:31:50.000Z</updated>
+<title>[Website] Share concurrent OPFS autosave operations (#4140)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c0e10bd16b810ba04644659f7003468f9287d7a6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0c1f679740c4eacf98e4806fac0f11025d504d99&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
