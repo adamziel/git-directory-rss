@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-08-28T08:58:50.531Z</updated>
+<updated>2026-08-29T05:33:23.649Z</updated>
+<entry>
+<id>3144994d6349eca905aaaf28e118916f1f4e2202</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202" rel="alternate" type="text/html"/>
+<updated>2026-08-28T15:17:11.000Z</updated>
+<title>Docs: replace rewrite-flushing writeFile examples (#3806)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202#diff-00768c47e713bf84058ad2b409ea6d95e90e61c5945e6403378a70b8c6a63166&quot;&gt;blueprints/08-examples.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202#diff-e244fba9fe2c0532f22afaf6857d18eb7c8d12fe256ab0ac5dde18a02b1c9e4f&quot;&gt;main/guides/for-theme-developers.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>4845daa6fbea794bec43dc1ca06873bbff753f14</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14" rel="alternate" type="text/html"/>
@@ -95,11 +107,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>0c1f679740c4eacf98e4806fac0f11025d504d99</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/0c1f679740c4eacf98e4806fac0f11025d504d99" rel="alternate" type="text/html"/>
-<updated>2026-07-21T14:31:50.000Z</updated>
-<title>[Website] Share concurrent OPFS autosave operations (#4140)</title>
+<id>a751c2ce1ab11b0735dfa0019c1836b5581aa1a0</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/a751c2ce1ab11b0735dfa0019c1836b5581aa1a0" rel="alternate" type="text/html"/>
+<updated>2026-07-21T20:34:45.000Z</updated>
+<title>[Website] Import ZIP contents before initial browser persistence (#4131)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0c1f679740c4eacf98e4806fac0f11025d504d99&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a751c2ce1ab11b0735dfa0019c1836b5581aa1a0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
