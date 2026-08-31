@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-08-30T03:31:35.236Z</updated>
+<updated>2026-08-31T03:30:20.802Z</updated>
 <entry>
 <id>3144994d6349eca905aaaf28e118916f1f4e2202</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202" rel="alternate" type="text/html"/>
@@ -107,11 +107,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>a751c2ce1ab11b0735dfa0019c1836b5581aa1a0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/a751c2ce1ab11b0735dfa0019c1836b5581aa1a0" rel="alternate" type="text/html"/>
-<updated>2026-07-21T20:34:45.000Z</updated>
-<title>[Website] Import ZIP contents before initial browser persistence (#4131)</title>
+<id>6018f94b16408dc6e0a4cb637667a052735d0721</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/6018f94b16408dc6e0a4cb637667a052735d0721" rel="alternate" type="text/html"/>
+<updated>2026-07-21T21:04:45.000Z</updated>
+<title>[Website] Expose front-page thumbnail capture through PlaygroundClient (#4142)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a751c2ce1ab11b0735dfa0019c1836b5581aa1a0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6018f94b16408dc6e0a4cb637667a052735d0721&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
