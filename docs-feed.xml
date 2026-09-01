@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-08-31T03:30:20.802Z</updated>
+<updated>2026-09-01T03:29:20.818Z</updated>
+<entry>
+<id>0a9c78792de6dfee917791b1e2d11166f66dce7d</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d" rel="alternate" type="text/html"/>
+<updated>2026-08-31T22:46:51.000Z</updated>
+<title>[Docs] Add GitHub UI documentation contribution guide (#3724)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d#diff-ca06b4b79a56b7a4be00cb09885cbb39d4ade41e2652b5d2479469434870a636&quot;&gt;main/contributing/documentation.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d#diff-8b5d9e507348d6c821eabf0e2cf8ec9471712325532e0801362972190f9fe6cb&quot;&gt;main/contributing/github-ui.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d#diff-81889768112f8bf511416d29222a6642aa6ecd345345bb7e7df23743a3fa3b39&quot;&gt;main/contributing/translations.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>3144994d6349eca905aaaf28e118916f1f4e2202</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202" rel="alternate" type="text/html"/>
@@ -107,11 +120,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>6018f94b16408dc6e0a4cb637667a052735d0721</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6018f94b16408dc6e0a4cb637667a052735d0721" rel="alternate" type="text/html"/>
-<updated>2026-07-21T21:04:45.000Z</updated>
-<title>[Website] Expose front-page thumbnail capture through PlaygroundClient (#4142)</title>
+<id>278ae70878413b6efc152f01f4e1a94ed785a922</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/278ae70878413b6efc152f01f4e1a94ed785a922" rel="alternate" type="text/html"/>
+<updated>2026-07-24T04:37:03.000Z</updated>
+<title>[Website] Fix phpMyAdmin page not found in Personal WP (#4154)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6018f94b16408dc6e0a4cb637667a052735d0721&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/278ae70878413b6efc152f01f4e1a94ed785a922&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
