@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-01T03:29:20.818Z</updated>
+<updated>2026-09-02T02:47:17.391Z</updated>
 <entry>
 <id>0a9c78792de6dfee917791b1e2d11166f66dce7d</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d" rel="alternate" type="text/html"/>
@@ -111,20 +111,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110" rel="alternate" type="text/html"/>
 <updated>2026-07-24T10:14:25.000Z</updated>
 <title>[docs] Adding ways of import data guide (#4032)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110#diff-af27780fe9aad904053350dfa31a5287f398cac8593f20457ff742149186fce7&quot;&gt;main/guides/import-content-with-blueprints.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110#diff-b9a818da5af6063f6e78919320c4ebe9d0a55baf7ad1d1e1d1ac49ce31b3217c&quot;&gt;main/guides/index.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110#diff-2a115c2b124baec5f5b4a5343fb5699bfc1d1a5616ba858ce3a401075eb41176&quot;&gt;main/guides/providing-content-for-your-demo.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>278ae70878413b6efc152f01f4e1a94ed785a922</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/278ae70878413b6efc152f01f4e1a94ed785a922" rel="alternate" type="text/html"/>
-<updated>2026-07-24T04:37:03.000Z</updated>
-<title>[Website] Fix phpMyAdmin page not found in Personal WP (#4154)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/278ae70878413b6efc152f01f4e1a94ed785a922&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
