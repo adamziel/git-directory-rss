@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-03T02:51:49.147Z</updated>
+<updated>2026-09-04T02:50:36.824Z</updated>
 <entry>
 <id>0a9c78792de6dfee917791b1e2d11166f66dce7d</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d" rel="alternate" type="text/html"/>
@@ -96,22 +96,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>6e62230ec2b34a53710ac918eef4c597d928a669</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6e62230ec2b34a53710ac918eef4c597d928a669" rel="alternate" type="text/html"/>
-<updated>2026-07-24T12:02:29.000Z</updated>
-<title>[docs] Updating resource page (#4037)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6e62230ec2b34a53710ac918eef4c597d928a669#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6e62230ec2b34a53710ac918eef4c597d928a669&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>7a3e2425194a0669d9eb35776ec24e1a7cd9b110</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110" rel="alternate" type="text/html"/>
-<updated>2026-07-24T10:14:25.000Z</updated>
-<title>[docs] Adding ways of import data guide (#4032)</title>
+<id>f7ef0851240ee47686fca5cb45c7cdcfe640a389</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/f7ef0851240ee47686fca5cb45c7cdcfe640a389" rel="alternate" type="text/html"/>
+<updated>2026-07-25T00:07:58.000Z</updated>
+<title>[Website] Accept ZIP drops across the page (#4121)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7a3e2425194a0669d9eb35776ec24e1a7cd9b110&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f7ef0851240ee47686fca5cb45c7cdcfe640a389&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
