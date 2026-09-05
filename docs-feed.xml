@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-04T02:50:36.824Z</updated>
+<updated>2026-09-05T02:52:27.645Z</updated>
 <entry>
 <id>0a9c78792de6dfee917791b1e2d11166f66dce7d</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d" rel="alternate" type="text/html"/>
@@ -96,11 +96,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>f7ef0851240ee47686fca5cb45c7cdcfe640a389</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f7ef0851240ee47686fca5cb45c7cdcfe640a389" rel="alternate" type="text/html"/>
-<updated>2026-07-25T00:07:58.000Z</updated>
-<title>[Website] Accept ZIP drops across the page (#4121)</title>
+<id>1f6947e95aef343259a05219cef4d725cc51cb58</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/1f6947e95aef343259a05219cef4d725cc51cb58" rel="alternate" type="text/html"/>
+<updated>2026-07-25T00:15:08.000Z</updated>
+<title>[Website] Preserve concurrent cross-tab metadata changes (#4152)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f7ef0851240ee47686fca5cb45c7cdcfe640a389&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1f6947e95aef343259a05219cef4d725cc51cb58&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
