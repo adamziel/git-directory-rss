@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-07T02:48:33.816Z</updated>
+<updated>2026-09-08T02:59:00.543Z</updated>
 <entry>
 <id>0a9c78792de6dfee917791b1e2d11166f66dce7d</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d" rel="alternate" type="text/html"/>
@@ -86,21 +86,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079" rel="alternate" type="text/html"/>
 <updated>2026-07-27T13:37:34.000Z</updated>
 <title>[docs] Adding WASM PHP modules page (#4010)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079#diff-c870dcdf0c7d99779e72246986f92a6f9ea7d26c69db72e98186367cc75bd5d2&quot;&gt;developers/05-local-development/03-php-wasm-node.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079#diff-ccfbf01f83670cc4edb7ce4132d125c8394ac942f9fa7506a4994bb14a01bca8&quot;&gt;developers/23-architecture/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079#diff-d70b94dd4f498142b636028233023bb08a7ccbdb8dc75f39db9f0335469907f2&quot;&gt;developers/23-architecture/04-wasm-php-javascript-module.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079#diff-d02de847e46541f133b5dc6d8a335d27ce8b42ac631c5347b8fb5347d28ed00a&quot;&gt;developers/23-architecture/06-php-wasm-packages.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>e05e4bcb912ac15de915c771fdd55e864058cce0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/e05e4bcb912ac15de915c771fdd55e864058cce0" rel="alternate" type="text/html"/>
-<updated>2026-07-25T00:32:35.000Z</updated>
-<title>[Website] Validate plugin proxy redirect destinations (#4137)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e05e4bcb912ac15de915c771fdd55e864058cce0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a965f5bf22106a69995e564f8b13c454dace5079&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
