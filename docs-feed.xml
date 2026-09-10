@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-09T02:59:38.736Z</updated>
+<updated>2026-09-10T03:00:07.146Z</updated>
 <entry>
 <id>0a9c78792de6dfee917791b1e2d11166f66dce7d</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d" rel="alternate" type="text/html"/>
@@ -82,11 +82,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>3ee823249d1057b1c74e1cc8df76b5abcf1f52ba</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/3ee823249d1057b1c74e1cc8df76b5abcf1f52ba" rel="alternate" type="text/html"/>
-<updated>2026-07-27T23:39:34.000Z</updated>
-<title>[Website] Keep the ZIP drop overlay active over frames (#4179)</title>
+<id>b1cb74a7b2d5b0a0771369fbe6c63cce14bcd810</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/b1cb74a7b2d5b0a0771369fbe6c63cce14bcd810" rel="alternate" type="text/html"/>
+<updated>2026-07-28T09:56:16.000Z</updated>
+<title>Refresh SQLite integration plugin</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3ee823249d1057b1c74e1cc8df76b5abcf1f52ba&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b1cb74a7b2d5b0a0771369fbe6c63cce14bcd810&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
