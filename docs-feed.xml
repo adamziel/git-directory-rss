@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-16T03:15:06.896Z</updated>
+<updated>2026-09-17T03:20:43.383Z</updated>
 <entry>
 <id>c3655c45ef44b7da5a7289483607f6472399310b</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/c3655c45ef44b7da5a7289483607f6472399310b" rel="alternate" type="text/html"/>
@@ -93,11 +93,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>1265863919556790f57abbaf43e21db4d80f1e87</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/1265863919556790f57abbaf43e21db4d80f1e87" rel="alternate" type="text/html"/>
-<updated>2026-07-29T11:51:26.000Z</updated>
-<title>[Website] Separate Playground storage status from save actions (#4192)</title>
+<id>cf73f237929919e8f9db964a85852d80ca8caebc</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/cf73f237929919e8f9db964a85852d80ca8caebc" rel="alternate" type="text/html"/>
+<updated>2026-07-29T13:56:29.000Z</updated>
+<title>[Website] Preserve auto-login across browser-stored Playground reopens (#4185)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1265863919556790f57abbaf43e21db4d80f1e87&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/cf73f237929919e8f9db964a85852d80ca8caebc&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
