@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-17T03:20:43.383Z</updated>
+<updated>2026-09-18T03:06:43.073Z</updated>
+<entry>
+<id>fe9b2f94172a838ba9bce9fdd28226fb400bdf3e</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e" rel="alternate" type="text/html"/>
+<updated>2026-09-17T09:03:00.000Z</updated>
+<title>Generate Markdown references for the Playground handbook (#4337)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e#diff-42aa349631775ba8dac2236ede7ee84b43713757756e3f54dfdb3043c3afb414&quot;&gt;developers/05-local-development/02-vscode-extension.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e#diff-5f5b4e4f3fe4b3090f5d3edc2f6b6dfb2036cef2009de955189d287dd2c531d0&quot;&gt;developers/06-apis/javascript-api/03-playground-api-client.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e#diff-c4c0b9aa8c5ba99b40cb8a0f69edfad7d5a65824d00f53df35db53ff7d0097df&quot;&gt;main/guides/php-code-snippets.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>c3655c45ef44b7da5a7289483607f6472399310b</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/c3655c45ef44b7da5a7289483607f6472399310b" rel="alternate" type="text/html"/>
@@ -93,11 +106,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>cf73f237929919e8f9db964a85852d80ca8caebc</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/cf73f237929919e8f9db964a85852d80ca8caebc" rel="alternate" type="text/html"/>
-<updated>2026-07-29T13:56:29.000Z</updated>
-<title>[Website] Preserve auto-login across browser-stored Playground reopens (#4185)</title>
+<id>fed86627e8e3f84c595575cf2fff540532684544</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/fed86627e8e3f84c595575cf2fff540532684544" rel="alternate" type="text/html"/>
+<updated>2026-07-29T14:54:14.000Z</updated>
+<title>[Website] Close Site Settings when a submission starts (#4201)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/cf73f237929919e8f9db964a85852d80ca8caebc&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fed86627e8e3f84c595575cf2fff540532684544&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
