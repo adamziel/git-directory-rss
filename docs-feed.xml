@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-18T03:06:43.073Z</updated>
+<updated>2026-09-19T03:02:54.261Z</updated>
 <entry>
 <id>fe9b2f94172a838ba9bce9fdd28226fb400bdf3e</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e" rel="alternate" type="text/html"/>
@@ -106,11 +106,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>fed86627e8e3f84c595575cf2fff540532684544</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/fed86627e8e3f84c595575cf2fff540532684544" rel="alternate" type="text/html"/>
-<updated>2026-07-29T14:54:14.000Z</updated>
-<title>[Website] Close Site Settings when a submission starts (#4201)</title>
+<id>69bb93b98ea7eed3b98df5bd6d2d7099d512580a</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/69bb93b98ea7eed3b98df5bd6d2d7099d512580a" rel="alternate" type="text/html"/>
+<updated>2026-07-29T16:00:01.000Z</updated>
+<title>Recompile WordPress major and beta versions</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fed86627e8e3f84c595575cf2fff540532684544&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/69bb93b98ea7eed3b98df5bd6d2d7099d512580a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
