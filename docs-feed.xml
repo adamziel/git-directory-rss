@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-20T03:18:55.871Z</updated>
+<updated>2026-09-21T03:14:30.884Z</updated>
 <entry>
 <id>fe9b2f94172a838ba9bce9fdd28226fb400bdf3e</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e" rel="alternate" type="text/html"/>
@@ -106,11 +106,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>69bb93b98ea7eed3b98df5bd6d2d7099d512580a</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/69bb93b98ea7eed3b98df5bd6d2d7099d512580a" rel="alternate" type="text/html"/>
-<updated>2026-07-29T16:00:01.000Z</updated>
-<title>Recompile WordPress major and beta versions</title>
+<id>4581cb072f031bbb9ca1b7ec69354bbd7a2a2f88</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/4581cb072f031bbb9ca1b7ec69354bbd7a2a2f88" rel="alternate" type="text/html"/>
+<updated>2026-07-29T16:12:40.000Z</updated>
+<title>[Website] Label the current Playground storage state (#4194)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/69bb93b98ea7eed3b98df5bd6d2d7099d512580a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4581cb072f031bbb9ca1b7ec69354bbd7a2a2f88&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
