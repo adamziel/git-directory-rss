@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-22T03:13:42.362Z</updated>
+<updated>2026-09-23T03:13:56.210Z</updated>
 <entry>
 <id>29ae090fb849b5513bedfc953434aea9b317e15d</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/29ae090fb849b5513bedfc953434aea9b317e15d" rel="alternate" type="text/html"/>
@@ -90,38 +90,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>fb3dbf8c8682b1078461dbe2943ff35008fc8477</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/fb3dbf8c8682b1078461dbe2943ff35008fc8477" rel="alternate" type="text/html"/>
-<updated>2026-07-31T10:19:20.000Z</updated>
-<title>[Docs] Document the Playground Dock and persistence workflow (#4081)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fb3dbf8c8682b1078461dbe2943ff35008fc8477#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fb3dbf8c8682b1078461dbe2943ff35008fc8477#diff-92c91e319684995a62dd6d6f78e180ae9430e96c48f124f21a0e2637cdaf4440&quot;&gt;main/web-instance.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fb3dbf8c8682b1078461dbe2943ff35008fc8477&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>a990ac0afdb34c1e680528545501d4c8500883c4</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4" rel="alternate" type="text/html"/>
-<updated>2026-07-30T16:00:51.000Z</updated>
-<title>[Docs] Route Playground guides through Dock workflows (#4082)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-89f945ae700773cba8fa23d2dcc81775640a066992b86fdddc3a9fc74b3dc2a2&quot;&gt;blueprints/09-troubleshoot-and-debug-blueprints.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-d4658ce696fbb1d7289383171973f2c9cc60804d622b65ef46fd6f8975e2a6be&quot;&gt;developers/24-limitations/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-3d04b644ee07d7ff14e1dbaa3e86ed58c1dadb147f3f65e7b0f6876e279843e5&quot;&gt;main/about/build.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-cd7a371157712d1bbddd689783ad50537e39170b83d30b0c088387d986b99d8a&quot;&gt;main/guides/playground-for-everyone.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4#diff-4e02f1ac0b8ea38189232824d942aa6c00caacff7ac3923d8dd2b5b934272522&quot;&gt;main/troubleshooting.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a990ac0afdb34c1e680528545501d4c8500883c4&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>bf3f08b30428bacdfb21e7b1528f498ae04a453b</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/bf3f08b30428bacdfb21e7b1528f498ae04a453b" rel="alternate" type="text/html"/>
-<updated>2026-07-30T01:03:06.000Z</updated>
-<title>[Website] Keep ZIP drop listeners active through rerenders (#4214)</title>
+<id>74cf2d878f79cd7bad81539bd95b61608f1d018f</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/74cf2d878f79cd7bad81539bd95b61608f1d018f" rel="alternate" type="text/html"/>
+<updated>2026-07-31T10:19:47.000Z</updated>
+<title>[docs] Add doc-screenshots agent skill and regenerate docs screenshots for the new UI (#4124)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bf3f08b30428bacdfb21e7b1528f498ae04a453b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/74cf2d878f79cd7bad81539bd95b61608f1d018f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
