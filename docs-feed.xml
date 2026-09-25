@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-24T03:03:57.247Z</updated>
+<updated>2026-09-25T03:21:20.838Z</updated>
+<entry>
+<id>fe89452ee6f4e8a423b9714de80a9181856febca</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca" rel="alternate" type="text/html"/>
+<updated>2026-09-24T12:59:29.000Z</updated>
+<title>Support randomized SQLite database storage (#4344)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>29ae090fb849b5513bedfc953434aea9b317e15d</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/29ae090fb849b5513bedfc953434aea9b317e15d" rel="alternate" type="text/html"/>
@@ -90,11 +102,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>74cf2d878f79cd7bad81539bd95b61608f1d018f</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/74cf2d878f79cd7bad81539bd95b61608f1d018f" rel="alternate" type="text/html"/>
-<updated>2026-07-31T10:19:47.000Z</updated>
-<title>[docs] Add doc-screenshots agent skill and regenerate docs screenshots for the new UI (#4124)</title>
+<id>6c6bb9ed90c72345e1a46f7df21e2a635499eac1</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/6c6bb9ed90c72345e1a46f7df21e2a635499eac1" rel="alternate" type="text/html"/>
+<updated>2026-07-31T14:57:25.000Z</updated>
+<title>[Website] Center the Dock address row above its tools (#4225)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/74cf2d878f79cd7bad81539bd95b61608f1d018f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6c6bb9ed90c72345e1a46f7df21e2a635499eac1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
