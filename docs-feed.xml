@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-25T03:21:20.838Z</updated>
+<updated>2026-09-26T03:26:20.473Z</updated>
 <entry>
 <id>fe89452ee6f4e8a423b9714de80a9181856febca</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca" rel="alternate" type="text/html"/>
@@ -102,11 +102,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>6c6bb9ed90c72345e1a46f7df21e2a635499eac1</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6c6bb9ed90c72345e1a46f7df21e2a635499eac1" rel="alternate" type="text/html"/>
-<updated>2026-07-31T14:57:25.000Z</updated>
-<title>[Website] Center the Dock address row above its tools (#4225)</title>
+<id>4ab8d146523a3e2f7ba32e8fa0d636361e0d94be</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/4ab8d146523a3e2f7ba32e8fa0d636361e0d94be" rel="alternate" type="text/html"/>
+<updated>2026-07-31T16:11:22.000Z</updated>
+<title>[Website] Center the mobile Dock refresh button between the edge and URL field (#4226)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6c6bb9ed90c72345e1a46f7df21e2a635499eac1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4ab8d146523a3e2f7ba32e8fa0d636361e0d94be&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
