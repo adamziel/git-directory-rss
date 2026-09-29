@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-09-28T03:32:40.809Z</updated>
+<updated>2026-09-29T04:08:17.178Z</updated>
 <entry>
 <id>fe89452ee6f4e8a423b9714de80a9181856febca</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca" rel="alternate" type="text/html"/>
@@ -102,11 +102,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>53d5c3030702e1edb3f82e7dbc308fcac27c3d0a</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/53d5c3030702e1edb3f82e7dbc308fcac27c3d0a" rel="alternate" type="text/html"/>
-<updated>2026-08-03T10:34:28.000Z</updated>
-<title>v3.1.48</title>
+<id>03bf97108fed94f03449ebf7e6e5543f51ce8d1d</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/03bf97108fed94f03449ebf7e6e5543f51ce8d1d" rel="alternate" type="text/html"/>
+<updated>2026-08-06T11:25:28.000Z</updated>
+<title>[docs] Correct &quot;Open AI&quot; branding to &quot;OpenAI&quot; (#4245)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/53d5c3030702e1edb3f82e7dbc308fcac27c3d0a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/03bf97108fed94f03449ebf7e6e5543f51ce8d1d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
