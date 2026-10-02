@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-10-01T04:03:14.398Z</updated>
+<updated>2026-10-02T03:58:59.996Z</updated>
 <entry>
 <id>6c2c2fcc17ecd36eac83f88879642d413aaf47cc</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6c2c2fcc17ecd36eac83f88879642d413aaf47cc" rel="alternate" type="text/html"/>
@@ -146,11 +146,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>f39795a61b66071d73647429c5c73231e08110c6</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f39795a61b66071d73647429c5c73231e08110c6" rel="alternate" type="text/html"/>
-<updated>2026-08-13T14:45:49.000Z</updated>
-<title>[Website] Add captured mail viewer (#4000)</title>
+<id>fd1b3f2fa916e6370761095a5db1e0f234472785</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/fd1b3f2fa916e6370761095a5db1e0f234472785" rel="alternate" type="text/html"/>
+<updated>2026-08-14T00:12:56.000Z</updated>
+<title>Persist pooled PHP writes to saved sites (#4260)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f39795a61b66071d73647429c5c73231e08110c6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fd1b3f2fa916e6370761095a5db1e0f234472785&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
