@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-10-06T04:47:07.390Z</updated>
+<updated>2026-10-07T04:13:06.907Z</updated>
 <entry>
 <id>6c2c2fcc17ecd36eac83f88879642d413aaf47cc</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6c2c2fcc17ecd36eac83f88879642d413aaf47cc" rel="alternate" type="text/html"/>
@@ -135,22 +135,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4845daa6fbea794bec43dc1ca06873bbff753f14&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>d9cd455613b1ed8381f28ef52bc26ddb496ce554</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554" rel="alternate" type="text/html"/>
-<updated>2026-08-17T19:53:10.000Z</updated>
-<title>[Website] Auto-prepend PHP scripts before snippet execution (#4262)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554#diff-c4c0b9aa8c5ba99b40cb8a0f69edfad7d5a65824d00f53df35db53ff7d0097df&quot;&gt;main/guides/php-code-snippets.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d9cd455613b1ed8381f28ef52bc26ddb496ce554&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>915a42c5d07870051391d7269e1ecee57f333583</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/915a42c5d07870051391d7269e1ecee57f333583" rel="alternate" type="text/html"/>
-<updated>2026-08-17T09:49:25.000Z</updated>
-<title>chore: update changelog</title>
+<id>f421f04365be9104802db6d839132c19aab793da</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/f421f04365be9104802db6d839132c19aab793da" rel="alternate" type="text/html"/>
+<updated>2026-08-22T07:00:01.000Z</updated>
+<title>Fix CI e2e failures after WP 7.1 / Gutenberg 23.8 (#4274)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/915a42c5d07870051391d7269e1ecee57f333583&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f421f04365be9104802db6d839132c19aab793da&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
