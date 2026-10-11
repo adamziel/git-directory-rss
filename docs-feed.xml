@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-10-10T04:15:02.423Z</updated>
+<updated>2026-10-11T03:53:19.977Z</updated>
 <entry>
 <id>6c2c2fcc17ecd36eac83f88879642d413aaf47cc</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6c2c2fcc17ecd36eac83f88879642d413aaf47cc" rel="alternate" type="text/html"/>
@@ -107,23 +107,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a9c78792de6dfee917791b1e2d11166f66dce7d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>3144994d6349eca905aaaf28e118916f1f4e2202</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202" rel="alternate" type="text/html"/>
-<updated>2026-08-28T15:17:11.000Z</updated>
-<title>Docs: replace rewrite-flushing writeFile examples (#3806)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202#diff-00768c47e713bf84058ad2b409ea6d95e90e61c5945e6403378a70b8c6a63166&quot;&gt;blueprints/08-examples.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202#diff-e244fba9fe2c0532f22afaf6857d18eb7c8d12fe256ab0ac5dde18a02b1c9e4f&quot;&gt;main/guides/for-theme-developers.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/3144994d6349eca905aaaf28e118916f1f4e2202&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>f29eca6c6f63f65e9176ce9072b2a34c9ed7d864</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f29eca6c6f63f65e9176ce9072b2a34c9ed7d864" rel="alternate" type="text/html"/>
-<updated>2026-08-28T11:28:53.000Z</updated>
-<title>[MCP] Update WebMCP registration API (#3844)</title>
+<id>8540d3aaef2e6a85fb9d17e87d17fda23c464163</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/8540d3aaef2e6a85fb9d17e87d17fda23c464163" rel="alternate" type="text/html"/>
+<updated>2026-08-31T02:12:02.000Z</updated>
+<title>[CI] Label PRs from git diff instead of the pulls.listFiles API (#4290)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f29eca6c6f63f65e9176ce9072b2a34c9ed7d864&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/8540d3aaef2e6a85fb9d17e87d17fda23c464163&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
