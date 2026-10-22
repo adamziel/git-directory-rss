@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-10-21T03:14:16.107Z</updated>
+<updated>2026-10-22T03:12:50.644Z</updated>
+<entry>
+<id>20ea6b28fa5f0db538850b6a5203bbb57a76764e</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e" rel="alternate" type="text/html"/>
+<updated>2026-10-21T10:25:12.000Z</updated>
+<title>[Personal WP] Use a SharedWorker runtime (#4423)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e#diff-5f5b4e4f3fe4b3090f5d3edc2f6b6dfb2036cef2009de955189d287dd2c531d0&quot;&gt;developers/06-apis/javascript-api/03-playground-api-client.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>6c2c2fcc17ecd36eac83f88879642d413aaf47cc</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6c2c2fcc17ecd36eac83f88879642d413aaf47cc" rel="alternate" type="text/html"/>
@@ -94,11 +105,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c3655c45ef44b7da5a7289483607f6472399310b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>a77ed631ff32162ba0967efc15aa759bc9614d25</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/a77ed631ff32162ba0967efc15aa759bc9614d25" rel="alternate" type="text/html"/>
-<updated>2026-09-07T18:23:21.000Z</updated>
-<title>[i18n] Update Tagalog quick start guide for the Dock UI (#4314)</title>
+<id>ced1c35df1546c40e85483c77ed96f23ea6e62fe</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/ced1c35df1546c40e85483c77ed96f23ea6e62fe" rel="alternate" type="text/html"/>
+<updated>2026-09-08T12:44:26.000Z</updated>
+<title>[Website] Remove abandoned metadata-only autosaves on site loading (#4319)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a77ed631ff32162ba0967efc15aa759bc9614d25&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/ced1c35df1546c40e85483c77ed96f23ea6e62fe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
