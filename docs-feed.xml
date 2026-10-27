@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-10-26T03:07:33.096Z</updated>
+<updated>2026-10-27T03:38:30.170Z</updated>
+<entry>
+<id>45725bc9e54e926aad787a1b957a43321bac20fe</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe" rel="alternate" type="text/html"/>
+<updated>2026-10-26T19:01:56.000Z</updated>
+<title>[Docs] Add PhpStorm troubleshooting options (PLAYGRD-475) (#4498)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe#diff-ef72ead84db3b86734c7a03c8db82b265a22cc0b85c3b01c8bc2016a4bc2d607&quot;&gt;developers/07-xdebug/02-getting-started.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>20ea6b28fa5f0db538850b6a5203bbb57a76764e</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e" rel="alternate" type="text/html"/>
@@ -81,24 +92,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/29ae090fb849b5513bedfc953434aea9b317e15d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>fe9b2f94172a838ba9bce9fdd28226fb400bdf3e</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e" rel="alternate" type="text/html"/>
-<updated>2026-09-17T09:03:00.000Z</updated>
-<title>Generate Markdown references for the Playground handbook (#4337)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e#diff-42aa349631775ba8dac2236ede7ee84b43713757756e3f54dfdb3043c3afb414&quot;&gt;developers/05-local-development/02-vscode-extension.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e#diff-5f5b4e4f3fe4b3090f5d3edc2f6b6dfb2036cef2009de955189d287dd2c531d0&quot;&gt;developers/06-apis/javascript-api/03-playground-api-client.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e#diff-c4c0b9aa8c5ba99b40cb8a0f69edfad7d5a65824d00f53df35db53ff7d0097df&quot;&gt;main/guides/php-code-snippets.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe9b2f94172a838ba9bce9fdd28226fb400bdf3e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>f4661afb239d547930022938042bd819d73ff59b</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f4661afb239d547930022938042bd819d73ff59b" rel="alternate" type="text/html"/>
-<updated>2026-09-16T04:40:48.000Z</updated>
-<title>Redirect English docs pages to developer.wordpress.org (#4331)</title>
+<id>53308cee0f28584ee0bcc22c7917b2912d6c0549</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/53308cee0f28584ee0bcc22c7917b2912d6c0549" rel="alternate" type="text/html"/>
+<updated>2026-09-18T15:50:28.000Z</updated>
+<title>[Website] Explain Gutenberg PR preview failures by proxy error code (#4342)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f4661afb239d547930022938042bd819d73ff59b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/53308cee0f28584ee0bcc22c7917b2912d6c0549&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
