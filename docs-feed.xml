@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-10-27T03:38:30.170Z</updated>
+<updated>2026-10-28T03:54:59.500Z</updated>
+<entry>
+<id>96c18e83f4c253d8389ce7aed771fe7fe8baefd6</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6" rel="alternate" type="text/html"/>
+<updated>2026-10-27T15:50:25.000Z</updated>
+<title>Docs: Update action-wp-playground-pr-preview references from v3 to v4 (#4516)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>04a510dc1fe169a21823dd264d468b20bb369073</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/04a510dc1fe169a21823dd264d468b20bb369073" rel="alternate" type="text/html"/>
+<updated>2026-10-27T14:42:51.000Z</updated>
+<title>Add S3 hosting guidance for Blueprint resources (#3754)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/04a510dc1fe169a21823dd264d468b20bb369073#diff-6b04f1593393085180f3963760a741a9a84b0b2c3ab11a39a9bcf07cb107aae0&quot;&gt;blueprints/04-resources.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/04a510dc1fe169a21823dd264d468b20bb369073&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>45725bc9e54e926aad787a1b957a43321bac20fe</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe" rel="alternate" type="text/html"/>
@@ -73,30 +95,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca" rel="alternate" type="text/html"/>
 <updated>2026-09-24T12:59:29.000Z</updated>
 <title>Support randomized SQLite database storage (#4344)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>29ae090fb849b5513bedfc953434aea9b317e15d</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/29ae090fb849b5513bedfc953434aea9b317e15d" rel="alternate" type="text/html"/>
-<updated>2026-09-21T16:48:47.000Z</updated>
-<title>[docs] Adding MCP playground guide (#3826)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/29ae090fb849b5513bedfc953434aea9b317e15d#diff-75424e8c4394c893a9ca706d23ebab0164245f5ddd6c72a416f42f0adebf5cd2&quot;&gt;main/guides/ai-assistants-mcp.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/29ae090fb849b5513bedfc953434aea9b317e15d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>53308cee0f28584ee0bcc22c7917b2912d6c0549</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/53308cee0f28584ee0bcc22c7917b2912d6c0549" rel="alternate" type="text/html"/>
-<updated>2026-09-18T15:50:28.000Z</updated>
-<title>[Website] Explain Gutenberg PR preview failures by proxy error code (#4342)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/53308cee0f28584ee0bcc22c7917b2912d6c0549&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/fe89452ee6f4e8a423b9714de80a9181856febca&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
