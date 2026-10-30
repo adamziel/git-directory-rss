@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-10-29T04:18:30.732Z</updated>
+<updated>2026-10-30T04:18:15.967Z</updated>
 <entry>
 <id>96c18e83f4c253d8389ce7aed771fe7fe8baefd6</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6" rel="alternate" type="text/html"/>
@@ -84,18 +84,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/64ae724b28d5735c8be20edc1e38fc84ef24b066" rel="alternate" type="text/html"/>
 <updated>2026-09-29T11:39:55.000Z</updated>
 <title>[docs] Updating WASM compiling doc (#4316)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/64ae724b28d5735c8be20edc1e38fc84ef24b066#diff-9574f506f748ff986f34074267a14525519281b876013abc1d5d416f8f2b9f93&quot;&gt;developers/23-architecture/03-wasm-php-compiling.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/64ae724b28d5735c8be20edc1e38fc84ef24b066&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>b8402b70015db8d8da0558c0a2c7c79a152ea0ef</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/b8402b70015db8d8da0558c0a2c7c79a152ea0ef" rel="alternate" type="text/html"/>
-<updated>2026-09-28T09:52:39.000Z</updated>
-<title>chore: update changelog</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b8402b70015db8d8da0558c0a2c7c79a152ea0ef&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/64ae724b28d5735c8be20edc1e38fc84ef24b066&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
