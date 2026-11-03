@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-02T04:19:11.439Z</updated>
+<updated>2026-11-03T05:16:52.263Z</updated>
+<entry>
+<id>20d5e0ff23cdc2cd617b950ff131d7227c2668a0</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0" rel="alternate" type="text/html"/>
+<updated>2026-11-02T13:26:27.000Z</updated>
+<title>[Docs] Clarify JavaScript client setup and fix quick-start links (#4539)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0#diff-d3d4e59bae8ffd4aa654e729787f0c72bfa2ee0705782897f3e4ef5c7d63382c&quot;&gt;developers/03-build-an-app/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0#diff-f03be93b146dbb91e11ad31990acdcbf5835924e196ddfee4176c60cbaf05525&quot;&gt;developers/06-apis/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0#diff-0095dd64399cc6f8a1eea50cc143d22a6758996046f283d03823f3c0dd636bcd&quot;&gt;developers/06-apis/javascript-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0#diff-fcd51c9e14f81676fc6b7196ddd88737edaeb6f9021511b176ac58f8597e7eaf&quot;&gt;developers/intro-devs.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0#diff-4126a19306fbb861b01bf99c43bf92ceaca6c9f87599717c49e72a8d47e9069c&quot;&gt;main/intro.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>96c18e83f4c253d8389ce7aed771fe7fe8baefd6</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6" rel="alternate" type="text/html"/>
@@ -80,11 +96,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2733162c7e72a4d253bd6070cd05d74406f04dfe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>64ae724b28d5735c8be20edc1e38fc84ef24b066</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/64ae724b28d5735c8be20edc1e38fc84ef24b066" rel="alternate" type="text/html"/>
-<updated>2026-09-29T11:39:55.000Z</updated>
-<title>[docs] Updating WASM compiling doc (#4316)</title>
+<id>bec74cf65f1f5c070f7276bf6bfbe636d0bf5eb2</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/bec74cf65f1f5c070f7276bf6bfbe636d0bf5eb2" rel="alternate" type="text/html"/>
+<updated>2026-09-29T11:43:14.000Z</updated>
+<title>Allow writeFiles to omit resource for inline file trees (#4359)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/64ae724b28d5735c8be20edc1e38fc84ef24b066&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bec74cf65f1f5c070f7276bf6bfbe636d0bf5eb2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
