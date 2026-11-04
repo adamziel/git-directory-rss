@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-03T05:16:52.263Z</updated>
+<updated>2026-11-04T04:46:23.690Z</updated>
 <entry>
 <id>20d5e0ff23cdc2cd617b950ff131d7227c2668a0</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0" rel="alternate" type="text/html"/>
@@ -63,44 +63,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>6c2c2fcc17ecd36eac83f88879642d413aaf47cc</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/6c2c2fcc17ecd36eac83f88879642d413aaf47cc" rel="alternate" type="text/html"/>
-<updated>2026-09-30T13:07:21.000Z</updated>
-<title>[docs] Updating resource docs with new talks (#4356)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6c2c2fcc17ecd36eac83f88879642d413aaf47cc#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6c2c2fcc17ecd36eac83f88879642d413aaf47cc&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>9f9dec733e742dc168e2ca2cb5e1ce6d2e142b00</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/9f9dec733e742dc168e2ca2cb5e1ce6d2e142b00" rel="alternate" type="text/html"/>
-<updated>2026-09-30T09:18:53.000Z</updated>
-<title>Replace bare .wasm imports with new URL() in web loaders (#4347)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9f9dec733e742dc168e2ca2cb5e1ce6d2e142b00#diff-d02de847e46541f133b5dc6d8a335d27ce8b42ac631c5347b8fb5347d28ed00a&quot;&gt;developers/23-architecture/06-php-wasm-packages.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9f9dec733e742dc168e2ca2cb5e1ce6d2e142b00&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>2733162c7e72a4d253bd6070cd05d74406f04dfe</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/2733162c7e72a4d253bd6070cd05d74406f04dfe" rel="alternate" type="text/html"/>
-<updated>2026-09-30T07:10:19.000Z</updated>
-<title>[docs] Generate handbook manifest during documentation builds (#4332)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2733162c7e72a4d253bd6070cd05d74406f04dfe#diff-ca06b4b79a56b7a4be00cb09885cbb39d4ade41e2652b5d2479469434870a636&quot;&gt;main/contributing/documentation.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2733162c7e72a4d253bd6070cd05d74406f04dfe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>bec74cf65f1f5c070f7276bf6bfbe636d0bf5eb2</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/bec74cf65f1f5c070f7276bf6bfbe636d0bf5eb2" rel="alternate" type="text/html"/>
-<updated>2026-09-29T11:43:14.000Z</updated>
-<title>Allow writeFiles to omit resource for inline file trees (#4359)</title>
+<id>4f66608c1fbc0228d4e5c33de9930238be57fb25</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/4f66608c1fbc0228d4e5c33de9930238be57fb25" rel="alternate" type="text/html"/>
+<updated>2026-10-05T09:40:42.000Z</updated>
+<title>v3.1.57</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bec74cf65f1f5c070f7276bf6bfbe636d0bf5eb2&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4f66608c1fbc0228d4e5c33de9930238be57fb25&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
