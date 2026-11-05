@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-04T04:46:23.690Z</updated>
+<updated>2026-11-05T05:00:56.195Z</updated>
+<entry>
+<id>6dc499a62b02b65a49822f965f805d40f4189f50</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/6dc499a62b02b65a49822f965f805d40f4189f50" rel="alternate" type="text/html"/>
+<updated>2026-11-04T13:53:35.000Z</updated>
+<title>[i18n] Refresh PR preview guides for v4 (#4560)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6dc499a62b02b65a49822f965f805d40f4189f50#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6dc499a62b02b65a49822f965f805d40f4189f50&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>e3c684aa9d07bd44503b6ba120de6471326fab6d</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/e3c684aa9d07bd44503b6ba120de6471326fab6d" rel="alternate" type="text/html"/>
+<updated>2026-11-04T13:53:14.000Z</updated>
+<title>[Docs] Fix programmatic Playground CLI examples across translations (#4547)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e3c684aa9d07bd44503b6ba120de6471326fab6d#diff-785af59cbe1116ab86fc52056cbda4020fbf699314b70129f3eff77a8a798182&quot;&gt;main/guides/programmatic-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e3c684aa9d07bd44503b6ba120de6471326fab6d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>20d5e0ff23cdc2cd617b950ff131d7227c2668a0</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0" rel="alternate" type="text/html"/>
@@ -63,11 +85,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>4f66608c1fbc0228d4e5c33de9930238be57fb25</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/4f66608c1fbc0228d4e5c33de9930238be57fb25" rel="alternate" type="text/html"/>
-<updated>2026-10-05T09:40:42.000Z</updated>
-<title>v3.1.57</title>
+<id>93e276fc169e0212f1a7801e23954c1165a3b253</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/93e276fc169e0212f1a7801e23954c1165a3b253" rel="alternate" type="text/html"/>
+<updated>2026-10-06T13:47:42.000Z</updated>
+<title>[PHP] Bound pending reads when restoring OPFS sites (#4386)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4f66608c1fbc0228d4e5c33de9930238be57fb25&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/93e276fc169e0212f1a7801e23954c1165a3b253&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
