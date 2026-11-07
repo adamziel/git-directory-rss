@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-06T05:00:43.467Z</updated>
+<updated>2026-11-07T04:33:42.436Z</updated>
+<entry>
+<id>2659f16b3bf6e17479031a05cd28f9ac5e943f39</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/2659f16b3bf6e17479031a05cd28f9ac5e943f39" rel="alternate" type="text/html"/>
+<updated>2026-11-06T14:19:38.000Z</updated>
+<title>[Website] Add Dock Query API options for all initial states (#4563)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2659f16b3bf6e17479031a05cd28f9ac5e943f39#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2659f16b3bf6e17479031a05cd28f9ac5e943f39&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>c421261eb348a5b9c43290d91dd9e620994bbaa3</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/c421261eb348a5b9c43290d91dd9e620994bbaa3" rel="alternate" type="text/html"/>
@@ -107,11 +118,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>544f7f9c5a675f0a84bc8ff494fcfc8a6a4cbef6</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/544f7f9c5a675f0a84bc8ff494fcfc8a6a4cbef6" rel="alternate" type="text/html"/>
-<updated>2026-10-07T11:50:05.000Z</updated>
-<title>[PHP] Retain current OPFS mounts across PHP runtime rotation (#4389)</title>
+<id>4d3932270ebfdc7654d9b1cb3954841229d1fd2d</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/4d3932270ebfdc7654d9b1cb3954841229d1fd2d" rel="alternate" type="text/html"/>
+<updated>2026-10-07T11:54:41.000Z</updated>
+<title>[Website] Add the Reprint connection and PHP stream adapter (#4397)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/544f7f9c5a675f0a84bc8ff494fcfc8a6a4cbef6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4d3932270ebfdc7654d9b1cb3954841229d1fd2d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
