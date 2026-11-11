@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-10T05:53:53.220Z</updated>
+<updated>2026-11-11T04:38:47.936Z</updated>
 <entry>
 <id>af13c04ca16c765f6dc6b60f0915230eec3e4856</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/af13c04ca16c765f6dc6b60f0915230eec3e4856" rel="alternate" type="text/html"/>
@@ -129,11 +129,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>d7b19bdb598ccb405f0dcb7afcaa9b036676c18a</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/d7b19bdb598ccb405f0dcb7afcaa9b036676c18a" rel="alternate" type="text/html"/>
-<updated>2026-10-15T09:06:32.000Z</updated>
-<title>CORS proxy: pin validated destinations on custom ports (#4416)</title>
+<id>cae4a2c4e923bc41662147fa2fc7667a3b277b5e</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/cae4a2c4e923bc41662147fa2fc7667a3b277b5e" rel="alternate" type="text/html"/>
+<updated>2026-10-19T09:59:13.000Z</updated>
+<title>[i18n] Translate AI assistants through MCP into Gujarati (#4434)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d7b19bdb598ccb405f0dcb7afcaa9b036676c18a&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/cae4a2c4e923bc41662147fa2fc7667a3b277b5e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
