@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-12T05:41:46.735Z</updated>
+<updated>2026-11-13T04:58:46.680Z</updated>
 <entry>
 <id>af13c04ca16c765f6dc6b60f0915230eec3e4856</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/af13c04ca16c765f6dc6b60f0915230eec3e4856" rel="alternate" type="text/html"/>
@@ -122,18 +122,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e" rel="alternate" type="text/html"/>
 <updated>2026-10-21T10:25:12.000Z</updated>
 <title>[Personal WP] Use a SharedWorker runtime (#4423)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e#diff-5f5b4e4f3fe4b3090f5d3edc2f6b6dfb2036cef2009de955189d287dd2c531d0&quot;&gt;developers/06-apis/javascript-api/03-playground-api-client.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>e4e80f7ca17ee97f83dc14bb3c77b688de26315c</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/e4e80f7ca17ee97f83dc14bb3c77b688de26315c" rel="alternate" type="text/html"/>
-<updated>2026-10-20T13:16:56.000Z</updated>
-<title>chore: update changelog</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e4e80f7ca17ee97f83dc14bb3c77b688de26315c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20ea6b28fa5f0db538850b6a5203bbb57a76764e&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
