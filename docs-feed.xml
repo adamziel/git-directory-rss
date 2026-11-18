@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-17T06:27:38.618Z</updated>
+<updated>2026-11-18T05:51:10.221Z</updated>
+<entry>
+<id>7aeb8b40a13efa4caa2d22a00cacfad78184ff59</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7aeb8b40a13efa4caa2d22a00cacfad78184ff59" rel="alternate" type="text/html"/>
+<updated>2026-11-17T20:18:51.000Z</updated>
+<title>[Docs] Clarify self-hosting setup and update Portuguese, Spanish, and French translations (#4573)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7aeb8b40a13efa4caa2d22a00cacfad78184ff59#diff-722c8a8a983d94d05fa36a6884b1e41fa618dc64cb3aa0003b8a428b9ff7d930&quot;&gt;developers/23-architecture/18-host-your-own-playground.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7aeb8b40a13efa4caa2d22a00cacfad78184ff59&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>653c8981b65460aa4755092a49171057407af545</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545" rel="alternate" type="text/html"/>
+<updated>2026-11-17T16:00:51.000Z</updated>
+<title>[Website] Serve WP Cloud static files directly from release folders (#4613)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545#diff-722c8a8a983d94d05fa36a6884b1e41fa618dc64cb3aa0003b8a428b9ff7d930&quot;&gt;developers/23-architecture/18-host-your-own-playground.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>af13c04ca16c765f6dc6b60f0915230eec3e4856</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/af13c04ca16c765f6dc6b60f0915230eec3e4856" rel="alternate" type="text/html"/>
@@ -118,11 +140,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>407338a85e99c15d2f3f18663ad0761922511eb3</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/407338a85e99c15d2f3f18663ad0761922511eb3" rel="alternate" type="text/html"/>
-<updated>2026-10-21T15:32:41.000Z</updated>
-<title>[Website] Check local-folder access against the PHP host (#4477)</title>
+<id>603e5e7171c20221e0f552c8d6a6f86e8a3ef223</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/603e5e7171c20221e0f552c8d6a6f86e8a3ef223" rel="alternate" type="text/html"/>
+<updated>2026-10-22T13:56:29.000Z</updated>
+<title>[Website] Run local subdomains with storage and API boundary checks (#4483)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/407338a85e99c15d2f3f18663ad0761922511eb3&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/603e5e7171c20221e0f552c8d6a6f86e8a3ef223&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
