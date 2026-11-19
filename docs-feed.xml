@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-18T05:51:10.221Z</updated>
+<updated>2026-11-19T05:51:22.518Z</updated>
+<entry>
+<id>c13b6b49cff17c60c1b487806d7cbd68f92dbef1</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/c13b6b49cff17c60c1b487806d7cbd68f92dbef1" rel="alternate" type="text/html"/>
+<updated>2026-11-18T11:11:58.000Z</updated>
+<title>[Docs] Show the Xdebug bridge loopback endpoints and correct async startup (#4627)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c13b6b49cff17c60c1b487806d7cbd68f92dbef1#diff-ef72ead84db3b86734c7a03c8db82b265a22cc0b85c3b01c8bc2016a4bc2d607&quot;&gt;developers/07-xdebug/02-getting-started.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c13b6b49cff17c60c1b487806d7cbd68f92dbef1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>7aeb8b40a13efa4caa2d22a00cacfad78184ff59</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/7aeb8b40a13efa4caa2d22a00cacfad78184ff59" rel="alternate" type="text/html"/>
@@ -140,11 +151,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>603e5e7171c20221e0f552c8d6a6f86e8a3ef223</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/603e5e7171c20221e0f552c8d6a6f86e8a3ef223" rel="alternate" type="text/html"/>
-<updated>2026-10-22T13:56:29.000Z</updated>
-<title>[Website] Run local subdomains with storage and API boundary checks (#4483)</title>
+<id>1e779217fceedb5b29b1359a196dc97ce40f31de</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/1e779217fceedb5b29b1359a196dc97ce40f31de" rel="alternate" type="text/html"/>
+<updated>2026-10-26T09:40:14.000Z</updated>
+<title>v3.1.61</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/603e5e7171c20221e0f552c8d6a6f86e8a3ef223&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1e779217fceedb5b29b1359a196dc97ce40f31de&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
