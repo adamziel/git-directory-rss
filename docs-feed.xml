@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-19T05:51:22.518Z</updated>
+<updated>2026-11-20T05:40:11.479Z</updated>
+<entry>
+<id>a76d2ac5316bd4f8dae242fed2f6122cf79b405c</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c" rel="alternate" type="text/html"/>
+<updated>2026-11-19T13:47:55.000Z</updated>
+<title>[docs] Add an Xdebug tracing and profiling guide (#4281)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c#diff-5ed0f4e6106ede0030b5e0e46504b90e29e7b2b2c4f3a453f5bba6339cb7c334&quot;&gt;developers/06-apis/javascript-api/07-php-extensions.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c#diff-f39cb033d0fc0a592f3bc91a0cabbf1d8aa9234eb5e75402bbd9eb49089555e5&quot;&gt;developers/07-xdebug/03-trace-and-profile.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>c13b6b49cff17c60c1b487806d7cbd68f92dbef1</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/c13b6b49cff17c60c1b487806d7cbd68f92dbef1" rel="alternate" type="text/html"/>
@@ -151,11 +163,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>1e779217fceedb5b29b1359a196dc97ce40f31de</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/1e779217fceedb5b29b1359a196dc97ce40f31de" rel="alternate" type="text/html"/>
-<updated>2026-10-26T09:40:14.000Z</updated>
-<title>v3.1.61</title>
+<id>e169a742000bff0586e1e985025f186c20f1339d</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/e169a742000bff0586e1e985025f186c20f1339d" rel="alternate" type="text/html"/>
+<updated>2026-10-26T18:13:26.000Z</updated>
+<title>[i18n] ja translations developer architecture Cross-process communication (#4517)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/1e779217fceedb5b29b1359a196dc97ce40f31de&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e169a742000bff0586e1e985025f186c20f1339d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
