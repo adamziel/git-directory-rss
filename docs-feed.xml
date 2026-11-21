@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-20T05:40:11.479Z</updated>
+<updated>2026-11-21T05:33:35.984Z</updated>
+<entry>
+<id>f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1" rel="alternate" type="text/html"/>
+<updated>2026-11-20T15:33:34.000Z</updated>
+<title>[Docs] Correct the Blueprint constant default and document CLI workarounds (#4626)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1#diff-a41bd28d8464224562a0461e36a602dadd52ecc1542d2748860c5324426b5954&quot;&gt;blueprints/tutorial/03-build-your-first-blueprint.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1#diff-f0dcd54418e33530389be99bfd45adec4f2d1f54fc7be1c6d97112372c53dbe9&quot;&gt;main/guides/for-plugin-developers.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>f61bce9d3e204ffa55dd9bad5a1edae58a6cc84b</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/f61bce9d3e204ffa55dd9bad5a1edae58a6cc84b" rel="alternate" type="text/html"/>
+<updated>2026-11-20T13:27:49.000Z</updated>
+<title>[Website] Delete the broken PHP Blueprints demo (#4604)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f61bce9d3e204ffa55dd9bad5a1edae58a6cc84b#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f61bce9d3e204ffa55dd9bad5a1edae58a6cc84b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>9dc3ff81e42a7a00e7038d5ff5145280fc18f4a0</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/9dc3ff81e42a7a00e7038d5ff5145280fc18f4a0" rel="alternate" type="text/html"/>
+<updated>2026-11-20T13:16:16.000Z</updated>
+<title>[i18n] Translate the JSON Blueprint client guide to pt-BR (#4644)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9dc3ff81e42a7a00e7038d5ff5145280fc18f4a0#diff-0d06f0ffac77caa95490442e87c92793f1c9390e4a76d55b886542895584c3a6&quot;&gt;developers/06-apis/javascript-api/04-blueprint-json-in-api-client.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9dc3ff81e42a7a00e7038d5ff5145280fc18f4a0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>a76d2ac5316bd4f8dae242fed2f6122cf79b405c</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c" rel="alternate" type="text/html"/>
@@ -134,40 +169,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6" rel="alternate" type="text/html"/>
 <updated>2026-10-27T15:50:25.000Z</updated>
 <title>Docs: Update action-wp-playground-pr-preview references from v3 to v4 (#4516)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>04a510dc1fe169a21823dd264d468b20bb369073</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/04a510dc1fe169a21823dd264d468b20bb369073" rel="alternate" type="text/html"/>
-<updated>2026-10-27T14:42:51.000Z</updated>
-<title>Add S3 hosting guidance for Blueprint resources (#3754)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/04a510dc1fe169a21823dd264d468b20bb369073#diff-6b04f1593393085180f3963760a741a9a84b0b2c3ab11a39a9bcf07cb107aae0&quot;&gt;blueprints/04-resources.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/04a510dc1fe169a21823dd264d468b20bb369073&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>45725bc9e54e926aad787a1b957a43321bac20fe</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe" rel="alternate" type="text/html"/>
-<updated>2026-10-26T19:01:56.000Z</updated>
-<title>[Docs] Add PhpStorm troubleshooting options (PLAYGRD-475) (#4498)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe#diff-ef72ead84db3b86734c7a03c8db82b265a22cc0b85c3b01c8bc2016a4bc2d607&quot;&gt;developers/07-xdebug/02-getting-started.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/45725bc9e54e926aad787a1b957a43321bac20fe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>e169a742000bff0586e1e985025f186c20f1339d</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/e169a742000bff0586e1e985025f186c20f1339d" rel="alternate" type="text/html"/>
-<updated>2026-10-26T18:13:26.000Z</updated>
-<title>[i18n] ja translations developer architecture Cross-process communication (#4517)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/e169a742000bff0586e1e985025f186c20f1339d&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
