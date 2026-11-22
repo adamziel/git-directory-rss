@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-21T05:33:35.984Z</updated>
+<updated>2026-11-22T04:59:23.277Z</updated>
 <entry>
 <id>f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1" rel="alternate" type="text/html"/>
@@ -165,11 +165,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>96c18e83f4c253d8389ce7aed771fe7fe8baefd6</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6" rel="alternate" type="text/html"/>
-<updated>2026-10-27T15:50:25.000Z</updated>
-<title>Docs: Update action-wp-playground-pr-preview references from v3 to v4 (#4516)</title>
+<id>bcad672574b27948ff6575caa07fb5bfb6257d22</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/bcad672574b27948ff6575caa07fb5bfb6257d22" rel="alternate" type="text/html"/>
+<updated>2026-10-28T15:52:59.000Z</updated>
+<title>[PHP] Persist symlink targets in OPFS mounts (#4414)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/96c18e83f4c253d8389ce7aed771fe7fe8baefd6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bcad672574b27948ff6575caa07fb5bfb6257d22&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
