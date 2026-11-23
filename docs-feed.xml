@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-22T04:59:23.277Z</updated>
+<updated>2026-11-23T05:41:22.495Z</updated>
+<entry>
+<id>4f4593c94cd3ec0400e9f0e1eb6621224e8fd043</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/4f4593c94cd3ec0400e9f0e1eb6621224e8fd043" rel="alternate" type="text/html"/>
+<updated>2026-11-22T20:10:36.000Z</updated>
+<title>[Docs] Fix the npm steps for adding a new package (#4699)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4f4593c94cd3ec0400e9f0e1eb6621224e8fd043#diff-907058b24a94ff21d43750df6f0294ba3f1ff55e960dcd0c728be18649f6de60&quot;&gt;main/contributing/releases.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4f4593c94cd3ec0400e9f0e1eb6621224e8fd043&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1" rel="alternate" type="text/html"/>
@@ -165,11 +176,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/20d5e0ff23cdc2cd617b950ff131d7227c2668a0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>bcad672574b27948ff6575caa07fb5bfb6257d22</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/bcad672574b27948ff6575caa07fb5bfb6257d22" rel="alternate" type="text/html"/>
-<updated>2026-10-28T15:52:59.000Z</updated>
-<title>[PHP] Persist symlink targets in OPFS mounts (#4414)</title>
+<id>dc29956ea86bb2fcbe4d45b4e4c163667f725ece</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/dc29956ea86bb2fcbe4d45b4e4c163667f725ece" rel="alternate" type="text/html"/>
+<updated>2026-10-29T10:41:15.000Z</updated>
+<title>[MCP] Add WebMCP security annotations, strict inputSchema, and AbortSignal support (#4411)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/bcad672574b27948ff6575caa07fb5bfb6257d22&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/dc29956ea86bb2fcbe4d45b4e4c163667f725ece&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
