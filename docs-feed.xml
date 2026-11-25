@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-24T08:19:15.911Z</updated>
+<updated>2026-11-25T06:56:06.143Z</updated>
+<entry>
+<id>6b2a5c99cf7758901051888d3ecf737edaab8a17</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/6b2a5c99cf7758901051888d3ecf737edaab8a17" rel="alternate" type="text/html"/>
+<updated>2026-11-24T15:47:01.000Z</updated>
+<title>[Docs] Fix the type and teardown in the Playwright E2E guide examples (#4735)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6b2a5c99cf7758901051888d3ecf737edaab8a17#diff-81adeb5aa35b4e0c2545d64f9a6b1376d0df55d4af2747d64d7a051198c10834&quot;&gt;main/guides/e2e-testing-with-playwright.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/6b2a5c99cf7758901051888d3ecf737edaab8a17&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>7cef0601527bcdecdd88a2f36c703afcc411d122</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/7cef0601527bcdecdd88a2f36c703afcc411d122" rel="alternate" type="text/html"/>
+<updated>2026-11-24T11:14:18.000Z</updated>
+<title>[Docs] Fix the install commands and skill file list in the Agent Skill guide (#4723)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7cef0601527bcdecdd88a2f36c703afcc411d122#diff-3bd08cabed1793f994a9f65b75578f4c5029bbc11a8a50d7c71a35a368338a55&quot;&gt;main/guides/agent-skill-wp-playground.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7cef0601527bcdecdd88a2f36c703afcc411d122&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>d99961569d21c698bfd1353c439340e31c2626d3</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/d99961569d21c698bfd1353c439340e31c2626d3" rel="alternate" type="text/html"/>
+<updated>2026-11-24T11:06:32.000Z</updated>
+<title>[Docs] Fix the My WordPress setup and stale details in the MCP guide (#4726)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d99961569d21c698bfd1353c439340e31c2626d3#diff-75424e8c4394c893a9ca706d23ebab0164245f5ddd6c72a416f42f0adebf5cd2&quot;&gt;main/guides/ai-assistants-mcp.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/d99961569d21c698bfd1353c439340e31c2626d3&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>901f30959e2bc09b5a2812f73c0a93e85bd11049</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/901f30959e2bc09b5a2812f73c0a93e85bd11049" rel="alternate" type="text/html"/>
+<updated>2026-11-24T11:05:35.000Z</updated>
+<title>[Docs] Fix the mount and version matrix examples in the Playwright E2E guide (#4731)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/901f30959e2bc09b5a2812f73c0a93e85bd11049#diff-81adeb5aa35b4e0c2545d64f9a6b1376d0df55d4af2747d64d7a051198c10834&quot;&gt;main/guides/e2e-testing-with-playwright.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/901f30959e2bc09b5a2812f73c0a93e85bd11049&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>b6b21a865f8b84d373cc7279ce26126b35b7d85c</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/b6b21a865f8b84d373cc7279ce26126b35b7d85c" rel="alternate" type="text/html"/>
@@ -138,44 +182,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>af13c04ca16c765f6dc6b60f0915230eec3e4856</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/af13c04ca16c765f6dc6b60f0915230eec3e4856" rel="alternate" type="text/html"/>
-<updated>2026-11-09T16:06:43.000Z</updated>
-<title>[website] Add URL query support for the site file browser (#3600)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/af13c04ca16c765f6dc6b60f0915230eec3e4856#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/af13c04ca16c765f6dc6b60f0915230eec3e4856&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>2659f16b3bf6e17479031a05cd28f9ac5e943f39</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/2659f16b3bf6e17479031a05cd28f9ac5e943f39" rel="alternate" type="text/html"/>
-<updated>2026-11-06T14:19:38.000Z</updated>
-<title>[Website] Add Dock Query API options for all initial states (#4563)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2659f16b3bf6e17479031a05cd28f9ac5e943f39#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/2659f16b3bf6e17479031a05cd28f9ac5e943f39&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>c421261eb348a5b9c43290d91dd9e620994bbaa3</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/c421261eb348a5b9c43290d91dd9e620994bbaa3" rel="alternate" type="text/html"/>
-<updated>2026-11-05T11:46:02.000Z</updated>
-<title>[Docs] Build the self-hosted Playground website from source (#4568)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c421261eb348a5b9c43290d91dd9e620994bbaa3#diff-722c8a8a983d94d05fa36a6884b1e41fa618dc64cb3aa0003b8a428b9ff7d930&quot;&gt;developers/23-architecture/18-host-your-own-playground.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c421261eb348a5b9c43290d91dd9e620994bbaa3&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>b114540dd9881ea685898ecad3ab0c6d3435f0da</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/b114540dd9881ea685898ecad3ab0c6d3435f0da" rel="alternate" type="text/html"/>
-<updated>2026-11-05T10:41:22.000Z</updated>
-<title>[ php-wasm ] Remove 5s polling timeout from `js_fd_read` to fix blocking reads on slow pipes (#3511)</title>
+<id>33086f2e8961dc01c1379e79ff028100cfef2526</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/33086f2e8961dc01c1379e79ff028100cfef2526" rel="alternate" type="text/html"/>
+<updated>2026-11-10T15:45:14.000Z</updated>
+<title>v3.1.64</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b114540dd9881ea685898ecad3ab0c6d3435f0da&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/33086f2e8961dc01c1379e79ff028100cfef2526&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
