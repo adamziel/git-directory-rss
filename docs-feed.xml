@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-25T06:56:06.143Z</updated>
+<updated>2026-11-26T06:47:16.180Z</updated>
+<entry>
+<id>4bcde306a0e66aa9df3f6f4b363815b80e7d2aab</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/4bcde306a0e66aa9df3f6f4b363815b80e7d2aab" rel="alternate" type="text/html"/>
+<updated>2026-11-25T15:49:38.000Z</updated>
+<title>[i18n] Updating Portuguese translations for UI related changes (#4117)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4bcde306a0e66aa9df3f6f4b363815b80e7d2aab#diff-d2e7aa9e7c70d072f2361ce263bb836ed00d7fb80020129cf1be36c303a250a8&quot;&gt;blueprints/02-using-blueprints.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4bcde306a0e66aa9df3f6f4b363815b80e7d2aab#diff-70d09fd00bd332186a91f1cbf9032b0c9038da26cd54ea4bbe2fdd79c078e989&quot;&gt;blueprints/06-bundles.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4bcde306a0e66aa9df3f6f4b363815b80e7d2aab#diff-7cbcd2c8ad1c4bb1232b2a6d9e5a73838496983845a7e0c163bfd5fa89a9ae3a&quot;&gt;blueprints/tutorial/02-how-to-load-run-blueprints.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4bcde306a0e66aa9df3f6f4b363815b80e7d2aab#diff-a2e0b128c9dea95750f010dd5a1cfe81a35b8cf11ede0632a61e955c651c51a2&quot;&gt;developers/06-apis/query-api/01-index.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4bcde306a0e66aa9df3f6f4b363815b80e7d2aab#diff-d98122d016ecc08792994ee1e81bd0726e7f6e8f59cdec48eefa0f64287bdb14&quot;&gt;main/quick-start-guide.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4bcde306a0e66aa9df3f6f4b363815b80e7d2aab&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>29f51c96d0479b1f1e39fc5ae16efcd94ed3f9a7</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/29f51c96d0479b1f1e39fc5ae16efcd94ed3f9a7" rel="alternate" type="text/html"/>
+<updated>2026-11-25T14:31:45.000Z</updated>
+<title>[i18n] Translate the PR Preview guide into Hindi (#4746)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/29f51c96d0479b1f1e39fc5ae16efcd94ed3f9a7#diff-c4be89036a96fb025acd5f748febee08f26509ed294e9340a55c9e535bde8e38&quot;&gt;main/guides/github-action-pr-preview.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/29f51c96d0479b1f1e39fc5ae16efcd94ed3f9a7&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>c45ca9118acdbf29b8463c67971b0761e9723860</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/c45ca9118acdbf29b8463c67971b0761e9723860" rel="alternate" type="text/html"/>
+<updated>2026-11-25T14:31:08.000Z</updated>
+<title>[i18n] Translate the Agent Skill guide into Hindi (#4743)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c45ca9118acdbf29b8463c67971b0761e9723860#diff-3bd08cabed1793f994a9f65b75578f4c5029bbc11a8a50d7c71a35a368338a55&quot;&gt;main/guides/agent-skill-wp-playground.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c45ca9118acdbf29b8463c67971b0761e9723860&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>a8e80dffa548d7ebe151867dbe3ecc7bd29d6b73</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/a8e80dffa548d7ebe151867dbe3ecc7bd29d6b73" rel="alternate" type="text/html"/>
+<updated>2026-11-25T13:28:52.000Z</updated>
+<title>[CLI] Keep Codespaces ports private unless --codespaces-public-port is set (#4610)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a8e80dffa548d7ebe151867dbe3ecc7bd29d6b73#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a8e80dffa548d7ebe151867dbe3ecc7bd29d6b73&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>c35dd6401105b621ef4dac49c0cd00cc32043da9</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/c35dd6401105b621ef4dac49c0cd00cc32043da9" rel="alternate" type="text/html"/>
+<updated>2026-11-25T07:06:29.000Z</updated>
+<title>[Docs] Fix the Symfony snippet example and handbook screenshot links (#4686)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c35dd6401105b621ef4dac49c0cd00cc32043da9#diff-8b5d9e507348d6c821eabf0e2cf8ec9471712325532e0801362972190f9fe6cb&quot;&gt;main/contributing/github-ui.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c35dd6401105b621ef4dac49c0cd00cc32043da9#diff-de7848e82baca823302df7fec8d5a19c22f018ac361b5981f1f33a788a1ce8fe&quot;&gt;main/guides/php-frameworks.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c35dd6401105b621ef4dac49c0cd00cc32043da9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>6b2a5c99cf7758901051888d3ecf737edaab8a17</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/6b2a5c99cf7758901051888d3ecf737edaab8a17" rel="alternate" type="text/html"/>
@@ -175,18 +235,7 @@
 <link href="https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545" rel="alternate" type="text/html"/>
 <updated>2026-11-17T16:00:51.000Z</updated>
 <title>[Website] Serve WP Cloud static files directly from release folders (#4613)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545#diff-722c8a8a983d94d05fa36a6884b1e41fa618dc64cb3aa0003b8a428b9ff7d930&quot;&gt;developers/23-architecture/18-host-your-own-playground.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>33086f2e8961dc01c1379e79ff028100cfef2526</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/33086f2e8961dc01c1379e79ff028100cfef2526" rel="alternate" type="text/html"/>
-<updated>2026-11-10T15:45:14.000Z</updated>
-<title>v3.1.64</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/33086f2e8961dc01c1379e79ff028100cfef2526&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
