@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-26T06:47:16.180Z</updated>
+<updated>2026-11-27T06:38:54.976Z</updated>
+<entry>
+<id>258a2ba767f52eedfda615632301f18f089c6df6</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/258a2ba767f52eedfda615632301f18f089c6df6" rel="alternate" type="text/html"/>
+<updated>2026-11-27T06:04:27.000Z</updated>
+<title>[i18n] Translate the Blueprints Steps page into Hindi (#4762)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/258a2ba767f52eedfda615632301f18f089c6df6#diff-f336e7901f9016796a9cd8cf6782bb14ffe06378354ca1668f53537e98e1df3a&quot;&gt;blueprints/05-steps.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/258a2ba767f52eedfda615632301f18f089c6df6&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7" rel="alternate" type="text/html"/>
+<updated>2026-11-26T21:34:14.000Z</updated>
+<title>[docs] Removing markdown references to handbook (#4282)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7#diff-00768c47e713bf84058ad2b409ea6d95e90e61c5945e6403378a70b8c6a63166&quot;&gt;blueprints/08-examples.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7#diff-68c16236a3d00add37d77621a01f3c965aad15f5bbf232b5335035f66bc8fa54&quot;&gt;blueprints/intro.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7#diff-a09fee77b03030a009cd7b530ea4476fefa1984937e50cd2d5b03c4e52c0ee7a&quot;&gt;main/about/launch.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7#diff-2acd1766cca67141e8d1dc722cf9066f99f6471a9dddc9aeaffbb5041946de31&quot;&gt;main/about/test.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7#diff-f0dcd54418e33530389be99bfd45adec4f2d1f54fc7be1c6d97112372c53dbe9&quot;&gt;main/guides/for-plugin-developers.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7#diff-e244fba9fe2c0532f22afaf6857d18eb7c8d12fe256ab0ac5dde18a02b1c9e4f&quot;&gt;main/guides/for-theme-developers.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7#diff-2a115c2b124baec5f5b4a5343fb5699bfc1d1a5616ba858ce3a401075eb41176&quot;&gt;main/guides/providing-content-for-your-demo.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/013ca75a18dd74d6516ebf07dc8139ee7fa0b9f7&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>a5b5b6a0a6017890ef788f554474bbfe939557e3</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/a5b5b6a0a6017890ef788f554474bbfe939557e3" rel="alternate" type="text/html"/>
+<updated>2026-11-26T19:45:47.000Z</updated>
+<title>[i18n] Translate the MCP guide into Hindi (#4745)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a5b5b6a0a6017890ef788f554474bbfe939557e3#diff-75424e8c4394c893a9ca706d23ebab0164245f5ddd6c72a416f42f0adebf5cd2&quot;&gt;main/guides/ai-assistants-mcp.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a5b5b6a0a6017890ef788f554474bbfe939557e3&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>4bcde306a0e66aa9df3f6f4b363815b80e7d2aab</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/4bcde306a0e66aa9df3f6f4b363815b80e7d2aab" rel="alternate" type="text/html"/>
@@ -209,33 +248,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>c13b6b49cff17c60c1b487806d7cbd68f92dbef1</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/c13b6b49cff17c60c1b487806d7cbd68f92dbef1" rel="alternate" type="text/html"/>
-<updated>2026-11-18T11:11:58.000Z</updated>
-<title>[Docs] Show the Xdebug bridge loopback endpoints and correct async startup (#4627)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c13b6b49cff17c60c1b487806d7cbd68f92dbef1#diff-ef72ead84db3b86734c7a03c8db82b265a22cc0b85c3b01c8bc2016a4bc2d607&quot;&gt;developers/07-xdebug/02-getting-started.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/c13b6b49cff17c60c1b487806d7cbd68f92dbef1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>7aeb8b40a13efa4caa2d22a00cacfad78184ff59</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/7aeb8b40a13efa4caa2d22a00cacfad78184ff59" rel="alternate" type="text/html"/>
-<updated>2026-11-17T20:18:51.000Z</updated>
-<title>[Docs] Clarify self-hosting setup and update Portuguese, Spanish, and French translations (#4573)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7aeb8b40a13efa4caa2d22a00cacfad78184ff59#diff-722c8a8a983d94d05fa36a6884b1e41fa618dc64cb3aa0003b8a428b9ff7d930&quot;&gt;developers/23-architecture/18-host-your-own-playground.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/7aeb8b40a13efa4caa2d22a00cacfad78184ff59&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>653c8981b65460aa4755092a49171057407af545</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545" rel="alternate" type="text/html"/>
-<updated>2026-11-17T16:00:51.000Z</updated>
-<title>[Website] Serve WP Cloud static files directly from release folders (#4613)</title>
+<id>b628b45c0b366aec9fc5c18f17efd5feb458afd9</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/b628b45c0b366aec9fc5c18f17efd5feb458afd9" rel="alternate" type="text/html"/>
+<updated>2026-11-19T13:31:52.000Z</updated>
+<title>[i18n] Add Bengali translation for developers/06-apis/javascript-api/09-php-extension-dependencies.md (#4641)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/653c8981b65460aa4755092a49171057407af545&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b628b45c0b366aec9fc5c18f17efd5feb458afd9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
