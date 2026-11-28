@@ -1,7 +1,108 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Git commits under packages/docs/site/docs</title>
-<updated>2026-11-27T06:38:54.976Z</updated>
+<updated>2026-11-28T06:12:46.564Z</updated>
+<entry>
+<id>581f6c217a317fcb1f5d7b766640bbd4114ba5e1</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/581f6c217a317fcb1f5d7b766640bbd4114ba5e1" rel="alternate" type="text/html"/>
+<updated>2026-11-27T18:29:52.000Z</updated>
+<title>[Docs] Fix stale details in the Local Development pages (#4779)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/581f6c217a317fcb1f5d7b766640bbd4114ba5e1#diff-42aa349631775ba8dac2236ede7ee84b43713757756e3f54dfdb3043c3afb414&quot;&gt;developers/05-local-development/02-vscode-extension.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/581f6c217a317fcb1f5d7b766640bbd4114ba5e1#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/581f6c217a317fcb1f5d7b766640bbd4114ba5e1#diff-0dfd5bb23735a8d24f9b456c74c6b7d2d500acdb243a09d5027ddcd9413d1e3a&quot;&gt;developers/05-local-development/intro.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/581f6c217a317fcb1f5d7b766640bbd4114ba5e1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>0a750e94e67f540ceeada366fdad41c31a12b58f</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/0a750e94e67f540ceeada366fdad41c31a12b58f" rel="alternate" type="text/html"/>
+<updated>2026-11-27T16:49:44.000Z</updated>
+<title>[i18n] Link Hypernotes to its bundled source in the native iOS app guide (#4778)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a750e94e67f540ceeada366fdad41c31a12b58f#diff-9c86cee7088aa84e967a0be0cd99e699068d37626aa6d1501601bd87baa357d9&quot;&gt;main/guides/wordpress-native-ios-app.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/0a750e94e67f540ceeada366fdad41c31a12b58f&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>10740869d7a85b964df3940e75ea3cc7efb7f466</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/10740869d7a85b964df3940e75ea3cc7efb7f466" rel="alternate" type="text/html"/>
+<updated>2026-11-27T16:19:49.000Z</updated>
+<title>[i18n] Translate the programmatic Playground CLI guide into Hindi (#4775)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10740869d7a85b964df3940e75ea3cc7efb7f466#diff-785af59cbe1116ab86fc52056cbda4020fbf699314b70129f3eff77a8a798182&quot;&gt;main/guides/programmatic-playground-cli.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/10740869d7a85b964df3940e75ea3cc7efb7f466&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>58565d48b3262ed9a882c7ec53477e7767c5c333</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/58565d48b3262ed9a882c7ec53477e7767c5c333" rel="alternate" type="text/html"/>
+<updated>2026-11-27T16:14:06.000Z</updated>
+<title>[i18n] Translate the Blueprints tutorial page &quot;Build your first Blueprint&quot; into Hindi (#4772)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/58565d48b3262ed9a882c7ec53477e7767c5c333#diff-a41bd28d8464224562a0461e36a602dadd52ecc1542d2748860c5324426b5954&quot;&gt;blueprints/tutorial/03-build-your-first-blueprint.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/58565d48b3262ed9a882c7ec53477e7767c5c333&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>be65e61123329c72f247e448d8804ddbab867682</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/be65e61123329c72f247e448d8804ddbab867682" rel="alternate" type="text/html"/>
+<updated>2026-11-27T16:13:31.000Z</updated>
+<title>[i18n] Translate the Blueprints Resources References page into Hindi (#4771)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/be65e61123329c72f247e448d8804ddbab867682#diff-6b04f1593393085180f3963760a741a9a84b0b2c3ab11a39a9bcf07cb107aae0&quot;&gt;blueprints/04-resources.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/be65e61123329c72f247e448d8804ddbab867682&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>61140b1d1a8ab7fa614cbcfde4ea09386b182ce7</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/61140b1d1a8ab7fa614cbcfde4ea09386b182ce7" rel="alternate" type="text/html"/>
+<updated>2026-11-27T13:31:18.000Z</updated>
+<title>[i18n] Translate the native iOS app guide into Hindi (#4777)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/61140b1d1a8ab7fa614cbcfde4ea09386b182ce7#diff-9c86cee7088aa84e967a0be0cd99e699068d37626aa6d1501601bd87baa357d9&quot;&gt;main/guides/wordpress-native-ios-app.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/61140b1d1a8ab7fa614cbcfde4ea09386b182ce7&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>f851582a46f5550495535ebd9874a1f8c84e4abe</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/f851582a46f5550495535ebd9874a1f8c84e4abe" rel="alternate" type="text/html"/>
+<updated>2026-11-27T13:31:03.000Z</updated>
+<title>[i18n] Translate the PHPUnit guide into Hindi (#4769)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f851582a46f5550495535ebd9874a1f8c84e4abe#diff-dc0ce304a0c3df3ae0b31bcbfdcddd0985a51261c7048db9b3f83d4654cebbbe&quot;&gt;main/guides/phpunit-testing.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f851582a46f5550495535ebd9874a1f8c84e4abe&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>5e96f3f646f930798258d4a6242bc8f661e36663</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/5e96f3f646f930798258d4a6242bc8f661e36663" rel="alternate" type="text/html"/>
+<updated>2026-11-27T12:46:50.000Z</updated>
+<title>[i18n] Translate the Blueprints API Consistency page into Hindi (#4764)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5e96f3f646f930798258d4a6242bc8f661e36663#diff-ad79ead926db1c021577cf21933b5229ebf4f1d080ad9d37d02a012bc1552ce7&quot;&gt;blueprints/07-json-api-and-function-api.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/5e96f3f646f930798258d4a6242bc8f661e36663&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+<id>52d9b1cc6be3a5bef42ceb460dfb70695351bc66</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/52d9b1cc6be3a5bef42ceb460dfb70695351bc66" rel="alternate" type="text/html"/>
+<updated>2026-11-27T12:46:25.000Z</updated>
+<title>[i18n] Translate the Blueprints tutorial page &quot;How to load and run Blueprints&quot; into Hindi (#4749)</title>
+<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/52d9b1cc6be3a5bef42ceb460dfb70695351bc66#diff-7cbcd2c8ad1c4bb1232b2a6d9e5a73838496983845a7e0c163bfd5fa89a9ae3a&quot;&gt;blueprints/tutorial/02-how-to-load-run-blueprints.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/52d9b1cc6be3a5bef42ceb460dfb70695351bc66&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
 <id>258a2ba767f52eedfda615632301f18f089c6df6</id>
 <link href="https://github.com/wordpress/wordpress-playground/commit/258a2ba767f52eedfda615632301f18f089c6df6" rel="alternate" type="text/html"/>
@@ -201,58 +302,11 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/4f4593c94cd3ec0400e9f0e1eb6621224e8fd043&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-<id>f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1" rel="alternate" type="text/html"/>
-<updated>2026-11-20T15:33:34.000Z</updated>
-<title>[Docs] Correct the Blueprint constant default and document CLI workarounds (#4626)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1#diff-a41bd28d8464224562a0461e36a602dadd52ecc1542d2748860c5324426b5954&quot;&gt;blueprints/tutorial/03-build-your-first-blueprint.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1#diff-abc62fbbcc42cc9e9d9a3ab207577740321f0623caeb11a906e25bdd7db05841&quot;&gt;developers/05-local-development/04-wp-playground-cli.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1#diff-f0dcd54418e33530389be99bfd45adec4f2d1f54fc7be1c6d97112372c53dbe9&quot;&gt;main/guides/for-plugin-developers.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f5f0f2d9ff50bd88fb845724caeec59e4ca7c0f1&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>f61bce9d3e204ffa55dd9bad5a1edae58a6cc84b</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/f61bce9d3e204ffa55dd9bad5a1edae58a6cc84b" rel="alternate" type="text/html"/>
-<updated>2026-11-20T13:27:49.000Z</updated>
-<title>[Website] Delete the broken PHP Blueprints demo (#4604)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f61bce9d3e204ffa55dd9bad5a1edae58a6cc84b#diff-00ca4eb07a353768acfbd9cd1dc65c80b0c6b5cf696689080d2626dde96b5579&quot;&gt;main/resources.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/f61bce9d3e204ffa55dd9bad5a1edae58a6cc84b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>9dc3ff81e42a7a00e7038d5ff5145280fc18f4a0</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/9dc3ff81e42a7a00e7038d5ff5145280fc18f4a0" rel="alternate" type="text/html"/>
-<updated>2026-11-20T13:16:16.000Z</updated>
-<title>[i18n] Translate the JSON Blueprint client guide to pt-BR (#4644)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9dc3ff81e42a7a00e7038d5ff5145280fc18f4a0#diff-0d06f0ffac77caa95490442e87c92793f1c9390e4a76d55b886542895584c3a6&quot;&gt;developers/06-apis/javascript-api/04-blueprint-json-in-api-client.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/9dc3ff81e42a7a00e7038d5ff5145280fc18f4a0&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>a76d2ac5316bd4f8dae242fed2f6122cf79b405c</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c" rel="alternate" type="text/html"/>
-<updated>2026-11-19T13:47:55.000Z</updated>
-<title>[docs] Add an Xdebug tracing and profiling guide (#4281)</title>
-<content type="html">&lt;h3&gt;Changed documentation files&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c#diff-5ed0f4e6106ede0030b5e0e46504b90e29e7b2b2c4f3a453f5bba6339cb7c334&quot;&gt;developers/06-apis/javascript-api/07-php-extensions.md&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c#diff-f39cb033d0fc0a592f3bc91a0cabbf1d8aa9234eb5e75402bbd9eb49089555e5&quot;&gt;developers/07-xdebug/03-trace-and-profile.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/a76d2ac5316bd4f8dae242fed2f6122cf79b405c&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-<id>b628b45c0b366aec9fc5c18f17efd5feb458afd9</id>
-<link href="https://github.com/wordpress/wordpress-playground/commit/b628b45c0b366aec9fc5c18f17efd5feb458afd9" rel="alternate" type="text/html"/>
-<updated>2026-11-19T13:31:52.000Z</updated>
-<title>[i18n] Add Bengali translation for developers/06-apis/javascript-api/09-php-extension-dependencies.md (#4641)</title>
+<id>18be972acb8ca7c3b10edca447df333a6343092b</id>
+<link href="https://github.com/wordpress/wordpress-playground/commit/18be972acb8ca7c3b10edca447df333a6343092b" rel="alternate" type="text/html"/>
+<updated>2026-11-20T20:43:34.000Z</updated>
+<title>[i18n] Translate the Contributor Day table lead guide into Hindi (#4670)</title>
 <content type="html">&lt;p&gt;&lt;em&gt;Changed files not available - parent commit outside fetch depth&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/b628b45c0b366aec9fc5c18f17efd5feb458afd9&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;https://github.com/wordpress/wordpress-playground/commit/18be972acb8ca7c3b10edca447df333a6343092b&quot;&gt;View commit on GitHub&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
